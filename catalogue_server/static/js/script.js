@@ -1,3 +1,5 @@
+// LEGACY CODE -- For Reference Only
+
 $(function ()
 {
     $(document).on("submit", ".search-query-form", function (e)
