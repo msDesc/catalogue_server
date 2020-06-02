@@ -1,0 +1,43 @@
+//mixins
+@mixin size($width:100%, $height:100%)
+{
+    width:$width;
+    height:$height;
+}
+@mixin image($url)
+{
+    background: {
+        image:$url;
+        size: contain;
+        position:center;
+        repeat:no-repeat;
+    }
+}
+@mixin respond-to($size,$query:max-width)
+{
+    @media ($query:$size)
+    {
+        @content;
+    }
+}
+@mixin placeholder {
+    &:-moz-placeholder { @content; }
+    &::-moz-placeholder { @content; }
+    &:-ms-input-placeholder { @content; }
+    &::-webkit-input-placeholder { @content; }
+}
+@mixin pseudo($display: block, $position: absolute, $content: ''){
+    content: $content;
+    display: $display;
+    position: $position;
+}
+//%border-outline
+//{
+//    border: none;
+//    outline: none;
+//}
+%in-line
+{
+    display: inline-block;
+    vertical-align: middle;
+}

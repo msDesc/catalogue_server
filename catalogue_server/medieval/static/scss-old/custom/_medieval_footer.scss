@@ -1,0 +1,49 @@
+@import "../default/partials/mixin";
+@import "../default/partials/variables";
+@import "medieval_variables";
+.ft-partner-links--link
+{
+    @extend %in-line;
+    margin:1rem;
+    @include respond-to($mobile)
+    {
+        margin: 0.5rem;
+    }
+}
+.ft-partner-links--bodleian{
+    position: relative;
+    @include size(160px,112px);
+    @include image($bodleian);
+    @include respond-to($mobile)
+    {
+        @include size(112px,112px);
+    }
+    @include respond-to($mobile-xs)
+    {
+        @include size(128px,80px);
+    }
+}
+.ft-partner-links--oxford
+{
+    position: relative;
+    @include image($ox);
+    @include size(110px,110px);
+    @include respond-to($mobile)
+    {
+        @include size(80px,80px);
+    }
+}
+.ft-partner-links--tolkien
+{
+    position: relative;
+    @include size(304px,96px);
+    @include image($tolkien);
+    @include respond-to($mobile)
+    {
+        @include size(260px,80px);
+    }
+    @include respond-to($mobile-xs)
+    {
+        @include size(200px, 60px);
+    }
+}

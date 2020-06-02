@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description"
+          content="This catalogue provides descriptions of Western medieval manuscripts in the Bodleian
+              Library, and of medieval manuscripts in some Oxford colleges.">
+    <link rel="shortcut icon" type="image/x-icon" href="/static/medieval/img/favicon.ico" />
+        <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+        <!--[if IEMobile]>
+        <meta http-equiv="cleartype" content="on">
+        <![endif]-->
+
+    <title>{% block title %}Catalogue of Western Medieval Manuscripts in Oxford Libraries{% endblock %}</title>
+    <link href="/static/medieval/css/style.css" rel="stylesheet">
+</head>
+<body class="sticky-body">
+    <header class="hero is-masthead">
+        <div class="hero-head">
+            <nav class="navbar">
+                <div class="container">
+                    <div class="navbar-brand">
+                        <a class="navbar-item" href="/">
+                            <img src="/static/medieval/img/logo.svg" class="catalogue-logo"/>
+                        </a>
+                    </div>
+                    <div class="navbar-menu">
+                        <div class="navbar-end">
+                            <div class="navbar-item">
+                                <a class="active" href="/">Home</a>  <!-- menu-item-active -->
+                            </div>
+                            <div class="navbar-item">
+                                <a href="/about">About</a>
+                            </div>
+                            <div class="navbar-item">
+                                <a href="/help">Help</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                <h3 class="title is-size-3-desktop is-size-5-mobile is-size-4-table is-paddingless strapline has-text-white">A catalogue of Western manuscripts at the Bodleian Libraries and selected Oxford colleges</h3>
+                {% include "blocks/search-bar.html" %}
+                <div>
+                    <h4 class="subtitle is-5 has-text-weight-bold has-text-white is-marginless">OR BROWSE BY</h4>
+                    <div class="columns browse-buttons">
+                        <div class="column is-one-quarter">
+                            <a class="button browse-button {% if result_type == "manuscript" %}browse-button-active{% endif %} is-large is-fullwidth" data-page="manuscript" href="/search?f%5Btype%5D%5B%5D=manuscript">MANUSCRIPTS</a> <!-- browse-item-active -->
+                        </div>
+                        <div class="column is-one-quarter">
+                            <a class="button browse-button {% if result_type == "work" %}browse-button-active{% endif %} is-large is-fullwidth" data-page="work"  href="/search?f%5Btype%5D%5B%5D=work">WORKS</a>
+                        </div>
+                        <div class="column is-one-quarter">
+                            <a class="button browse-button {% if result_type == "person" %}browse-button-active{% endif %} is-large is-fullwidth" data-page="person" href="/search?f%5Btype%5D%5B%5D=person">PEOPLE</a>
+                        </div>
+                        <div class="column is-one-quarter">
+                            <a class="button browse-button {% if result_type == "place" %}browse-button-active{% endif %} is-large is-fullwidth" data-page="place" href="/search?f%5Btype%5D%5B%5D=place">PLACES</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main class="section is-paddingless container sticky-content">
+            {% block content %}{% endblock %}
+    </main>
+    <footer class="footer">
+        <div class="ft-partner-links ft-footer-block">
+            <a target="_blank" href="http://www.bodleian.ox.ac.uk"  class="ft-partner-links--link ft-partner-links--bodleian"></a><!-- Bodleian Libraries, University of Oxford-->
+            <a target="_blank" href="http://www.ox.ac.uk"           class="ft-partner-links--link ft-partner-links--oxford"></a><!-- University of Oxford -->
+            <a target="_blank" href="http://www.tolkientrust.org/"  class="ft-partner-links--link ft-partner-links--tolkien"></a><!-- The Tolkien Trust -->
+        </div>
+
+        <div class="ft-footer-menu ft-footer-block">
+            <a title="Accessibility"  href="/accessibility">Accessibility</a>
+            <a title="Privacy Policy" href="https://glam.web.ox.ac.uk/privacy-policy-bodleian-libraries-website" target="_blank" rel="noopener">Privacy Policy</a>
+            <a title="Terms of use"   href="/terms">Terms of use</a>
+            <a title="Contact us"     href="/contact">Contact us</a>
+        </div>
+    </footer>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/parsley.js/2.7.2/parsley.min.js" integrity="sha256-7mHTLf8pURHK69kuuq4rqUGNd3LS1fs54+uR/CmjPs0=" crossorigin="anonymous"></script>
+<script src="/static/shared/js/application.js"></script>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-99837198-1', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>

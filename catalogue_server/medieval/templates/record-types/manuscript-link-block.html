@@ -1,0 +1,11 @@
+{% if record.link_manuscripts_smni %}
+    <dt>Manuscript{{ "s" if record.link_manuscript_smni | length > 1 else "" }}</dt>
+    <dd>
+        <ul>
+            {% for ms in record.link_manuscripts_smni %}
+                {% set details = ms.split("|") %}
+                <li><a href="{{ details[0] }}">{{ details[1] }}</a>&mdash;{{ details[2] }}</li>
+            {% endfor %}
+        </ul>
+    </dd>
+{% endif %}

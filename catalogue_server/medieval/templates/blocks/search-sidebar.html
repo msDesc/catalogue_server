@@ -1,0 +1,11 @@
+{% if facets %}
+<div>
+    <h4 class="title is-size-5">Limit results by</h4>
+    {% for facet, values in facets.items() if facet_config[facet]["sidebar"] %}
+        {% set cfg = facet_config[facet] %}
+        {% if values %}
+        {% include "blocks/facet.html" %}
+        {% endif %}
+    {% endfor %}
+</div>
+{% endif %}

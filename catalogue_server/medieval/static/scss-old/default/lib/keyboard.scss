@@ -1,0 +1,208 @@
+@import 'default/partials/_mixin';
+@import 'default/partials/_variables';
+
+
+#keyboardInputMaster {
+    position:absolute;
+    /*
+    border-top:2px solid #eeeeee;
+    border-right:2px solid #6e6e6e;
+    border-bottom:2px solid #6e6e6e;
+    border-left:2px solid #eeeeee;
+    */
+    color:#000000;
+    background-color:#282828;
+    border: 1px solid #484848;
+    text-align:left;
+    z-index:1000000;
+    width:auto;
+    margin:0px;
+    font:normal 11px Arial,sans-serif;
+    line-height:1;
+    border-spacing: 10px;
+}
+
+#keyboardInputMaster .space
+{
+    width: 27.5rem;
+    @include respond-to($mobile)
+    {
+        width: 10rem;
+    }
+}
+
+.keyboardInputCenter td:last-child
+{
+    width: 7rem;
+}
+
+#keyboardInputMaster select
+{
+    background: transparent!important;
+    color: #fff!important;
+}
+#keyboardInputMaster select option
+{
+    background-color: #fff!important;
+}
+#keyboardInputMaster tbody tr td div#keyboardInputLayout table tbody tr td {
+    border: 1px solid #2f2f2f;
+    padding: 0 0.5em;
+    min-width: 3em;
+    height: 3em;
+    line-height: 3em;
+
+    @include respond-to($mobile)
+    {
+        min-width: 2em;
+        height: 2em;
+        line-height: 2em;
+    }
+
+    @include respond-to($mobile)
+    {
+        min-width: 1.5em;
+        height: 1.5em;
+        line-height: 1.5em;
+        font-size: 0.75rem;
+    }
+
+    vertical-align: top;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #eee;
+    text-align: center;
+    background: #444;
+    cursor: pointer;
+    overflow: hidden;
+    -moz-user-focus: ignore;
+    font-size: 1.2rem;
+}
+#keyboardInputMaster tbody tr td div#keyboardInputLayout table tbody tr td:not([disabled]):hover {
+    background: #eee;
+    background-image: -webkit-linear-gradient(-90deg, #4f4f4f 0%, #444 100%);
+    background-image:         linear-gradient(-90deg, #4f4f4f 0%, #444 100%);
+}
+#keyboardInputMaster tbody tr td div#keyboardInputLayout table tbody tr td:not([disabled]):active {
+    background: #ddd;
+    background-image: -webkit-linear-gradient(-90deg, #555 0%, #5f5f5f 100%);
+    background-image:         linear-gradient(-90deg, #555 0%, #5f5f5f 100%);
+}
+
+#keyboardInputMaster * {
+    color:#000000;
+    background:transparent;
+    font:normal 1.3rem Arial,sans-serif;
+    margin:0px;
+    padding:0px;
+    border:0px none;
+    outline:0px;
+    vertical-align:baseline;
+}
+
+#keyboardInputMaster thead tr th {
+    text-align:left;
+    padding:3px 5px 2px 4px;
+    background-color:inherit;
+}
+#keyboardInputMaster thead tr th select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    border-radius: 0;
+    -moz-border-radius:0px;
+    cursor: pointer;
+    color: #fff;
+    position: relative;
+    display: block;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    background: transparent;
+    border: none;
+    font-size: 14px;
+    height: 29px;
+    padding: 5px; /* If you add too much padding here, the options won't show in IE */   
+    width: 25%;
+    z-index: 99;
+}
+#keyboardInputMaster thead tr th select::-ms-expand {
+    display: none;
+}
+
+#keyboardInputMaster thead tr th label
+{
+    display: block!important;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid #fff;
+
+
+    @include respond-to($mobile)
+    {
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 5px solid #fff;
+        left: 65px;
+    }
+    top: 23px;
+    left: 80px;
+    z-index: 98;
+}
+
+
+#keyboardInputMaster thead tr th label input {
+    width:12px;
+    height:12px;
+    vertical-align:middle;
+}
+#keyboardInputMaster thead tr td {
+    text-align:right;
+    vertical-align:middle;
+    padding:3px 4px 2px 5px;
+}
+#keyboardInputMaster thead tr td span {
+    padding:1px 4px;
+    font-weight:bold;
+    color: #fff;
+    cursor:pointer;
+}
+
+#keyboardInputMaster tbody tr td {
+    text-align:left;
+    padding:0px 4px 3px 4px;
+}
+#keyboardInputMaster tbody tr td div {
+    text-align:center;
+    position:relative;
+    height:0px;
+}
+#keyboardInputMaster tbody tr td div#keyboardInputLayout {
+    height:auto;
+}
+#keyboardInputMaster tbody tr td div#keyboardInputLayout table {
+    height:20px;
+    white-space:nowrap;
+    width:100%;
+    border-collapse:separate;
+    border-spacing:0px;
+}
+#keyboardInputMaster tbody tr td div#keyboardInputLayout table.keyboardInputCenter {
+    width:auto;
+    margin:0px auto;
+}
+
+#keyboardInputMaster tbody tr td div var {
+    position:absolute;
+    bottom:0px;
+    right:0px;
+    font-weight:bold;
+    font-style:italic;
+    color:#444444;
+}
+
+.keyboardInputInitiator {
+    margin-left:3px;
+    vertical-align:middle;
+    cursor:pointer;
+}

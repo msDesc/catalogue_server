@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h3 class="title is-size-3-desktop is-size-4-mobile is-marginless">
+        {{ record.title }}
+    </h3>
+    <div class="content">
+        {% if record.type == "manuscript" %}
+            {% include "record-types/manuscript-record.html" %}
+        {% elif record.type == "work" %}
+            {% include "record-types/work-record.html" %}
+        {% elif record.type == "person" %}
+            {% include "record-types/person-record.html" %}
+        {% elif record.type == "place" %}
+            {% include "record-types/place-record.html" %}
+        {% endif %}
+    </div>
+{% endblock %}

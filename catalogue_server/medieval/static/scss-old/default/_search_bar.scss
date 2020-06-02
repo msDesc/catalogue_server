@@ -1,0 +1,132 @@
+@import 'partials/variables';
+@import 'partials/mixin';
+
+#search-bar-container
+{
+    position: relative;
+    @include size(100%, 60px);
+    background: #fff;
+    border-radius: 10px;
+    margin: auto;
+    margin-bottom: 50px;
+    @include respond-to($mobile)
+    {
+        height: 50px;
+    }
+    .search-bar-items
+    {
+        position: relative;
+        height: 100%;
+    }
+    .search_q
+    {
+        position: relative;
+        @include size(calc(100% - 175px),100%);
+        //@extend %border-outline;
+        @extend %in-line;
+        padding: 0.7rem 0.7rem 0.7rem 1.4rem;
+        bottom: 0;
+        top: 0;
+        border-radius: 13px 0 0 13px; 
+        font-size: 24px;
+        @include respond-to($mobile)
+        {
+            font-size: 16px;
+        }
+        -webkit-box-shadow:none;
+        box-shadow: none;
+        background: transparent;
+        @include placeholder {
+            font-style: italic;
+            font-size: 20px;
+            height: 100%;
+            @include respond-to($mobile)
+            {
+                font-size: 12px;
+            }
+//            line-height: 50px;
+        }
+        @include respond-to($mobile)
+        {
+            width: calc(100% - 120px);
+        }
+        @include respond-to($mobile-xs)
+        {
+            padding: 0.5rem 0.5rem 0.5rem 1.2rem;
+        }
+        &:-webkit-autofill {
+            -webkit-box-shadow: 0 0 0px 1000px white inset!important;
+            -moz-box-shadow: 0 0 0 100px #fff inset!important;
+            box-shadow: 0 0 0 100px #fff inset!important;
+        }
+    }
+
+    .search_q:focus
+    {
+        box-shadow: none;
+        -webkit-box-shadow:none;
+        //@extend %border-outline;
+    }
+    .search-keyboard
+    {
+        @include image($keyboard);
+        position: absolute;
+        @include size(48px, 60px);
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        right: 95px;
+        @include respond-to($mobile)
+        {
+            width: 35px;
+            @include size(35px, 50px);
+            right: 65px;
+            
+        }
+    }
+    .search-keyboard::before
+    {
+        @include pseudo();
+        @include size(5px, 30px);
+        border-right: 2px solid #e2e2e2;
+        -moz-transform: skew(-35deg);
+        -webkit-transform: skew(-35deg);
+        transform: skew(-35deg);
+        top: 0;
+        bottom: 0;
+        margin: auto;
+        left: -20px;
+    }
+    .search-button-icon
+    {
+        @include image($search-icon);
+        position: absolute;
+        @include size(37px,100%);
+        //@extend %border-outline;
+        background-color: transparent;
+        right: 25px;
+        @include respond-to($mobile)
+        {
+            width: 30px;
+        }
+    }
+    .advanced-button-button
+    {
+        position: absolute;
+        @include size(192px,auto);
+        bottom: -32px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        font-size: 18px;
+        font-weight: 600;
+        text-align: center;
+        text-decoration: underline;
+        color: #5fabed;
+        padding: 0 5px 5px 5px;
+        @include respond-to($mobile)
+        {
+            font-size: 15.5px;
+        }
+    }
+}

@@ -1,0 +1,48 @@
+---
+common:
+  debug: yes
+
+solr:
+  server: http://solr01-qa.bodleian.ox.ac.uk:8983/solr/medieval-mss
+  results_per_page: 20
+  facet_fields:
+    roles_sm:
+      name: "Roles"
+      sidebar: yes
+      expanded: yes
+    lang_sm:
+      name: "Language"
+      sidebar: yes
+    ms_date_sm:
+      name: "Century"
+      sidebar: yes
+    ms_origin_sm:
+      name: "Origin"
+      sidebar: yes
+    ms_materials_sm:
+      name: "Materials"
+      sidebar: yes
+    wk_subjects_sm:
+      name: "Subjects"
+      sidebar: yes
+    ms_deconote_b:
+      name: "Decoration"
+      sidebar: yes
+    ms_digitized_s:
+      name: "Digital facsimile online"
+      sidebar: yes
+    ms_repository_s:
+      name: "Repository"
+      sidebar: yes
+    ms_collection_s:
+      name: "Collection"
+      sidebar: yes
+      sort: index
+    alpha_title:
+      name: "Starts with"
+      sidebar: no
+  search_fields:
+    - pk
+    - title
+    - ms_summary_sm
+    - ms_digitized_s

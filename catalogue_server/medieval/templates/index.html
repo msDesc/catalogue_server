@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}
+    Catalogue of Western Medieval Manuscripts in Oxford Libraries
+{% endblock %}
+
+{% block content %}
+<div class="has-text-centered">
+    <h3 class="title">Collections</h3>
+    <div class="collection-grid">
+    {% for collection in collections %}
+        <div class="collection-item">
+            <a href="/search?f[ms_collection_s][]={{ collection|e }};f[type][]=manuscript">{{ collection|e }}</a>
+        </div>
+
+    {% endfor %}
+    </div>
+</div>
+{% endblock %}

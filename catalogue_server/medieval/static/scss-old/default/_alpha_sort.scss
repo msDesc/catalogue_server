@@ -1,0 +1,54 @@
+@import 'partials/mixin';
+@import 'partials/variables';
+#alpha-sort-block
+{
+    width: 100%;
+    position: relative;
+    display: block;
+    margin-top: -40px;
+    font-size: 0;
+    .alpha-sort-letter
+    {
+        @extend %in-line;
+        position: relative;
+        @include size(33px,29px);
+        line-height: 17px;
+        font-size: 18px;
+        color: #337ab7;
+        background-color: #fff;
+        padding: 5px 10px;
+        cursor: pointer;
+        text-align: center;
+        @include respond-to($desktop){
+            font-size: 16px;
+            font-weight: 600;
+        }
+    }
+
+    .alpha-sort-letter:not(:last-child):before
+    {
+        @include pseudo;
+        width: 1px;
+        height: 10px;
+        background-color: lightgrey;
+        right: 0;
+        bottom: 10px;
+    }
+
+    #alpha-sort-title
+    {
+        width: 50%;
+        text-align: center;
+        position: relative;
+        margin: auto;
+        margin-bottom: 5px;
+
+        @include respond-to($desktop){
+            font-size: 18px;
+        }
+        @include respond-to($mobile)
+        {
+            margin-top: 40px;
+        }
+    }
+}

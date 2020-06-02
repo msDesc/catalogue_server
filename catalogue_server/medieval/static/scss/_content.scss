@@ -1,0 +1,37 @@
+/* Overrides for the descriptions in the 'content' block */
+
+.content span.tei-label {
+  font-weight: bold;
+}
+
+.msItem, .msPart {
+  border-bottom: 1px solid $grey-lighter;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  h2 {
+    font-size: $size-4;
+    margin-top: 1rem !important;
+  }
+  h3 {
+    font-size: $size-5;
+    margin-top: 0 !important;
+  }
+  h4 {
+    font-size: $size-6;
+  }
+
+  .author {
+    font-variant: small-caps;
+  }
+}
+
+.content .title, .content .tei-title {
+  color: inherit;
+  font-size: inherit;
+  font-weight: normal;
+  line-height: normal;
+
+  &.italic {
+    font-style: italic;
+  }
+}

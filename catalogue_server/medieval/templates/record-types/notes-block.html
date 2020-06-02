@@ -1,0 +1,10 @@
+{% if record.note_smni %}
+    <dt>Note{{ "s" if record.note_smni | length > 1 else "" }}</dt>
+    <dd>
+        <ul>
+            {% for note in record.note_smni %}
+                <li>{{ note }}</li>
+            {% endfor %}
+        </ul>
+    </dd>
+{% endif %}

@@ -1,0 +1,54 @@
+@import 'partials/variables';
+@import 'partials/mixin';
+
+.nav-menu
+{
+    position: relative;
+    @include size(100%, 92px);
+    right: 0;
+    top: 16px;
+    .menu-item
+    {
+        position: relative;
+        @include size(95px, 32px);
+        @extend %in-line;
+        color: #fff;
+        text-decoration: none;
+        font-size: 24px;
+        font-weight: bold;
+        float: right;
+        top: 16px;
+        text-align: center;
+        @include respond-to($mobile)
+        {
+            font-size: 18px;
+            width: 80px;
+        }
+        @include respond-to($mobile-xs)
+        {
+            font-size: 14px;
+            width: 55px;
+        }
+    }
+    .menu-item-active:not(:last-child)
+    {
+        border-bottom: 3px solid #fff;
+    }
+    .nav-logo
+    {
+        position: absolute;
+        @include size(200px, 80px);
+        @include image($logo);
+        left: 0;
+        float: left;
+        padding: 0;
+        @include respond-to($mobile)
+        {
+            width: 160px;
+        }
+        @include respond-to($mobile-xs)
+        {
+            width: 110px;
+        }
+    }
+}

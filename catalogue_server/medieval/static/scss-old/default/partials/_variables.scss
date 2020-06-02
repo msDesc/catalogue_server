@@ -1,0 +1,17 @@
+//default font-family
+$family:'PT Sans', sans-serif;
+
+//media queries vars
+$mobile-xs: 540px;
+$mobile:    768px;
+$desktop:   1250px;
+
+//images
+$header-bg:     url("/static/img/overlay-header.jpg");//background colour top&bott
+$search-icon:   url("/static/img/search-icon.png");//search icon
+$logo:          url("/static/img/logo.svg");//website logo
+$keyboard:      url("/static/img/keyboard-icon.png");//keyboard icon
+
+//partners url images
+$bodleian:  url("/static/img/bodleian.svg");//bodleian library logo
+$ox:        url("/static/img/ox-logo.gif");//Oxford Uni logo

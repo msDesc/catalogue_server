@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div id="static-page">
+        <div class="contact-us-block">
+            <h2>We would love to hear from you!</h2>
+            <p>Have a question about our website? You would like to give us your feedback? Drop us a line and we will
+               get back to you as soon as we can.</p>
+            <p>How are we using your feedback? See our <a
+                    href="https://glam.web.ox.ac.uk/glam-website-feedback-form-privacy-notice" target="_blank"
+                    rel="noopener">privacy policy</a>.</p>
+        </div>
+        <div class="contact-us-block">
+            <p class="contact-right-block-title">We need some information about you so we know where to reply to.</p>
+            <div class="contact-top-block">
+                <div class="contact-blocks">
+                    <div class="contact-label">
+                        <label for="subject">Subject (optional)</label>
+                    </div>
+                    <div class="contact-input">
+                        <input type="text" name="subject" tabindex="1" id="contact-subject">
+                    </div>
+                </div>
+
+                <div class="contact-blocks">
+                    <div class="contact-label">
+                        <label for="fullname" class="contact-label-name">Full name <b>*</b><i>(required)</i></label>
+                    </div>
+                    <div class="contact-input">
+                        <input type="text" name="fullname" tabindex="2" id="contact-name" required
+                               data-parsley-trigger="change">
+                    </div>
+                </div>
+
+                <div class="contact-blocks">
+                    <div class="contact-label">
+                        <label for="from" class="contact-label-email">Email address <b>*</b><i>(required)</i></label>
+                    </div>
+                    <div class="contact-input">
+                        <input type="email" name="from" tabindex="3" id="contact-email" required
+                               data-parsley-trigger="change">
+                    </div>
+                </div>
+
+                <div class="contact-blocks">
+                    <div class="contact-label">
+                        <label for="message" class="contact-label-message">Message <b>*</b><i>(required)</i></label>
+                    </div>
+                    <div class="contact-input">
+                        <textarea name="message" tabindex="4" rows="4" id="contact-message" required
+                                  data-parsley-trigger="keyup" data-parsley-minlength="10"></textarea>
+                    </div>
+                </div>
+            </div>
+            <input type="text" id="contact-miere" name="miere" value="">
+            <div class="contact-bottom-block">
+                <button type="submit" class="btn btn-primary" tabindex="6" id="submit-email">Send</button>
+            </div>
+        </div>
+    </div>
+{% endblock %}

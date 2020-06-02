@@ -1,0 +1,9 @@
+{% macro format_facet_value(value) %}
+    {% if value == "true" %}
+    {{ "Yes" }}
+    {% elif value == "false" %}
+    {{ "No" }}
+    {% else %}
+    {{ value }}
+    {% endif %}
+{% endmacro %}

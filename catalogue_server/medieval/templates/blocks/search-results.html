@@ -1,0 +1,28 @@
+<div>
+    {% for result in results %}
+        <div class="search-result columns">
+            <div class="column">
+                <h4 class="title is-size-5 is-marginless">
+                    {% if result.ms_digitized_s == "Yes" %}
+                        <span class="icon has-text-info" title="Full digital facsimile available online">
+                            <i class="fas fa-atlas"></i>
+                        </span>
+                    {% elif result.ms_digitized_s == "Selected pages only" %}
+                        <span class="icon has-text-info" title="Selected pages available online">
+                            <i class="fas fa-file-alt"></i>
+                        </span>
+                    {% endif %}
+                    <a href="/catalog/{{ result.pk }}">{{ result.title }}</a>
+                </h4>
+                {% if result.ms_summary_sm %}
+                    <dl>
+                        <dt>Contents</dt>
+                        {% for desc in result.ms_summary_sm %}
+                            <dd>{{ desc }}</dd>
+                        {% endfor %}
+                    </dl>
+                {% endif %}
+            </div>
+        </div>
+    {% endfor %}
+</div>

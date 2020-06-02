@@ -1,0 +1,95 @@
+.individual-item
+{
+    & *:not(h5):not(h4):not(h3):not(h2):not(h1)
+    {
+        font-size: 17px;
+    }
+    h1
+    {
+        font-size: 28px;
+    }
+    h2
+    {
+        font-size: 24px;
+    }
+    h3
+    {
+        font-size: 20px;
+    }
+    h4
+    {
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    .bold, .tei-label, .label, h5, h4, h3, h2, h1
+    {
+        font-weight: 700;
+    }
+    .super
+    {
+        position: relative;
+        display: inline-block;
+        font-size: small;
+        top: -9px;
+    }
+    .tei-italic,.italic
+    {
+        font-style: italic;
+    }
+
+    .layoutDesc
+    {
+        margin: 10px 0;
+    }
+    .tei-label
+    {
+        height: 18px;
+    }
+    .nestedmsItem {
+        margin-left: 1rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid #eaeaea;
+        margin-bottom: 1rem;
+    }
+    .msItem,.msPart
+    {
+        border-bottom: 1px solid #eaeaea;
+        margin-bottom: 15px;
+        padding-bottom: 15px;
+    }
+
+    .secFol .italic
+    {
+        font-style: normal;
+    }
+    .support, .form, .extent, .dimensions, .foliation, .condition 
+    {
+        margin-top: 5px;
+    }
+    p.note:last-of-type {
+        margin: 0;
+    }
+
+
+    .additional ul.listBibl
+    {
+        padding: 0;
+    }
+
+    .small-caps, .author, .translator
+    {
+        font-variant: small-caps;
+    }
+    
+    p,.seg,.item,.head,.physDesc-p,.tei-title,.locus,.note,.decoNote-list,.decoNote,.item-number
+    {
+        margin: 0 0 5px;
+    }
+    .incipit,.explicit,.rubric, .finalRubric,.textLang,
+    .origPlace,.secFol,.objectDesc,.additional,.colophon,.origin, .msName,
+    .author,.bibl,.orgName,#zotero-bibliography-text,.origDate,.origPlace,.additions, .coveragewarning
+    {
+        margin-bottom: 5px;
+    }
+}

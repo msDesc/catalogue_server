@@ -1,0 +1,36 @@
+@import 'partials/variables';
+@import 'partials/mixin';
+
+body, html
+{
+    height: 100%;
+    font-size: 17px;
+    font-family: $family;
+    padding: 0;
+    @include respond-to($mobile)
+    {
+        font-size: 15px;
+    }
+}
+
+#wrapper {
+    position: relative; 
+    min-height:100%; 
+    height: auto !important; 
+    padding-bottom: 216px;
+}
+
+.header-container,
+#wrapper-body
+{
+    width: 1220px;
+    padding-left: 20px;
+    padding-right: 20px;
+    @include respond-to($desktop)
+    {
+        width: 100%;
+    }
+    
+}
+form{@include size();}
+.rtl{text-align: right;}

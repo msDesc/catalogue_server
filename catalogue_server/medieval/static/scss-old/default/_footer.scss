@@ -1,0 +1,41 @@
+@import "partials/mixin";
+@import "partials/variables";
+
+footer {
+    position: absolute;
+    @include size(100%, 216px);//width, height
+    display: block;
+    bottom: 0;
+    left: 0;
+    background:$header-bg repeat-x;
+}
+.ft-footer-block
+{
+    @include size;
+    display: block;
+    margin:auto;
+    text-align: center;
+}
+.ft-footer-menu a
+{
+    position: relative;
+    @extend %in-line;
+    font-size: 17px;
+    color: #fff;
+    margin: 0 13px;
+    margin-top: 18px;
+    &:hover
+    {
+        text-decoration: none;
+    }
+    
+    @include respond-to($desktop)
+    {
+        margin: 16px;
+    }
+    @include respond-to($mobile)
+    {
+        margin: 5px;
+        font-size: 14px;
+    }
+}

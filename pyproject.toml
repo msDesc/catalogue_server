@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "catalogue_server"
+version = "0.1.0"
+description = ""
+authors = ["Andrew Hankinson <andrew.hankinson@bodleian.ox.ac.uk>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+sanic = "^19.12.2"
+jinja2 = "^2.11.1"
+pysolr = "^3.8.1"
+pyyaml = "^5.3.1"
+gunicorn = "^20.0.4"
+
+[tool.poetry.dev-dependencies]
+ipython = "^7.13.0"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

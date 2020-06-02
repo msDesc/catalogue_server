@@ -1,0 +1,11 @@
+{% if record.link_works_smni %}
+    <dt>Author of</dt>
+    <dd>
+        <ul>
+            {% for work in record.link_works_smni %}
+                {% set details = work.split("|") %}
+                <li><a href="{{ details[0] }}">{{ details[1] }}</a></li>
+            {% endfor %}
+        </ul>
+    </dd>
+{% endif %}

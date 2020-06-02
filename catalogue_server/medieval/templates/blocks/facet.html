@@ -1,0 +1,28 @@
+{% import "macros/facet-macros.html" as facet_macros %}
+
+<div class="card is-fullwidth">
+    <div class="card-header">
+        <h3 class="title is-size-5 card-header-title is-marginless">
+            {{ cfg["name"] }}
+        </h3>
+        <a class="card-header-icon card-toggle">
+            <i class="fa fa-angle-down"></i>
+        </a>
+    </div>
+    <div id="{{ facet }}" class="card-content {% if not cfg['expanded'] %}is-hidden{% endif %}">
+        <div class="panel-body">
+            <ul class="facet-values">
+            {% for name, number in values.items() %}
+                <li class="columns">
+                    <span class="facet-label column is-two-thirds">
+                        <a href="#">{{ facet_macros.format_facet_value(name) }}</a>
+                    </span>
+                    <span class="facet-count column">
+                        {{ number }}
+                    </span>
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>

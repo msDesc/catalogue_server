@@ -1,0 +1,13 @@
+{% if record.link_geo_smni %}
+    <dt>Location</dt>
+    <dd>
+        <ul>
+        {% for loc in record.link_geo_smni %}
+            {% set details = loc.split("|") %}
+            <li>
+                <a href="{{ details[0] }}">{{ details[1] }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </dd>
+{% endif %}

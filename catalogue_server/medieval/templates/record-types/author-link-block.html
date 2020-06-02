@@ -1,0 +1,11 @@
+{% if record.link_author_smni %}
+    <dt>Author{{ "s" if record.link_author_smni | length > 1 else "" }}</dt>
+    <dd>
+        <ul>
+            {% for auth in record.link_author_smni %}
+                {% set details = auth.split("|") %}
+                <li><a href="{{ details[0] }}">{{ details[1] }}</a></li>
+            {% endfor %}
+        </ul>
+    </dd>
+{% endif %}

@@ -1,0 +1,50 @@
+<nav class="level">
+    <div class="level-left">
+        <div class="level-item">
+            {% if pagination.prev_page_url %}
+            <a href="{{ pagination.prev_page_url }}">
+                <span class="icon">
+                    <i class="fas fa-chevron-left"></i>
+                </span>
+                Previous
+            </a>
+            &nbsp;|&nbsp;
+            {% endif %}
+            <span>Result {{ pagination.start }}&ndash;{{ pagination.end }} of {{ "{:,}".format(pagination.hits) }}</span>
+            {% if pagination.next_page_url %}
+            &nbsp;|&nbsp;
+            <a href="{{ pagination.next_page_url }}">
+                 Next
+                <span class="icon">
+                    <i class="fas fa-chevron-right"></i>
+                </span>
+            </a>
+            {% endif %}
+        </div>
+    </div>
+    <div class="level-right">
+        <div class="level-item">
+            <div class="field is-grouped">
+                <div class="control">
+                    <div class="select">
+                        <select id="sort-control-dropdown">
+                            <option value="score desc, sort_title asc">Sort by Relevance</option>
+                            <option value="sort_title asc">Sort by Title</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="control">
+                    <div class="select">
+                        <select id="page-size-control-dropdowns">
+                            <option value="20">20 per page</option>
+                            <option value="40">40 per page</option>
+                            <option value="100">100 per page</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</nav>

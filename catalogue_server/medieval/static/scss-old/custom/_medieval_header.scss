@@ -1,0 +1,27 @@
+@import '../default/partials/variables';
+@import '../default/partials/mixin';
+
+.wrapper-header
+{
+    .strapline {
+        text-align: center;
+        color: #fff;
+        font-size: 26px;
+        font-weight: 600;
+        margin-bottom: 7px;
+        margin-top: 32px;
+        @include respond-to($desktop)
+        {
+            font-size: 19.5px;
+        }
+        @include respond-to($mobile)
+        {
+            font-size: 2vw;
+        }
+
+        @include respond-to($mobile-xs)
+        {
+            font-weight: 500;
+        }
+    }
+}

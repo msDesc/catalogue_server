@@ -1,0 +1,56 @@
+@media print
+{
+    @page {
+        size: A4; 
+    }
+    body
+    {
+        margin: 2.5mm!important;
+        page-break-after: always;  
+
+    }
+    *{
+        font-size: 16px!important;
+        line-height: 1.3!important;
+    }
+    footer, header, .pagination,#sortAndPerPage,
+    #appliedParams, #previousNextDocument,
+    #alpha-sort-block,#alpha-sort-title,.panel-heading,
+    .document-metadata, #wrapper-body:after
+    {
+        display:none!important;
+    }
+    a:link { color: #06c; }
+    #documents .document 
+    {
+        border: none;
+        margin: 0;
+    }
+    a:link:after, a:visited:after { content:""; }
+
+    #wrapper
+    {
+        padding: 0!important;
+    }
+    #wrapper-body
+    {
+        margin: 0!important;
+        width: 100%!important;
+    }
+
+    .individual-item
+    {
+        .super
+        {
+            font-size: smaller!important;
+        }
+        h1
+        {
+            font-size: 2.7rem!important;
+        }
+        h2, h3 {
+            break-after:always;
+            font-size: 28px!important;
+        }
+    }
+}

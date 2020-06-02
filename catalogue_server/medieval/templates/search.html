@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% if not results %}
+        {% include "blocks/no-results.html" %}
+    {% else %}
+        <div class="columns">
+            <div class="column is-one-quarter">
+                {% include "blocks/search-sidebar.html" %}
+            </div>
+            <div class="column">
+                {% include "blocks/search-info.html" %}
+                {% include "blocks/search-results.html" %}
+            </div>
+        </div>
+    {% endif %}
+{% endblock %}

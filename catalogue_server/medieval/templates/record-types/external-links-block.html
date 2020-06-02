@@ -1,0 +1,11 @@
+{% if record.link_external_smni %}
+    <dt>External link{{ "s" if record.link_external_smni | length > 1 else "" }}</dt>
+    <dd>
+        <ul>
+            {% for link in record.link_external_smni %}
+                {% set details = link.split("|") %}
+                <li><a href="{{ details[0] }}">{{ details[1] }}</a></li>
+            {% endfor %}
+        </ul>
+    </dd>
+{% endif %}

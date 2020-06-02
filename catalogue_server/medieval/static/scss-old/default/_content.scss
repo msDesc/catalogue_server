@@ -1,0 +1,153 @@
+@import 'partials/mixin';
+@import 'partials/variables';
+#wrapper-body
+{
+    position: relative;
+    margin-bottom: 24px;
+
+    .browse-page
+    {
+        margin-top: 62px;
+        width: 70%;
+        float:right;
+        @include respond-to($mobile)
+        {
+            margin-top: 0px;
+            width: 100%;
+            float: none;
+            padding-bottom: 0px!important;
+        }
+    }
+    .content.tei-body ul
+    {
+        list-style: none;
+    }
+    .home-page
+    {
+        width: 100%;
+    }
+    .empty-content
+    {
+        width: 100%!important;
+        float: none!important;
+    }
+    #sidebar
+    {
+        width:27%;
+        float: left;
+        @include respond-to($mobile)
+        {
+            margin-top: 24px;
+            width: 100%;
+            float: none;
+            padding-bottom: 0px!important;
+        }
+
+    }
+    .empty-sidebar
+    {
+        width: 0!important;
+        float: none!important;
+    }
+}
+.page_links 
+{
+    @include respond-to($desktop)
+    {
+        font-size: 15px;
+    }
+}
+
+.search-widgets
+{
+    .sr-only
+    {
+        display: none;
+    }
+    .dropdown-toggle
+    {
+        @include respond-to($desktop)
+        {
+            font-size: 15px;
+        }
+    }
+}
+
+.collections
+{
+    h3
+    {
+        text-align: center;
+    }
+}
+
+.collections-block 
+{
+    font-size: 0;
+    width: 100%;
+    margin: auto;
+    a
+    {
+        position: relative;
+        @include size(20%, 80px);
+        display: inline-flex;
+        display: -ms-inline-flexbox; // IE10
+        display: -webkit-inline-flex; // Safari / iOS
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        padding: 0 5px;
+        margin: 0;
+        vertical-align: middle;
+        font-size: 18px;
+        background: transparent;
+        outline: none;
+        color: #337ab7;
+        border: 1px solid #eaeaea;
+        overflow: hidden;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -webkit-flex-direction: column;
+        -webkit-box-pack: center;
+        -webkit-flex-pack: center;
+        -webkit-justify-content: center;
+        -webkit-flex-align: center;
+        -webkit-align-items: center;
+        vertical-align: top;
+
+        @include respond-to($desktop)
+        {
+            width: 25%;
+        }
+        @include respond-to($mobile)
+        {
+            width: 50%;
+            font-size: 17px;
+        }
+        @include respond-to($mobile-xs)
+        {
+            width: 100%;
+        }
+    }
+
+}
+
+#static-page
+{
+    h4
+    {
+        font-weight: 600;
+    }
+    h3
+    {
+        margin-top: 7px;
+        font-size: 24px;
+        font-weight: 700;
+    }
+    h2
+    {
+        margin-top: 32px;
+        font-size: 32px;
+        font-weight: 700;
+    }
+}

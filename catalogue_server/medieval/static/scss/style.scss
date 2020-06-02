@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i');
+@import url('https://use.fontawesome.com/releases/v5.13.0/css/all.css');
+
+// Import this to get access to the colour variables
+@import "sass/utilities/initial-variables";
+
+$background-image: url("/static/medieval/img/overlay-header.jpg");
+$bodleian-logo: url("/static/shared/img/bodleian.svg");
+$oxford-logo: url("/static/shared/img/ox-logo.gif");
+$tolkien-logo: url("/static/medieval/img/tolkien.gif");
+
+$oxblue: #337ab7;
+
+$link: $oxblue;
+$navbar-height: 8rem;
+$navbar-item-img-max-height: 80px;
+$navbar-item-color: $white;
+$navbar-item-active-color: $white;
+
+$family-sans-serif: "PT Sans", sans-serif;
+
+$panel-heading-radius: 0;
+$panel-item-border: 0;
+$panel-heading-padding: 0.4em 0.75em;
+
+@import "bulma";
+@import "content";
+
+.sticky-body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.sticky-content {
+  flex: 1;
+}
+
+main.container {
+  margin-bottom: 2rem;
+}
+
+.footer {
+  padding: 0.5rem 0;
+  background: $background-image repeat-x;
+
+  .ft-footer-block {
+    text-align: center;
+
+    .ft-partner-links {
+      margin: 0 1rem;
+    }
+    .ft-partner-links--link {
+      position: relative;
+      display: inline-block;
+      vertical-align: middle;
+      margin: 0.5rem;
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+    .ft-partner-links--bodleian {
+      width: 160px;
+      height: 112px;
+      background-image: $bodleian-logo;
+    }
+    .ft-partner-links--oxford {
+      width: 110px;
+      height: 110px;
+      background-image: $oxford-logo;
+    }
+    .ft-partner-links--tolkien {
+      width: 304px;
+      height: 96px;
+      background-image: $tolkien-logo;
+    }
+  }
+
+  .ft-footer-menu {
+    margin-top: 1rem;
+    a {
+      position: relative;
+      font-size: 17px;
+      color: $white;
+      margin: 18px 18px;
+    }
+  }
+}
+
+.hero.is-masthead {
+  background: $background-image repeat-x;
+}
+
+.hero-body {
+  padding: 0;
+  margin-bottom: 1rem;
+}
+
+.hero {
+  margin-bottom: 1rem;
+}
+
+.catalogue-logo {
+  width: 200px;
+  height: 80px;
+}
+
+.navbar-item {
+  a {
+    font-size: 24px;
+    font-weight: bold;
+    color: $white;
+  }
+
+  .active {
+    border-bottom: 2px solid $white;
+  }
+}
+
+.strapline {
+  margin-bottom: 1rem;
+}
+
+.browse-buttons {
+  .browse-button {
+    background: none;
+    border-radius: 13px;
+    border: 2px solid $white;
+    color: $white;
+    font-weight: bold;
+    &:hover {
+      color: $white;
+      border-color: $white;
+    }
+    @include mobile {
+      font-size: 18px;
+      width: 80px;
+    }
+
+  }
+  .browse-button-active {
+    background:#fff!important;
+    color: #17324f!important;
+  }
+}
+
+.collection-grid {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: start;
+  margin-bottom: 1rem;
+}
+
+.collection-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex: 1 0 200px;
+  height: 70px;
+  border: 1px solid $white-ter;
+  padding: 0 10px;
+  font-size: 18px;
+}
+
+.search-result {
+  border-bottom: 1px solid $grey-lighter;
+  margin: 0.5rem 0;
+  dt {
+    float: left;
+    clear: left;
+    width: 100px;
+    text-align: right;
+    font-weight: bold;
+  }
+  dt::after {
+    content: ":";
+  }
+  dd {
+    margin: 0 0 0 110px;
+    padding: 0 0 0.5em 0;
+  }
+  hr {
+    margin: 1rem 0;
+  }
+}
+
+.facet-values {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+
+  .facet-label {
+    display: inline-block;
+    overflow-wrap: break-word;
+    hyphens: auto;
+    padding: 0 !important;
+  }
+
+  .facet-count {
+    display: inline-block;
+    width: 5em !important;
+    text-align: right;
+    padding: 0 !important;
+  }
+}
+
+.manuscript-display {
+  & *:not(h5):not(h4):not(h3):not(h2):not(h1) {
+    font-size: 17px;
+  }
+
+  sup, sub {
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+  }
+  sub {
+    top: 0.4em;
+  }
+
+  h4 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  .bold, .tei-label, .label, h5, h4, h3, h2, h1 {
+    font-weight: 700;
+  }
+  .super {
+    position: relative;
+    display: inline-block;
+    font-size: small;
+    top: -9px;
+  }
+  .tei-italic,.italic {
+    font-style: italic;
+  }
+
+  .layoutDesc {
+    margin: 10px 0;
+  }
+  .tei-label {
+    height: 18px;
+  }
+  .nestedmsItem {
+    margin-left: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 1rem;
+  }
+  .msItem,.msPart {
+    border-bottom: 1px solid #eaeaea;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+  }
+
+  .secFol .italic {
+    font-style: normal;
+  }
+  .support, .form, .extent, .dimensions, .foliation, .condition {
+    margin-top: 5px;
+  }
+  p.note:last-of-type {
+    margin: 0;
+  }
+
+  .additional ul.listBibl {
+    padding: 0;
+  }
+
+  .small-caps, .author, .translator {
+    font-variant: small-caps;
+  }
+
+  p,.seg,.item,.head,.physDesc-p,.tei-title,.locus,.note,.decoNote-list,.decoNote,.item-number {
+    margin: 0 0 5px;
+  }
+  .incipit,.explicit,.rubric, .finalRubric,.textLang,
+  .origPlace,.secFol,.objectDesc,.additional,.colophon,.origin, .msName,
+  .author,.bibl,.orgName,#zotero-bibliography-text,.origDate,.origPlace,.additions, .coveragewarning {
+    margin-bottom: 5px;
+  }
+}

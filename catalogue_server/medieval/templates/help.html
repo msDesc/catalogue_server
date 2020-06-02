@@ -1,0 +1,189 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div id="static-page">
+        <h2>Help</h2>
+        <h3>Browsing</h3>
+        <p>
+            The catalogue can be browsed by manuscripts, works, people or places. Each list can be filtered in different
+            ways.
+        </p>
+
+
+        <h4>Manuscripts</h4>
+        <p>
+            This page returns an alphabetical list of all the manuscripts in the catalogue. It may be filtered by
+            language, century, country of origin, material, decoration (yes/no), institution (e.g. Bodleian Library or
+            Christ Church), and collection (e.g. MSS. Ashmole, MSS. Digby).
+        </p>
+
+        <h4>Works</h4>
+        <p>
+            This page returns an alphabetical list of all works currently contained in the records (ordered according to
+            the initial letter of the title, for anonymous works, or the initial letter of the author’s name, for works
+            with authors). It may be filtered by initial letter, by subject (this applies to anonymous works only), or
+            by language. The subject categories used here are based on those used to index anonymous works in the Corpus
+            of British Medieval Library Catalogues.
+        </p>
+
+        <h4>People</h4>
+        <p>
+            This returns an alphabetical list of all persons. The forms under which persons are indexed have been drawn,
+            where possible, from existing authority files as recorded in <a href="http://viaf.org/"
+                                                                            target="_blank">VIAF</a> (the Virtual
+            International Authority File). This means that persons may be indexed according to either ‘given’ or ‘first’
+            name. The list may be filtered by initial letter or by a person’s role (author, scribe, owner, etc.).
+        </p>
+        <h4>Places</h4>
+        <p>
+            This returns an alphabetical index of places which can currently be filtered by initial letter only.
+            Preferred spellings are those used by the <a href="http://www.getty.edu/research/tools/vocabularies/tgn/"
+                                                         target="_blank">Getty Thesaurus of Geographic Names</a>, where
+            the name occurs in that thesaurus. This index also includes the majority of <b>organizations</b> found in
+            the descriptions, indexed according to place-name. For example, the Franciscan convent at Salisbury is
+            indexed under Salisbury.
+        </p>
+        <p>
+            The indexes of works, persons and places cover only the contents of the records on this site, most of which
+            contain only summary descriptions (see <a href="http://medieval.bodleian.ox.ac.uk/about">here</a>). When
+            searching for a particular person, work or place the indexes should be used in conjunction with the printed
+            indexes to the Summary and Quarto catalogues. These finding aids are described in more detail <a
+                href="http://libguides.bodleian.ox.ac.uk/medieval-sc" target="_blank">here</a>.
+        </p>
+
+        <h3>Searching</h3>
+        <p>
+            The main search box allows keyword searching across all these fields (manuscripts, works, people, places)
+            from the home page, or within a single field when browsing that field. Searching for “Constantinople”, for
+            example, will return different results according to whether the search is carried out from the home page,
+            the manuscripts page, the people page or the places page.
+        </p>
+        <p>The following search syntax is supported: </p>
+        <ul>
+            <li>
+                quotation marks (")
+                <ul>
+                    <li>
+                        You can place quotation marks around multiple words so that only that specific phrase will be
+                        found. Astronomical tables (without quotes) produces many more results than "Astronomical
+                        tables" (with quotes).
+                    </li>
+                </ul>
+            </li>
+
+            <li>
+                AND / OR
+                <ul>
+                    <li>
+                        You can combine words into groups using AND, OR and brackets. AND is used as default when
+                        nothing is specified. AND and OR must be capitalised for this to work. For example you could
+                        search for Barocci AND (Aristotle OR Plato) which will find only records with containing
+                        “Barocci” and at least one of “Aristotle” or “Plato”.
+                    </li>
+                </ul>
+            </li>
+
+            <li>
+                plus (+) / minus(-)
+                <ul>
+                    <li>
+                        With the plus and minus you can define which phrases must be found and those which must not be
+                        found. The plus is default. For example geomancy -astrology will return everything with the word
+                        geomancy but not the word astrology.
+                    </li>
+                </ul>
+            </li>
+
+            <li>
+                wildcards(*,?)
+                <ul>
+                    <li>
+                        You can use wildcard values to match only part of words. A question mark (?) will match a single
+                        character while the asterix (*) will match one or more characters. A search for astro* will
+                        match words like "astronomy", "astrological" and "astrology".
+                    </li>
+                </ul>
+            </li>
+
+            <li>
+                plus (+) / minus(-)
+                <ul>
+                    <li>
+                        You can combine all the above options into a single query, such as: astro* -astrology which
+                        finds every starting with "astro" but excluding "astrology".
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <p></p>
+
+        <h3>Examples</h3>
+
+        <h4>To find a particular manuscript (e.g. MS. Bodl. 264)</h4>
+        <p>
+            Browse through the relevant collection (MSS. Bodl.) from the list on the home page
+        </p>
+        <p><b>or</b></p>
+        <p>
+            Search for the shelfmark or part of it (e.g. MS. Bodl. 264, Bodl. 264) from the home page or the manuscripts
+            browse page. You will get the best results using the canonical form of the shelfmark – in this case, “Bodl.”
+            rather than “Bodley”. The canonical shelfmarks are the abbreviated forms listed on the home page. A search
+            without quotation marks for Bodley 264 will find the manuscript but will return several unwanted results in
+            addition. A search with quotation marks for “Bodley 264” will not return any results. A search with
+            quotation marks for “MS. Bodl. 264” returns only the desired result.
+        </p>
+
+        <h4>To find a particular person</h4>
+        <p>
+            Navigate to the “people” browse list, then use keyword search. Your search will query a large number of
+            variant name forms that are not visible in the browse list. For example a search for “paradiso” will return
+            Jacobus de Clusa (1381?-1465) alias Jacobus de Paradiso, who only appears in the browse list under J (for
+            Jacobus).
+        </p>
+        <p>
+            Note that the index only includes persons mentioned in our summary records, which generally give only a
+            summary indication of contents and do not record owners. Fuller information about persons in the manuscripts
+            will often be found in the printed Quarto and Summary catalogues and their indexes (see <a
+                href="http://libguides.bodleian.ox.ac.uk/medieval-sc" target="_blank">here</a>).
+        </p>
+
+        <h4>To find a particular work</h4>
+
+        <ol>
+            <li>
+                Works with authors (as identified in our records). These are listed according to the index form of the
+                author’s name. For example the <i>Canterbury Tales</i> are under Chaucer, Geoffrey, -1400: Canterbury
+                Tales. You may use the keyword search box to search for titles or parts of titles (e.g. ‘Canterbury’),
+                but the index does not currently have a good record of variant titles, so results may be patchy.
+            </li>
+            <li>
+                Anonymous works (as identified in our records). These are best found by browsing according to subject
+                and language, for example, selecting the filters “medica” and “Latin”.
+            </li>
+        </ol>
+        <p>
+            The Works index will remain under development for some time as we improve the identification and
+            classification of texts in our records. Again, it reflects our summary records, which do not always give a
+            full account of a manuscript’s textual content.
+        </p>
+
+
+        <!--    <h4>To browse manuscripts by origin, date, etc.</h4>
+
+
+            <p>
+                Use the relevant filters from the Manuscripts browse menu. For example:
+            </p>
+
+            <ul>
+
+                <li>Manuscripts from England, containing items in French, on paper</li>
+                <img src="England-mss-French-paper.png" alt="Browsing manuscripts from England, containing French, on paper"/>
+            </ul>
+        -->
+        <p>Note that filters can only be combined using AND logic. Selecting "France" and "Italy" under Origin will
+           return manuscripts associated with both France AND Italy, not France OR Italy. To use filters with OR logic,
+           use the advanced search function. Select the relevant attributes, leaving the other search boxes blank.</p>
+        <!--	<img src="14-15-cent-mss.png" alt="Advanced search for 14th and 15th century MSS."/>-->
+    </div>
+{% endblock %}
