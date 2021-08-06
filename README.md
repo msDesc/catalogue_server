@@ -16,12 +16,14 @@ up-to-date.
 
 The project uses [Python Poetry](https://python-poetry.org) to manage dependencies. This must be installed first. 
 
-Once installed, change to the project directory and run `poetry install`. This will install the project dependencies. 
+In the project directory, use `pyenv local 3.8.11` or whatever version you have installed first, then `pip install poetry`.
+
+Once installed, run `poetry install`. This will install the project dependencies. 
 
 After these dependencies are installed you will be able to run `gunicorn` to serve the individual services. For example, 
 to run the Medieval catalogue on localhost port 9001, run:
 
-    $> gunicorn --reload  catalogue_server.medieval.server:app --worker-class sanic.worker.GunicornWorker -b localhost:9001
+    $> poetry run gunicorn --reload  catalogue_server.medieval.server:app --worker-class sanic.worker.GunicornWorker -b localhost:9001
     
 (This is used for development -- the '--reload' flag will automatically reload the application when changes are detected.)
 

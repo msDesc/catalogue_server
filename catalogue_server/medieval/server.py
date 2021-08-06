@@ -1,7 +1,7 @@
 from typing import Dict, List
 import asyncio
-import yaml
 import logging
+import yaml
 import pysolr
 
 import uvloop
@@ -9,7 +9,7 @@ from sanic import Sanic, response, request, exceptions
 from jinja2 import Environment, PackageLoader, select_autoescape
 from catalogue_server.helpers.solr import facet_by_field_name, CatalogueRequest
 
-app = Sanic()
+app = Sanic("medieval")
 
 config = yaml.safe_load(open('catalogue_server/medieval/configuration.yml', 'r'))
 
