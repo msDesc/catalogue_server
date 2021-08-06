@@ -186,8 +186,15 @@ class CatalogueRequest:
                 })
             elif k.startswith("f"):
                 # Clean the filter query; remove the 'f' from the beginning before passing it along to be cleaned.
-                cleaned_filters = self._format_qstring(k[1:], v)
-                _filter_queries += cleaned_filters
+                for facet in ';'.join(v).split(';'):
+                    use_key = k[1:]
+                    use_value = [facet]
+                    multi = facet.split('=')
+                    if len(multi) != 1:
+                        use_key = multi[0][1:]
+                        use_value = [multi[1]]
+                    cleaned_filters = self._format_qstring(use_key, use_value)
+                    _filter_queries += cleaned_filters
 
         qargs.update({
             "fq": _filter_queries
