@@ -116,15 +116,20 @@ async def search(req: request.Request) -> response.HTTPResponse:
     resp: Dict = c_req.search()
     results: List = resp["results"]
     facets: Dict = resp["facets"]
+
+    # Facets is Dict[facet_name: str, Dict[facet_value: str, facet_count: int]]
+    # Transform the blacklight search string
+    expanded_facets = {outer_k: {inner_k: (inner_v,f"[{outer_k}][]={inner_k}") for inner_k, inner_v in outer_v.items()} for outer_k, outer_v in facets.items()}
     pagination = resp["pagination"]
     result_type: str = req.args.get('f[type][]')
 
     tmpl_vars: Dict = {
-        "facets": facets,
+        "facets": expanded_facets,
         "results": results,
         "result_type": result_type if result_type and len(result_type) > 0 else None,
         "facet_config": config['solr']['facet_fields'],
-        "pagination": pagination
+        "pagination": pagination,
+        "current_url": req.url
     }
 
     rendered_template = await search_template.render_async(**tmpl_vars)

@@ -10,7 +10,8 @@
             </a>
             &nbsp;|&nbsp;
             {% endif %}
-            <span>Result {{ pagination.start }}&ndash;{{ pagination.end }} of {{ "{:,}".format(pagination.hits) }}</span>
+            {% set result_end = pagination.hits if pagination.hits < pagination.end else pagination.end %}
+            <span>Result {{ pagination.start }}&ndash;{{ result_end }} of {{ "{:,}".format(pagination.hits) }}</span>
             {% if pagination.next_page_url %}
             &nbsp;|&nbsp;
             <a href="{{ pagination.next_page_url }}">
