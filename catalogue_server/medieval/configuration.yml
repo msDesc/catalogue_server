@@ -41,7 +41,7 @@ solr:
     alpha_title:
       name: "Starts with"
       sidebar: no
-  search_fields:
+  field_list:
     - pk
     - title
     - ms_summary_sm
