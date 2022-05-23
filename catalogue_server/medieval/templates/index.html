@@ -6,10 +6,19 @@
 
 {% block content %}
 <div class="has-text-centered">
+    <h3 class="title">Repositories</h3>
+    <div class="home-page-grid">
+    {% for repository in repositories %}
+        <div class="home-page-grid-item">
+            <a href="/search?f[ms_repository_s][]={{ repository|e }};f[type][]=manuscript">{{ repository|e }}</a>
+        </div>
+
+    {% endfor %}
+    </div>
     <h3 class="title">Collections</h3>
-    <div class="collection-grid">
+    <div class="home-page-grid">
     {% for collection in collections %}
-        <div class="collection-item">
+        <div class="home-page-grid-item">
             <a href="/search?f[ms_collection_s][]={{ collection|e }};f[type][]=manuscript">{{ collection|e }}</a>
         </div>
 
