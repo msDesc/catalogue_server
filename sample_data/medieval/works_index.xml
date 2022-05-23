@@ -1,0 +1,2863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add><!-- Indexing started at 2022-05-06T19:40:37.985276+01:00 using authority file at /home/morri/workspaces/tei/medieval-mss/works.xml -->
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_7387</field>
+      <field name="id">work_7387</field>
+      <field name="title">Commentary on Giles of Corbeil's De urinis [Latin]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">Commentary on De urinis</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/commentarium-in-carmen-de-urinarum-iudiciis-aegidi-title/481|Mirabile</field>
+      <field name="bibref_smni">K. Sudhoff, 'Commentatoren der Harnverse des Gilles de Corbeil', &lt;i&gt;Archeion: Archivio di storia della scienza&lt;/i&gt; 11 (1929), 129–135</field>
+      <field name="bibref_smni">Pr. Padua, 1483 (&lt;i&gt;GW&lt;/i&gt; 269, Hain/Copinger/Reichling, 100) etc..</field>
+      <field name="bibref_smni">eTK 0820G ('Liber iste nove institutionis studiose compositionis'), 0821I, 0821I*, 0821J ('Liber iste quem quem legendum proponimus est novelle [uel nouae] institutionis'), 0689G ('in libro isto ille auctor intendens'), 0422A, 1348G ('Renibus una dicitur quia formaliter generatur')</field>
+      <field name="repertory_sm">eTK 0820G ('Liber iste nove institutionis studiose compositionis'), 0821I, 0821I*, 0821J ('Liber iste quem quem legendum proponimus est novelle [uel nouae] institutionis'), 0689G ('in libro isto ille auctor intendens'), 0422A, 1348G ('Renibus una dicitur quia formaliter generatur')</field>
+      <field name="note_smni">The commentary printed in 1483 as by Gentile da Foligno and later comprises prologue ('Liber iste nove'), 'expositio', beginning 'In libro isto', and 'commentum', beginning 'Renibus una dicitur quia formaliter'). Choulant suggested that only the expositio was by Foligno, with the commentum (which circulates earlier) perhaps by Giles of Corbeil himself.</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/catalog/work_1751|Aegidius, Corbeiensis, 1140–1224: De urinis [Latin]</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_71543640|Aegidius, Corbeiensis, 1140–1224</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_7305</field>
+      <field name="id">work_7305</field>
+      <field name="title">Bersuire, Pierre, approximately 1290–1362: Ouidius moralizatus [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">Ovidius moralisatus (De fabulis poetarum)</field>
+      <field name="wk_variant_sm">Ovidium moralizatum</field>
+      <field name="link_external_smni">http://viaf.org/viaf/316309286|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="link_external_smni">http://viaf.org/viaf/827145857889423020112|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/ovidius-moralisatus-petrus-berchorius-n-saec-xiii--title/223|Mirabile</field>
+      <field name="bibref_smni">Glorieux, &lt;i&gt;Théol.&lt;/i&gt; 322v.</field>
+      <field name="bibref_smni">Pr. Paris 1509 &amp;c. (as by Thomas of Wales).</field>
+      <field name="repertory_sm">Glorieux, Théol. 322v.</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_51835136|Bersuire, Pierre, approximately 1290–1362</field>
+      <field name="shelfmarks">St John's College MS 137</field>
+      <field name="shelfmarks">St John's College MS. 137</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_12137|St John's College MS. 137|s. xv in.; England</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_7205</field>
+      <field name="id">work_7205</field>
+      <field name="title">Israeli, Isaac, approximately 832–approximately 932: De dietis particularibus [Latin]</field>
+      <field name="alpha_title">I</field>
+      <field name="wk_variant_sm">De dietis particularibus</field>
+      <field name="bibref_smni">&lt;i&gt;TKI&lt;/i&gt; 239.</field>
+      <field name="bibref_smni">Pr. Lyon 1515, I, fols. 103–56.</field>
+      <field name="repertory_sm">TKI 239.</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_34580662|Israeli, Isaac, approximately 832–approximately 932</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_7161</field>
+      <field name="id">work_7161</field>
+      <field name="title">Commentary on Giles of Corbeil's De pulsibus [Latin]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">Commentarium in De pulsibus Aegidii Corboliensis</field>
+      <field name="wk_variant_sm">Commentary on De pulsibus</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/commentarium-in-de-pulsibus-aegidii-corboliensis-g-title/2887|Mirabile</field>
+      <field name="bibref_smni">&lt;i&gt;eTK&lt;/i&gt; 0161N, 1181I</field>
+      <field name="bibref_smni">Pr. Padua 1484 &amp;c..</field>
+      <field name="repertory_sm">eTK 0161N, 1181I</field>
+      <field name="note_smni">The text printed in 1484 and later seems to be essentially the same commentary found in manuscripts from the thirteenth century and also attributed to Giles of Corbeil.</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/catalog/work_1748|Aegidius, Corbeiensis, 1140–1224: De pulsibus [Latin]</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_71543640|Aegidius, Corbeiensis, 1140–1224</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_6685</field>
+      <field name="id">work_6685</field>
+      <field name="title">Herman, the Archdeacon, -approximately 1098 (?): De symoniaca haeresi [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">De simonia et nummo</field>
+      <field name="wk_variant_sm">De symoniaca haeresi</field>
+      <field name="bibref_smni">&lt;i&gt;&lt;a href="http://webserver.erwin-rauner.de/php_ancarm/ancarm_refwerke.php?opus=1000&amp;var=WIC&amp;nr_char=14029" target="_blank"&gt;WIC 14029&lt;/a&gt;&lt;/i&gt;</field>
+      <field name="bibref_smni">&lt;i&gt;&lt;a href="http://webserver.erwin-rauner.de/php_ancarm/ancarm_refwerke.php?opus=1000&amp;var=WIC&amp;nr_char=18920" target="_blank"&gt;WIC 18920&lt;/a&gt;&lt;/i&gt;</field>
+      <field name="bibref_smni">&lt;i&gt;&lt;a href="http://webserver.erwin-rauner.de/php_ancarm/ancarm_refwerke.php?opus=1000&amp;var=WIC&amp;nr_char=3440" target="_blank"&gt;WIC 3440&lt;/a&gt;&lt;/i&gt;</field>
+      <field name="bibref_smni">Herman the Archdeacon and Goscelin of Saint-Bertin, &lt;i&gt;Miracles of St Edmund&lt;/i&gt;, ed. T. Licence, p. xcvi-cvi, 352–354</field>
+      <field name="bibref_smni">Roberto Angelini, 'Topographical and thematic Perspectives in the Latin Poetry of the First Anglo-Norman Kings', &lt;i&gt;Tabularia&lt;/i&gt; 2018, &lt;a href="https://doi.org/10.4000/tabularia.3009" target="_blank"&gt;https://doi.org/10.4000/tabularia.3009&lt;/a&gt;</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="link_author_smni">/catalog/person_314922767|Herman, the Archdeacon, –approximately 1098</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_6661</field>
+      <field name="id">work_6661</field>
+      <field name="title">Guilelmus, de Tocco, approximately 1250–approximately 1323: Ystoria sancti Thomae de Aquino [Latin]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">Ystoria sancti Thome de Aquino</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/ystoria-sancti-thomae-de-aquino-guillelmus-de-tocc-title/189403|Mirabile</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">hagiography</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=hagiography|Other works with the subject 'hagiography'</field>
+      <field name="link_author_smni">/catalog/person_61535682|Guilelmus, de Tocco, approximately 1250–approximately 1323</field>
+      <field name="shelfmarks">MS Add A 263</field>
+      <field name="shelfmarks">MS. Add. A. 263</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_47|MS. Add. A. 263 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3811</field>
+      <field name="id">work_3811</field>
+      <field name="title">Prudentius, 348–: Dittochaeon [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">dittochaeon</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/dittochaeon-prudentius-title/16679|Mirabile</field>
+      <field name="bibref_smni">&lt;i&gt;&lt;a href="https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPL&amp;number=1444" target="_blank"&gt;CPL 1444&lt;/a&gt;&lt;/i&gt;</field>
+      <field name="repertory_sm">CPL 1444</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="link_author_smni">/catalog/person_100010336|Prudentius, 348-</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1344</field>
+      <field name="id">work_1344</field>
+      <field name="title">Cyprian, Saint, Bishop of Carthage (d. 258), &amp; Cyprian, Saint, Bishop of Carthage, pseudo: Works [Latin]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">works</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_100179090|Cyprian, Saint, Bishop of Carthage (d. 258)</field>
+      <field name="shelfmarks">MS Laud Misc 451</field>
+      <field name="shelfmarks">MS. Laud Misc. 451</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7253|MS. Laud Misc. 451|10th century, second half; French, North</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2448</field>
+      <field name="id">work_2448</field>
+      <field name="title">Joannes, Actuarius, active 13th century–14th century: De methodo medendi [Greek]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">de methodo medendi</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_100190357|Joannes, Actuarius, active 13th century–14th century</field>
+      <field name="shelfmarks">MS Laud Gr 62</field>
+      <field name="shelfmarks">MS. Laud Gr. 62</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6875|MS. Laud Gr. 62|16th century, beginning</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2907</field>
+      <field name="id">work_2907</field>
+      <field name="title">Lactantius, approximately 240–approximately 320: De aue phoenice [Latin]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">de aue phoenice</field>
+      <field name="wk_variant_sm">de ave phoenice</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_100198064|Lactantius, approximately 240–approximately 320</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3489</field>
+      <field name="id">work_3489</field>
+      <field name="title">Persius: Satires [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">satirae</field>
+      <field name="wk_variant_sm">satires</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_100198157|Persius</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2100</field>
+      <field name="id">work_2100</field>
+      <field name="title">Horace: Works [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">works</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_100227522|Horace</field>
+      <field name="shelfmarks">MS Rawl G 132</field>
+      <field name="shelfmarks">MS. Rawl. G. 132</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8511|MS. Rawl. G. 132|15th century, middle; Italian, Lombardy</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_272</field>
+      <field name="id">work_272</field>
+      <field name="title">Pius, II, Pope, 1405–1464: De duobus amantibus [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">de duobus amantibus</field>
+      <field name="wk_variant_sm">historia de duobus amantibus</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_100571068|Pius, II, Pope, 1405–1464</field>
+      <field name="shelfmarks">MS Lat misc d 34</field>
+      <field name="shelfmarks">MS. Lat. misc. d. 34</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6609|MS. Lat. misc. d. 34 (Selected pages online)|15th century, late; English, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4601</field>
+      <field name="id">work_4601</field>
+      <field name="title">Statius, P. Papinius, (Publius Papinius): Achilleis [Latin]</field>
+      <field name="alpha_title">S</field>
+      <field name="wk_variant_sm">achilleis</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_100904338|Statius, P. Papinius, (Publius Papinius)</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2883</field>
+      <field name="id">work_2883</field>
+      <field name="title">Firmicus Maternus, Julius: Mathesis [Latin]</field>
+      <field name="alpha_title">F</field>
+      <field name="wk_variant_sm">mathesis</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">science</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=science|Other works with the subject 'science'</field>
+      <field name="link_author_smni">/catalog/person_10660698|Firmicus Maternus, Julius</field>
+      <field name="shelfmarks">MS Canon Class Lat 275</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 275</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2302|MS. Canon. Class. Lat. 275|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3820</field>
+      <field name="id">work_3820</field>
+      <field name="title">Acron, Helenius, pseudo: Commentary on Horace, Odes [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">commentary on horace, odes</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_107534010|Acron, Helenius, pseudo</field>
+      <field name="shelfmarks">MS Canon Class Lat 25</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 25</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2274|MS. Canon. Class. Lat. 25|15th century, second half; Italian, Florence (?)</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_5109</field>
+      <field name="id">work_5109</field>
+      <field name="title">Wulfstan, of York, –990: Metrical Life of St Swithun [Latin]</field>
+      <field name="alpha_title">W</field>
+      <field name="wk_variant_sm">metrical life of st swithun</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">hagiography</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=hagiography|Other works with the subject 'hagiography'</field>
+      <field name="link_author_smni">/catalog/person_15575215|Wulfstan, of York, –990</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_5080</field>
+      <field name="id">work_5080</field>
+      <field name="title">William, of Nassington: Speculum vitae [Middle English]</field>
+      <field name="alpha_title">W</field>
+      <field name="wk_variant_sm">speculum vitae</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="wk_subjects_sm">conduct</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=conduct|Other works with the subject 'conduct'</field>
+      <field name="link_author_smni">/catalog/person_16248546|William, of Nassington</field>
+      <field name="shelfmarks">MS Hatton 18</field>
+      <field name="shelfmarks">MS. Hatton 18</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6049|MS. Hatton 18|15th century, end; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4827</field>
+      <field name="id">work_4827</field>
+      <field name="title">Thomas, Waleys, approximately 1287–1350?: Commentary on Augustine, De civitate dei, I-X [Latin]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">Expositio in libros I-X De civitate Dei</field>
+      <field name="wk_variant_sm">commentary on augustine, de ciuitate dei</field>
+      <field name="wk_variant_sm">Commentary on Augustine, De civitate Dei</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/expositio-in-libros-i-x-de-civitate-dei-thomas-wal-title/14102|Mirabile</field>
+      <field name="bibref_smni">Kaeppeli 3891</field>
+      <field name="bibref_smni">Sharpe, &lt;i&gt;Handlist&lt;/i&gt;, p. 397.</field>
+      <field name="bibref_smni">pr. [Strassburg 1468] (&lt;i&gt;GW&lt;/i&gt; 2883), Mainz 1473, &amp;c., together with the commentary on books XI– XXII by Nicholas Trevet OP</field>
+      <field name="repertory_sm">Kaeppeli 3891</field>
+      <field name="repertory_sm">Sharpe, Handlist, p. 397.</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_17360618|Thomas, Waleys, approximately 1287–1350?</field>
+      <field name="shelfmarks">MS Laud Misc 128</field>
+      <field name="shelfmarks">MS. Laud Misc. 128</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6938|MS. Laud Misc. 128|15th century, end</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2612</field>
+      <field name="id">work_2612</field>
+      <field name="title">Johannitius, 809–873: Isagoge ad Artem paruam Galeni (tr. Constantinus Africanus) [Latin]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">isagoge</field>
+      <field name="wk_variant_sm">isagoge ad artem paruam galeni</field>
+      <field name="wk_variant_sm">Isagoge ad Tegni Galieni</field>
+      <field name="bibref_smni">Thorndike/Kibre 856, 1352</field>
+      <field name="bibref_smni">ed. D. Garcia &amp; J. L. Vidal, Asclepio 26–27 (1974–5) 267–382</field>
+      <field name="bibref_smni">ed. G. Maurach, &lt;i&gt;Sudhoffs Archiv&lt;/i&gt;62 (1978) 148–74</field>
+      <field name="bibref_smni">pr. Venice 1491 &amp;c.</field>
+      <field name="repertory_sm">Thorndike/Kibre 856, 1352</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_19690624|Johannitius, 809–873</field>
+      <field name="link_translator_smni">/catalog/person_305230031|Constantinus Africanus, d. before 1098/1099</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_634</field>
+      <field name="id">work_634</field>
+      <field name="title">Aristophanes: Clouds [Greek]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">clouds</field>
+      <field name="wk_variant_sm">nubes</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_20962036|Aristophanes</field>
+      <field name="shelfmarks">MS Canon Gr 46</field>
+      <field name="shelfmarks">MS. Canon. Gr. 46</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2480|MS. Canon. Gr. 46|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_639</field>
+      <field name="id">work_639</field>
+      <field name="title">Aristophanes: Plutus [Greek]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">plutus</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_20962036|Aristophanes</field>
+      <field name="shelfmarks">MS Canon Gr 46</field>
+      <field name="shelfmarks">MS. Canon. Gr. 46</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2480|MS. Canon. Gr. 46|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2725</field>
+      <field name="id">work_2725</field>
+      <field name="title">Lydgate, John, 1370?–1451?: Life of Our Lady [Middle English]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">life of our lady</field>
+      <field name="wk_variant_sm">the life of our lady</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="wk_subjects_sm">hagiography</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=hagiography|Other works with the subject 'hagiography'</field>
+      <field name="link_author_smni">/catalog/person_22158282|Lydgate, John, 1370?–1451?</field>
+      <field name="shelfmarks">MS Bodl 120</field>
+      <field name="shelfmarks">MS. Bodl. 120</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1186|MS. Bodl. 120|15th century, second half; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_890</field>
+      <field name="id">work_890</field>
+      <field name="title">Bartholomew, of San Concordio, 1262–1347: Summa de casibus conscientiae [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">summa de casibus conscientiae</field>
+      <field name="wk_variant_sm">summa de casibus conscientie</field>
+      <field name="bibref_smni">Bloomfield 5052.</field>
+      <field name="bibref_smni">Kaeppeli 436</field>
+      <field name="bibref_smni">Pr. Speyer, n. d., Cologne 1474 &amp;c.</field>
+      <field name="repertory_sm">Bloomfield 5052.</field>
+      <field name="repertory_sm">Kaeppeli 436</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_22494393|Bartholomew, of San Concordio, 1262–1347</field>
+      <field name="shelfmarks">MS Canon Misc 459</field>
+      <field name="shelfmarks">MS. Canon. Misc. 459</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3495|MS. Canon. Misc. 459|1464; Italian, Venice</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1336</field>
+      <field name="id">work_1336</field>
+      <field name="title">Bisanzio, Costantin, 18th cent. (?): Peverone e fioretta [Italian]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">peverone e fioretta</field>
+      <field name="lang_sm">Italian</field>
+      <field name="link_author_smni">/catalog/person_2252|Bisanzio, Costantin, 18th cent. (?)</field>
+      <field name="shelfmarks">MS Canon Ital 194</field>
+      <field name="shelfmarks">MS. Canon. Ital. 194</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2629|MS. Canon. Ital. 194|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1396</field>
+      <field name="id">work_1396</field>
+      <field name="title">Diocles, of Carystus: Epistola ad Antigonum regem [Greek]</field>
+      <field name="alpha_title">D</field>
+      <field name="wk_variant_sm">epistola ad antigonum regem</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_233199511|Diocles, of Carystus</field>
+      <field name="shelfmarks">MS Rawl G 94</field>
+      <field name="shelfmarks">MS. Rawl. G. 94</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8611|MS. Rawl. G. 94|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4738</field>
+      <field name="id">work_4738</field>
+      <field name="title">Theophilus, 7th cent., writer on urines: Liber urinarum [Latin]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">de urinis</field>
+      <field name="wk_variant_sm">liber urinarum</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_2376|Theophilus, 7th cent., writer on urines</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1937</field>
+      <field name="id">work_1937</field>
+      <field name="title">Guido, Ebroicensis, ca. 1290/93: Sermons [Latin]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">sermons</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">sermons</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=sermons|Other works with the subject 'sermons'</field>
+      <field name="link_author_smni">/catalog/person_24991990|Guido, Ebroicensis, ca. 1290/93</field>
+      <field name="shelfmarks">Merton College 73 e 6</field>
+      <field name="shelfmarks">Merton College 73. e. 6</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10858|Merton College 73. e. 6|s. xiv; French</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4522</field>
+      <field name="id">work_4522</field>
+      <field name="title">Placitus, Sextus, 4th–5th cent.: Liber medicinae [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">liber medicinae</field>
+      <field name="wk_variant_sm">liber medicinae ex animalibus</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_25399669|Placitus, Sextus, 4th–5th cent.</field>
+      <field name="shelfmarks">MS Bodl 130</field>
+      <field name="shelfmarks">MS. Bodl. 130</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1192|MS. Bodl. 130 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_701</field>
+      <field name="id">work_701</field>
+      <field name="title">Arnulfus, de Boeriis, –1149: Speculum monachorum [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">speculum monachorum</field>
+      <field name="wk_variant_sm">speculum monasticum</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">monasticism and religious orders</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=monasticism and religious orders|Other works with the subject 'monasticism and religious orders'</field>
+      <field name="link_author_smni">/catalog/person_257102351|Arnulfus, de Boeriis, –1149</field>
+      <field name="shelfmarks">MS Lawn medieval 19</field>
+      <field name="shelfmarks">MS. Lawn medieval 19</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7689|MS. Lawn medieval 19|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1578</field>
+      <field name="id">work_1578</field>
+      <field name="title">Petrucci, Federico, active 14th century: Consilia, disputationes, quaestiones [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">consilia, disputationes, quaestiones</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="link_author_smni">/catalog/person_2610577|Petrucci, Federico, active 14th century</field>
+      <field name="shelfmarks">MS Canon Misc 442</field>
+      <field name="shelfmarks">MS. Canon. Misc. 442</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3477|MS. Canon. Misc. 442|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3633</field>
+      <field name="id">work_3633</field>
+      <field name="title">Philaretus: Liber pulsuum [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">liber pulsuum</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/de-pulsibus-philaretus-saec-ix-title/570|Mirabile</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_262260005|Philaretus</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3662</field>
+      <field name="id">work_3662</field>
+      <field name="title">Phocas, grammarian, 3rd–4th cent.: Ars de nomine et uerbo [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">ars de nomine et uerbo</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">grammar</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=grammar|Other works with the subject 'grammar'</field>
+      <field name="link_author_smni">/catalog/person_264079000|Phocas, grammarian, 3rd–4th cent.</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4757</field>
+      <field name="id">work_4757</field>
+      <field name="title">Aquinas, Thomas, Saint, 1225–1274: Commentary on Peter Lombard, Sentences [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">Scriptum super libros Sententiarum (Commentarium in libros Sententiarum )</field>
+      <field name="wk_variant_sm">commentary on peter lombard, sententiae</field>
+      <field name="wk_variant_sm">commentary on the sentences</field>
+      <field name="wk_variant_sm">Commentary on II Sent</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/scriptum-super-libros-sententiarum-thomas-de-aquin-title/4201|Mirabile</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_264344179|Aquinas, Thomas, Saint, 1225–1274</field>
+      <field name="shelfmarks">Merton College MS 98</field>
+      <field name="shelfmarks">Merton College MS. 98</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10196|Merton College MS. 98|S. XIV in; England, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2466</field>
+      <field name="id">work_2466</field>
+      <field name="title">John,‏ Climacus, Saint,‏ active 6th century‏: Liber ad pastorem [Greek]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">epistola ad pastorem</field>
+      <field name="wk_variant_sm">epistola ad religiosum pastorem</field>
+      <field name="wk_variant_sm">sermo ad pastorem</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_268286342|John,‏ Climacus, Saint,‏ active 6th century‏</field>
+      <field name="shelfmarks">MS Barocci 134</field>
+      <field name="shelfmarks">MS. Barocci 134</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_960|MS. Barocci 134 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2467</field>
+      <field name="id">work_2467</field>
+      <field name="title">John,‏ Climacus, Saint,‏ active 6th century‏: Scala paradisi [Greek]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">Scala paradisi</field>
+      <field name="link_external_smni">http://pinakes.irht.cnrs.fr/notices/oeuvre/id/12161|Pinakes</field>
+      <field name="bibref_smni">&lt;i&gt;&lt;a href="https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPG&amp;number=7852" target="_blank"&gt;CPG 7852&lt;/a&gt;&lt;/i&gt;</field>
+      <field name="repertory_sm">CPG 7852</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_268286342|John,‏ Climacus, Saint,‏ active 6th century‏</field>
+      <field name="shelfmarks">MS Barocci 134</field>
+      <field name="shelfmarks">MS. Barocci 134</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_960|MS. Barocci 134 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3718</field>
+      <field name="id">work_3718</field>
+      <field name="title">Plutarch: Lives of Alexander and Caesar (tr. Guarino Veronese) [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">vitae alexandri et caesari</field>
+      <field name="wk_variant_sm">Lives of Alexander and Caesar</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_268955446|Plutarch</field>
+      <field name="link_translator_smni">/catalog/person_78782481|Guarino, Veronese, 1374–1460</field>
+      <field name="shelfmarks">MS Rawl G 87</field>
+      <field name="shelfmarks">MS. Rawl. G. 87</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8607|MS. Rawl. G. 87 (Selected pages online)|15th century, third quarter; Italian, Ferrara</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3994</field>
+      <field name="id">work_3994</field>
+      <field name="title">Dioscorides, Pseudo-: Ex herbis feminis [Latin]</field>
+      <field name="alpha_title">D</field>
+      <field name="wk_variant_sm">ex herbis feminis</field>
+      <field name="wk_variant_sm">Ex herbis femininis</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_282402827|Dioscorides, Pseudo-</field>
+      <field name="shelfmarks">MS Bodl 130</field>
+      <field name="shelfmarks">MS. Bodl. 130</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1192|MS. Bodl. 130 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4080</field>
+      <field name="id">work_4080</field>
+      <field name="title">Ovid, pseudo: Nux [Latin]</field>
+      <field name="alpha_title">O</field>
+      <field name="wk_variant_sm">de nuce</field>
+      <field name="wk_variant_sm">Nux</field>
+      <field name="bibref_smni">ed. F. W. Lenz (Turin 1956).</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_285292080|Ovid, pseudo</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2065</field>
+      <field name="id">work_2065</field>
+      <field name="title">Hippocrates, v460–v370: Aphorismata (anon. tr.) [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">aphorisms</field>
+      <field name="wk_variant_sm">liber aphorismorum</field>
+      <field name="bibref_smni">P. Kibre &lt;i&gt;Hippocrates Latinus&lt;/i&gt; (1985), III.A.3 (pp. 42–50).</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_287984736|Hippocrates, v460–v370</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2069</field>
+      <field name="id">work_2069</field>
+      <field name="title">Hippocrates, v460–v370: Prognostica (tr. Constantinus Africanus or Gerard of Cremona) [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">prognostica</field>
+      <field name="bibref_smni">&lt;i&gt;Hippocrates Latinus&lt;/i&gt; XLV.A.2</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_287984736|Hippocrates, v460–v370</field>
+      <field name="link_translator_smni">/catalog/person_305230031|Constantinus Africanus, d. before 1098/1099</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2070</field>
+      <field name="id">work_2070</field>
+      <field name="title">Hippocrates, v460–v370: Regimen acutorum (tr.) [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">Acutarum egritudinum regimen sive Dieta acutorum</field>
+      <field name="wk_variant_sm">De Regimine Acutorum Morborum</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/acutorum-morborum-regimen-gerhardus-cremonensis-n--title/3032|Mirabile</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/regimen-acutorum-hippocrates-title/16975|Mirabile</field>
+      <field name="note_smni">The translation is variously attributed to Gerard of Cremona and Constantinus Africanus: see &lt;i&gt;Hippocrates Latinus&lt;/i&gt;.</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_287984736|Hippocrates, v460–v370</field>
+      <field name="link_translator_smni">/catalog/person_305230031|Constantinus Africanus, d. before 1098/1099</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3963</field>
+      <field name="id">work_3963</field>
+      <field name="title">Bonaventure, Saint, Cardinal, approximately 1217–1274, pseudo (attrib. Johannes de Caulibus): Meditationes uitae Christi (anon. tr., ‘Life of the Virgin and Christ’) [Middle English]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">meditationes uite christi</field>
+      <field name="wk_variant_sm">meditationes vitae christi</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="link_author_smni">/catalog/person_289681963|Bonaventure, Saint, Cardinal, approximately 1217–1274, pseudo</field>
+      <field name="shelfmarks">MS Bodl 578</field>
+      <field name="shelfmarks">MS. Bodl. 578</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1595|MS. Bodl. 578|15th century, first half; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4047</field>
+      <field name="id">work_4047</field>
+      <field name="title">Jerome, pseudo: Regula monachorum ad Eustochium [Italian]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">regula monachorum ad eustochium</field>
+      <field name="lang_sm">Italian</field>
+      <field name="wk_subjects_sm">monasticism and religious orders</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=monasticism and religious orders|Other works with the subject 'monasticism and religious orders'</field>
+      <field name="link_author_smni">/catalog/person_291862125|Jerome, pseudo</field>
+      <field name="shelfmarks">MS Canon Ital 194</field>
+      <field name="shelfmarks">MS. Canon. Ital. 194</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2629|MS. Canon. Ital. 194|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4161</field>
+      <field name="id">work_4161</field>
+      <field name="title">Aemilianus, Johannes Stephanus, 1449–1499: Works [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">works</field>
+      <field name="lang_sm">Latin</field>
+      <field name="link_author_smni">/catalog/person_29669603|Aemilianus, Johannes Stephanus, 1449–1499</field>
+      <field name="shelfmarks">MS Canon Class Lat 125</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 125</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2137|MS. Canon. Class. Lat. 125|16th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4131</field>
+      <field name="id">work_4131</field>
+      <field name="title">Aquinas, Thomas, pseudo: De uitiis et uirtutibus numero quaternario procedens siue Quaternarius [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">quaternarius</field>
+      <field name="bibref_smni">Bloomfield 4455</field>
+      <field name="bibref_smni">Glorieux &lt;i&gt;Rép.&lt;/i&gt; 14ee;</field>
+      <field name="bibref_smni">ed. R. Busa, &lt;i&gt;S. Thomae Aquinatis opera omnia&lt;/i&gt; (Stuttgart 1980), 7. 718–20</field>
+      <field name="bibref_smni">pr. GW M46574, etc.</field>
+      <field name="repertory_sm">Bloomfield 4455</field>
+      <field name="repertory_sm">Glorieux Rép. 14ee;</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_300696721|Aquinas, Thomas, pseudo</field>
+      <field name="shelfmarks">MS Lawn medieval 19</field>
+      <field name="shelfmarks">MS. Lawn medieval 19</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7689|MS. Lawn medieval 19|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1325</field>
+      <field name="id">work_1325</field>
+      <field name="title">Constantinus Africanus, d. before 1098/1099: Viaticum [Latin]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">viaticum</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_305230031|Constantinus Africanus, d. before 1098/1099</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3976</field>
+      <field name="id">work_3976</field>
+      <field name="title">Cicero, pseudo: Rhetorica ad herennium [Latin]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">de arte rhetorica ad herennium</field>
+      <field name="wk_variant_sm">rhetorica ad herennium</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">rhetoric</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=rhetoric|Other works with the subject 'rhetoric'</field>
+      <field name="link_author_smni">/catalog/person_305360068|Cicero, pseudo</field>
+      <field name="shelfmarks">MS Canon Class Lat 234</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 234</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2257|MS. Canon. Class. Lat. 234|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3946</field>
+      <field name="id">work_3946</field>
+      <field name="title">Bernard, of Clairvaux, Saint, 1090 or 1091–1153, pseudo: De doctrina religiosorum [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">de doctrina religiosorum</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_306415749|Bernard, of Clairvaux, Saint, 1090 or 1091–1153, pseudo</field>
+      <field name="shelfmarks">MS Lawn medieval 19</field>
+      <field name="shelfmarks">MS. Lawn medieval 19</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7689|MS. Lawn medieval 19|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2791</field>
+      <field name="id">work_2791</field>
+      <field name="title">John XXII, Pope, –1334: Litterae et constitutiones [Latin]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">constitutions</field>
+      <field name="wk_variant_sm">Letter to the archbishop of Toulouse</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="link_author_smni">/catalog/person_32005351|John XXII, Pope, –1334</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2235</field>
+      <field name="id">work_2235</field>
+      <field name="title">Israeli, Isaac, approximately 832–approximately 932: De dietis universalibus [Latin]</field>
+      <field name="alpha_title">I</field>
+      <field name="wk_variant_sm">de dietis uniuersalibus</field>
+      <field name="wk_variant_sm">de dietis uniuersalibus et particularibus</field>
+      <field name="wk_variant_sm">de dietis universalibus</field>
+      <field name="wk_variant_sm">de dietis universalibus et particularibus</field>
+      <field name="wk_variant_sm">dietae uniuersales</field>
+      <field name="wk_variant_sm">liber dietarum universalium</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_34580662|Israeli, Isaac, approximately 832–approximately 932</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2237</field>
+      <field name="id">work_2237</field>
+      <field name="title">Israeli, Isaac, approximately 832–approximately 932: Liber febrium [Latin]</field>
+      <field name="alpha_title">I</field>
+      <field name="wk_variant_sm">liber febrium</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_34580662|Israeli, Isaac, approximately 832–approximately 932</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2238</field>
+      <field name="id">work_2238</field>
+      <field name="title">Israeli, Isaac, approximately 832–approximately 932: Liber urinarum [Latin]</field>
+      <field name="alpha_title">I</field>
+      <field name="wk_variant_sm">liber urinarum</field>
+      <field name="wk_variant_sm">Liber de urinis</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_34580662|Israeli, Isaac, approximately 832–approximately 932</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_990</field>
+      <field name="id">work_990</field>
+      <field name="title">Benedict, XII, Pope, –1342: Constitution in agro domini [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">constitution in agro domini</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="link_author_smni">/catalog/person_36914465|Benedict, XII, Pope, –1342</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3268</field>
+      <field name="id">work_3268</field>
+      <field name="title">Nicholas, IV, Pope, 1227–1292: Summa [Latin]</field>
+      <field name="alpha_title">N</field>
+      <field name="wk_variant_sm">summa</field>
+      <field name="lang_sm">Latin</field>
+      <field name="link_author_smni">/catalog/person_3827199|Nicholas, IV, Pope, 1227–1292</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3560</field>
+      <field name="id">work_3560</field>
+      <field name="title">Petrarca, Francesco, 1304–1374: Historia griseldis [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">historia griseldis</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="link_author_smni">/catalog/person_39382430|Petrarca, Francesco, 1304–1374</field>
+      <field name="shelfmarks">MS Lat misc d 34</field>
+      <field name="shelfmarks">MS. Lat. misc. d. 34</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6609|MS. Lat. misc. d. 34 (Selected pages online)|15th century, late; English, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4352</field>
+      <field name="id">work_4352</field>
+      <field name="title">Robertus, de Graystanes, ca. 1336 (?): Historia de statu ecclesiae Dunelmensis [Latin]</field>
+      <field name="alpha_title">R</field>
+      <field name="wk_variant_sm">historia de statu ecclesiae dunelmensis</field>
+      <field name="bibref_smni">Sharpe, &lt;i&gt;Latin Writers&lt;/i&gt;</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="link_author_smni">/catalog/person_39734471|Robertus, de Graystanes, ca. 1336</field>
+      <field name="shelfmarks">MS Laud Misc 700</field>
+      <field name="shelfmarks">MS. Laud Misc. 700</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7476|MS. Laud Misc. 700|14th century; additions, 16th century (?); English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_854</field>
+      <field name="id">work_854</field>
+      <field name="title">Avianus: Fables [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">fables</field>
+      <field name="wk_variant_sm">fabulae</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_41836105|Avianus</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1397</field>
+      <field name="id">work_1397</field>
+      <field name="title">Diogenes Laertius: Lives of the philosophers (tr. Ambrogio Traversari) [Latin]</field>
+      <field name="alpha_title">D</field>
+      <field name="wk_variant_sm">vitae philosophorum</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="link_author_smni">/catalog/person_41839141|Diogenes Laertius</field>
+      <field name="link_translator_smni">/catalog/person_29617842|Traversari, Ambrogio, 1386–1439</field>
+      <field name="shelfmarks">MS Bywater 1</field>
+      <field name="shelfmarks">MS. Bywater 1</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2009|MS. Bywater 1 (Selected pages online)|15th century, third quarter; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1606</field>
+      <field name="id">work_1606</field>
+      <field name="title">Galen: De emplastris [Greek]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">de emplastris</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_44299175|Galen</field>
+      <field name="shelfmarks">MS Laud Gr 62</field>
+      <field name="shelfmarks">MS. Laud Gr. 62</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6875|MS. Laud Gr. 62|16th century, beginning</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1610</field>
+      <field name="id">work_1610</field>
+      <field name="title">Galen: De methodo medendi [Greek]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">de methodo medendi</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_44299175|Galen</field>
+      <field name="shelfmarks">MS Laud Gr 56</field>
+      <field name="shelfmarks">MS. Laud Gr. 56</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6868|MS. Laud Gr. 56|15th century, fourth quarter; Italian, Florence (?), Rome (?)</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1621</field>
+      <field name="id">work_1621</field>
+      <field name="title">Galen: Tegni [Latin]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">tegni</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_44299175|Galen</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1999</field>
+      <field name="id">work_1999</field>
+      <field name="title">Bracton, Henry de, –1268: De legibus et consuetudinibus angliae [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">de legibus et consuetudinibus angliae</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="link_author_smni">/catalog/person_47555925|Bracton, Henry de, –1268</field>
+      <field name="shelfmarks">MS Rawl C 159</field>
+      <field name="shelfmarks">MS. Rawl. C. 159</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8107|MS. Rawl. C. 159|14th century, first half; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3361</field>
+      <field name="id">work_3361</field>
+      <field name="title">Odo, of Asti, -approximately 1120: Commentary on the Psalms [Latin]</field>
+      <field name="alpha_title">O</field>
+      <field name="wk_variant_sm">commentary on the psalms</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">bible</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=bible|Other works with the subject 'bible'</field>
+      <field name="link_author_smni">/catalog/person_49143560|Odo, of Asti, -approximately 1120</field>
+      <field name="shelfmarks">MS Add C 269</field>
+      <field name="shelfmarks">MS. Add. C. 269</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_140|MS. Add. C. 269|12th century, end; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2871</field>
+      <field name="id">work_2871</field>
+      <field name="title">Plousiadenos, Joannes, approximately 1429–1500: Apology for the Council of Florence [Greek]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">Expositio de synodo Florentina et defensio quinque capitum eiusdem synodi</field>
+      <field name="wk_variant_sm">Apology for the Council of Florence</field>
+      <field name="link_external_smni">http://pinakes.irht.cnrs.fr/notices/oeuvre/id/11658|Pinakes</field>
+      <field name="note_smni">Sometimes attributed to Gennadius, II, Patriarch of Constantinople.</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">politics and government</field>
+      <field name="wk_subjects_sm">clergy</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=clergy|Other works with the subject 'clergy'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=politics and government|Other works with the subject 'politics and government'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_51682715|Plousiadenos, Joannes (Joseph of Methone), approximately 1429–1500</field>
+      <field name="shelfmarks">MS Gr misc c 6</field>
+      <field name="shelfmarks">MS. Gr. misc. c. 6</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5912|MS. Gr. misc. c. 6|16th century, second half; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2628</field>
+      <field name="id">work_2628</field>
+      <field name="title">Buridan, Jean, 1300–1358: Quaestiones super librum De anima secundum tertiam (ultimam) lecturam [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">commentary on Aristotle, de anima</field>
+      <field name="wk_variant_sm">Quaestiones super librum De anima secundum tertiam (ultimam) lecturam</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/quaestiones-super-librum-de-anima-secundum-tertiam-title/6194|Mirabile</field>
+      <field name="bibref_smni">Lohr pp. 258–9 (no. 26)</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">philosophy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=philosophy|Other works with the subject 'philosophy'</field>
+      <field name="link_author_smni">/catalog/person_286011503|Buridan, Jean, 1300–1358</field>
+      <field name="shelfmarks">MS Canon Class Lat 278</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 278</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2305|MS. Canon. Class. Lat. 278|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3269</field>
+      <field name="id">work_3269</field>
+      <field name="title">Bonaventure, Saint, Cardinal, approximately 1217–1274, pseudo (attrib. Johannes de Caulibus): Meditationes uitae christi (tr. Nicholas Love, ‘The Mirrour of the Lyf of Christ’) [Middle English]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">mirror of the blessed life of christ</field>
+      <field name="wk_variant_sm">mirror of the blessed life of jesus christ</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_289681963|Bonaventure, Saint, Cardinal, approximately 1217–1274, pseudo</field>
+      <field name="link_translator_smni">/catalog/person_51725689|Love, Nicholas, active 1410</field>
+      <field name="shelfmarks">MS Rawl A 387b</field>
+      <field name="shelfmarks">MS. Rawl. A. 387b</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7936|MS. Rawl. A. 387b (Selected pages online)|15th century, third quarter (?); English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4149</field>
+      <field name="id">work_4149</field>
+      <field name="title">Ptolemy, active 2nd century: Geographia [Greek]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">geographia</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="wk_subjects_sm">geography</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=geography|Other works with the subject 'geography'</field>
+      <field name="link_author_smni">/catalog/person_54152998|Ptolemy, active 2nd century</field>
+      <field name="shelfmarks">MS Arch Selden B 45</field>
+      <field name="shelfmarks">MS. Arch. Selden. B. 45</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8870|MS. Arch. Selden. B. 45|1482; Byzantine</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4733</field>
+      <field name="id">work_4733</field>
+      <field name="title">Theodulus, active 9th century: Ecloga [Latin]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">ecloga</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="link_author_smni">/catalog/person_56961813|Theodulus, active 9th century</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1052</field>
+      <field name="id">work_1052</field>
+      <field name="title">Bernard, of Clairvaux, Saint, 1090 or 1091–1153: Sermons and other works [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">sermons and other works</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">sermons</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=sermons|Other works with the subject 'sermons'</field>
+      <field name="link_author_smni">/catalog/person_59875293|Bernard, of Clairvaux, Saint, 1090 or 1091–1153</field>
+      <field name="shelfmarks">MS Bodl 838</field>
+      <field name="shelfmarks">MS. Bodl. 838</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1827|MS. Bodl. 838|14th century, early</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_5016</field>
+      <field name="id">work_5016</field>
+      <field name="title">Langland, William, 1330?–1400?: Piers plowman [Middle English]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">piers plowman</field>
+      <field name="wk_variant_sm">piers plowman, a-version</field>
+      <field name="wk_variant_sm">piers plowman, b-version</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="link_author_smni">/catalog/person_61560236|Langland, William, 1330?–1400?</field>
+      <field name="shelfmarks">MS Bodl 814</field>
+      <field name="shelfmarks">MS. Bodl. 814</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1802|MS. Bodl. 814|15th century, first half; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3602</field>
+      <field name="id">work_3602</field>
+      <field name="title">Petrus, Riga, 1140–1209: Aurora [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">aurora</field>
+      <field name="bibref_smni">&lt;i&gt;&lt;a href="http://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=searchlist&amp;tlnr=6823" target="_blank"&gt;Stegmüller, Bibl. 6823&lt;/a&gt;&lt;/i&gt;-&lt;a href="http://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=searchlist&amp;tlnr=6825" target="_blank"&gt;5&lt;/a&gt;</field>
+      <field name="bibref_smni">ed. P. Beichner (2 vols, University of Notre Dame)</field>
+      <field name="repertory_sm">Stegmüller, Bibl. 6823-5</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="wk_subjects_sm">bible</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=bible|Other works with the subject 'bible'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="link_author_smni">/catalog/person_61907230|Petrus, Riga, 1140–1209</field>
+      <field name="shelfmarks">MS Bodl 822</field>
+      <field name="shelfmarks">MS. Bodl. 822</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1811|MS. Bodl. 822|13th century, middle; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1096</field>
+      <field name="id">work_1096</field>
+      <field name="title">Boccaccio, Giovanni, 1313–1375: Corbaccio [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">corbaccio</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="link_author_smni">/catalog/person_64002165|Boccaccio, Giovanni, 1313–1375</field>
+      <field name="shelfmarks">MS Lat misc d 34</field>
+      <field name="shelfmarks">MS. Lat. misc. d. 34</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6609|MS. Lat. misc. d. 34 (Selected pages online)|15th century, late; English, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1112</field>
+      <field name="id">work_1112</field>
+      <field name="title">Boccaccio, Giovanni, 1313–1375: Tancred and Ghismonda [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">tancred and ghismonda</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="link_author_smni">/catalog/person_64002165|Boccaccio, Giovanni, 1313–1375</field>
+      <field name="shelfmarks">MS Lat misc d 34</field>
+      <field name="shelfmarks">MS. Lat. misc. d. 34</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6609|MS. Lat. misc. d. 34 (Selected pages online)|15th century, late; English, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4252</field>
+      <field name="id">work_4252</field>
+      <field name="title">Ricardus, de Mediavilla, approximately 1249–1308?: Commentary on Peter Lombard, Sentences [Latin]</field>
+      <field name="alpha_title">R</field>
+      <field name="wk_variant_sm">commentary on peter lombard, sentences</field>
+      <field name="wk_variant_sm">commentary on peter lombard, sententiae</field>
+      <field name="wk_variant_sm">Commentary on I Sent.</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_64802885|Ricardus, de Mediavilla, approximately 1249–1308?</field>
+      <field name="shelfmarks">Merton College MS 98</field>
+      <field name="shelfmarks">Merton College MS. 98</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10196|Merton College MS. 98|S. XIV in; England, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2517</field>
+      <field name="id">work_2517</field>
+      <field name="title">Johannes, Raithenus, 7th cent.: Epistola ad Johannem Climacum [Greek]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">epistola ad johannem climacum</field>
+      <field name="wk_variant_sm">epistula</field>
+      <field name="lang_sm">Greek</field>
+      <field name="link_author_smni">/catalog/person_66859241|Johannes, Raithenus, 7th cent.</field>
+      <field name="shelfmarks">MS Barocci 134</field>
+      <field name="shelfmarks">MS. Barocci 134</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_960|MS. Barocci 134 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1792</field>
+      <field name="id">work_1792</field>
+      <field name="title">Giraldus, Cambrensis: De topographia hiberniae [Latin]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">de topographia hiberniae</field>
+      <field name="wk_variant_sm">topographia hiberniae</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">geography</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=geography|Other works with the subject 'geography'</field>
+      <field name="link_author_smni">/catalog/person_67260463|Giraldus, Cambrensis</field>
+      <field name="shelfmarks">MS Laud Misc 720</field>
+      <field name="shelfmarks">MS. Laud Misc. 720</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7497|MS. Laud Misc. 720 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1674</field>
+      <field name="id">work_1674</field>
+      <field name="title">Geoffrey, of Coldingham, active 13th century: De statu ecclesie Dunelm. qui incipit ad obitum Willelmi episcopi de Sancta Barbara [Latin]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">liber de statu ecclesiae dunelmensis</field>
+      <field name="wk_variant_sm">De statu ecclesiae Dunelmensis</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/liber-de-statu-ecclesiae-dunelmensis-gaufridus-dun-title/127873|Mirabile</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="link_author_smni">/catalog/person_69741211|Geoffrey, of Coldingham, active 13th century</field>
+      <field name="shelfmarks">MS Laud Misc 700</field>
+      <field name="shelfmarks">MS. Laud Misc. 700</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7476|MS. Laud Misc. 700|14th century; additions, 16th century (?); English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3276</field>
+      <field name="id">work_3276</field>
+      <field name="title">Trevet, Nicolas: Commentary on Augustine of Hippo, De civitate dei [Latin]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">Expositio historiarum extranearum dictorumque poeticorum quae tanguntur ab Augustino in libris De civitate Dei</field>
+      <field name="wk_variant_sm">commentary on augustine, de ciuitate dei</field>
+      <field name="wk_variant_sm">commentary</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/expositio-historiarum-extranearum-dictorumque-poet-title/14101|Mirabile</field>
+      <field name="bibref_smni">Kaeppeli 3136</field>
+      <field name="bibref_smni">part pr. [Strassburg c. 1468] (&lt;i&gt;GW&lt;/i&gt; 2883), Mainz 1473 &amp;c.; (as continuation to the commentary by Thomas Waleys)</field>
+      <field name="repertory_sm">Kaeppeli 3136</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_71433906|Trevet, Nicolas</field>
+      <field name="shelfmarks">MS Laud Misc 128</field>
+      <field name="shelfmarks">MS. Laud Misc. 128</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6938|MS. Laud Misc. 128|15th century, end</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1748</field>
+      <field name="id">work_1748</field>
+      <field name="title">Aegidius, Corbeiensis, 1140–1224: De pulsibus [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">de pulsibus</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/catalog/work_7161|Commentary on Giles of Corbeil's De pulsibus [Latin]</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_71543640|Aegidius, Corbeiensis, 1140–1224</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1751</field>
+      <field name="id">work_1751</field>
+      <field name="title">Aegidius, Corbeiensis, 1140–1224: De urinis [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">de urinis</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/carmen-de-urinis-aegidius-corboliensis-n-1140-ca-m-title/4440|Mirabile</field>
+      <field name="bibref_smni">eTK 0422D</field>
+      <field name="repertory_sm">eTK 0422D</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/catalog/work_7387|Commentary on Giles of Corbeil's De urinis [Latin]</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_71543640|Aegidius, Corbeiensis, 1140–1224</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3465</field>
+      <field name="id">work_3465</field>
+      <field name="title">Pergola, Paolo della, –1455: Compendium logicae [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">compendium logicae</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">philosophy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=philosophy|Other works with the subject 'philosophy'</field>
+      <field name="link_author_smni">/catalog/person_72445530|Pergola, Paolo della, –1455</field>
+      <field name="shelfmarks">MS Canon Misc 98</field>
+      <field name="shelfmarks">MS. Canon. Misc. 98</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3665|MS. Canon. Misc. 98|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3466</field>
+      <field name="id">work_3466</field>
+      <field name="title">Pergola, Paolo della, –1455: De sensu composito et diuiso [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">de sensu composito et diuiso</field>
+      <field name="wk_variant_sm">tractatus de sensu composito et diuiso</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">philosophy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=philosophy|Other works with the subject 'philosophy'</field>
+      <field name="link_author_smni">/catalog/person_72445530|Pergola, Paolo della, –1455</field>
+      <field name="shelfmarks">MS Canon Misc 98</field>
+      <field name="shelfmarks">MS. Canon. Misc. 98</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3665|MS. Canon. Misc. 98|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1134</field>
+      <field name="id">work_1134</field>
+      <field name="title">Bonaguida, d'Arezzo, active 1251–1258: De dispensacionibus et privilegiis [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">de dispensacionibus et privilegiis</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="link_author_smni">/catalog/person_73608041|Bonaguida, d'Arezzo, active 1251–1258</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4512</field>
+      <field name="id">work_4512</field>
+      <field name="title">Serlo, Baiocensis, ca. 1050–1122: Quae monachi quaerunt [Latin]</field>
+      <field name="alpha_title">S</field>
+      <field name="wk_variant_sm">quae monachi quaerunt</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">monasticism and religious orders</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=monasticism and religious orders|Other works with the subject 'monasticism and religious orders'</field>
+      <field name="link_author_smni">/catalog/person_74208088|Serlo, Baiocensis, ca. 1050 - 1122</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3218</field>
+      <field name="id">work_3218</field>
+      <field name="title">Misinus, de Coderonco, ca. 1387: Quaestiones in librum de interpretatione [Latin]</field>
+      <field name="alpha_title">M</field>
+      <field name="wk_variant_sm">quaestiones in librum de interpretatione</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">philosophy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=philosophy|Other works with the subject 'philosophy'</field>
+      <field name="link_author_smni">/catalog/person_76709569|Misinus, de Coderonco, ca. 1387</field>
+      <field name="shelfmarks">MS Canon Class Lat 278</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 278</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2305|MS. Canon. Class. Lat. 278|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3217</field>
+      <field name="id">work_3217</field>
+      <field name="title">Misinus, de Coderonco, ca. 1387: Treatises on William Heytesbury, De praedicamentis [Latin]</field>
+      <field name="alpha_title">M</field>
+      <field name="wk_variant_sm">treatises on william heytesbury, de praedicamentis</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">philosophy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=philosophy|Other works with the subject 'philosophy'</field>
+      <field name="link_author_smni">/catalog/person_76709569|Misinus, de Coderonco, ca. 1387</field>
+      <field name="shelfmarks">MS Canon Class Lat 278</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 278</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2305|MS. Canon. Class. Lat. 278|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3846</field>
+      <field name="id">work_3846</field>
+      <field name="title">Apuleius, pseudo: Herbal [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">herbal</field>
+      <field name="wk_variant_sm">herbarium</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_author_smni">/catalog/person_77901738|Apuleius, pseudo</field>
+      <field name="shelfmarks">MS Bodl 130</field>
+      <field name="shelfmarks">MS. Bodl. 130</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1192|MS. Bodl. 130 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4539</field>
+      <field name="id">work_4539</field>
+      <field name="title">Simeon, of Durham, -approximately 1130: De statu Lindisfarnensis et Dunelmensis ecclesie usque ad electionem Hugonis de Puteaco [Latin]</field>
+      <field name="alpha_title">S</field>
+      <field name="wk_variant_sm">Libellus de exordio et procursu Dunelmensis ecclesiae</field>
+      <field name="wk_variant_sm">historia ecclesiae dunelmensis</field>
+      <field name="wk_variant_sm">history of the church of durham</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/libellus-de-exordio-et-procursu-dunelmensis-eccles-title/7956|Mirabile</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="link_author_smni">/catalog/person_78629943|Simeon, of Durham, -approximately 1130</field>
+      <field name="shelfmarks">MS Laud Misc 700</field>
+      <field name="shelfmarks">MS. Laud Misc. 700</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7476|MS. Laud Misc. 700|14th century; additions, 16th century (?); English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1251</field>
+      <field name="id">work_1251</field>
+      <field name="title">Cicero, Marcus Tullius: Disputationes Tusculanae [Latin]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">Tusculanae quaestiones</field>
+      <field name="wk_variant_sm">tusculan disputations</field>
+      <field name="wk_variant_sm">Disputationes Tusculanae</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">philosophy</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=philosophy|Other works with the subject 'philosophy'</field>
+      <field name="link_author_smni">/catalog/person_78769600|Cicero, Marcus Tullius</field>
+      <field name="shelfmarks">MS Rawl G 35</field>
+      <field name="shelfmarks">MS. Rawl. G. 35</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8569|MS. Rawl. G. 35|15th century, end; French</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3102</field>
+      <field name="id">work_3102</field>
+      <field name="title">Martial: Epigrams [Latin]</field>
+      <field name="alpha_title">M</field>
+      <field name="wk_variant_sm">epigrams</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_8099277|Martial</field>
+      <field name="shelfmarks">MS D'Orville 179</field>
+      <field name="shelfmarks">MS. D'Orville 179</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4116|MS. D'Orville 179|15th century, end; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3417</field>
+      <field name="id">work_3417</field>
+      <field name="title">Ovid, 43 B.C.–17 A.D. or 18 A.D.: Ars amatoria [Latin]</field>
+      <field name="alpha_title">O</field>
+      <field name="wk_variant_sm">de arte amandi</field>
+      <field name="wk_variant_sm">Ars amatoria</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_88342447|Ovid, 43 B.C.–17 A.D. or 18 A.D.</field>
+      <field name="shelfmarks">MS Canon Class Lat 12</field>
+      <field name="shelfmarks">MS Rawl G 108</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 12</field>
+      <field name="shelfmarks">MS. Rawl. G. 108</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2131|MS. Canon. Class. Lat. 12|15th century</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8489|MS. Rawl. G. 108|(upper text) 15th century, first half (lower text) 14th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3426</field>
+      <field name="id">work_3426</field>
+      <field name="title">Ovid, 43 B.C.–17 A.D. or 18 A.D.: Remedia amoris [Latin]</field>
+      <field name="alpha_title">O</field>
+      <field name="wk_variant_sm">de remedio amoris</field>
+      <field name="wk_variant_sm">Remedia amoris</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_author_smni">/catalog/person_88342447|Ovid, 43 B.C.–17 A.D. or 18 A.D.</field>
+      <field name="shelfmarks">MS Canon Class Lat 12</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 12</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2131|MS. Canon. Class. Lat. 12|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_917</field>
+      <field name="id">work_917</field>
+      <field name="title">Basil, Saint, Bishop of Caesarea, approximately 329–379: Ad adolescentes [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">ad adolescentes</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_88967224|Basil, Saint, Bishop of Caesarea, approximately 329–379</field>
+      <field name="shelfmarks">MS Canon Misc 98</field>
+      <field name="shelfmarks">MS. Canon. Misc. 98</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3665|MS. Canon. Misc. 98|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_929</field>
+      <field name="id">work_929</field>
+      <field name="title">Basil, Saint, Bishop of Caesarea, approximately 329–379: Homilies [Greek]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">homilies</field>
+      <field name="wk_variant_sm">homilies and extracts from works</field>
+      <field name="wk_variant_sm">Sermons</field>
+      <field name="link_external_smni">https://pinakes.irht.cnrs.fr/notices/oeuvre/id/7212|Pinakes</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">sermons</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=sermons|Other works with the subject 'sermons'</field>
+      <field name="link_author_smni">/catalog/person_88967224|Basil, Saint, Bishop of Caesarea, approximately 329–379</field>
+      <field name="shelfmarks">MS Laud Gr 90</field>
+      <field name="shelfmarks">MS. Laud Gr. 90</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6901|MS. Laud Gr. 90|13th century, end; Byzantine, Constantinople</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_1677</field>
+      <field name="id">work_1677</field>
+      <field name="title">Geoffrey, of Monmouth, Bishop of St. Asaph, 1100?–1154: Historia regum britanniae [Latin]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">historia regum britanniae</field>
+      <field name="wk_variant_sm">historia regum brittanie</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="link_author_smni">/catalog/person_89028232|Geoffrey, of Monmouth, Bishop of St. Asaph, 1100?–1154</field>
+      <field name="shelfmarks">MS Laud Misc 720</field>
+      <field name="shelfmarks">MS. Laud Misc. 720</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7497|MS. Laud Misc. 720 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_5012</field>
+      <field name="id">work_5012</field>
+      <field name="title">Heytesbury, William, active 1340: Sophismata asinina [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">sophismata asinina</field>
+      <field name="wk_variant_sm">sophismata tu es asinus</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">philosophy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=philosophy|Other works with the subject 'philosophy'</field>
+      <field name="link_author_smni">/catalog/person_91729017|Heytesbury, William, active 1340</field>
+      <field name="shelfmarks">MS Canon Class Lat 278</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 278</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2305|MS. Canon. Class. Lat. 278|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2409</field>
+      <field name="id">work_2409</field>
+      <field name="title">Jerome, Saint, –419 or 420: Contra Jovinianum [Latin]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">aduersus iouinianum</field>
+      <field name="wk_variant_sm">adversus iovinianum</field>
+      <field name="wk_variant_sm">contra iovinianum</field>
+      <field name="wk_variant_sm">Aduersus Iovinianum</field>
+      <field name="bibref_smni">&lt;i&gt;&lt;a href="https://clavis.brepols.net/clacla/OA/link.aspx?clavis=CPL&amp;number=610" target="_blank"&gt;CPL 610&lt;/a&gt;&lt;/i&gt;</field>
+      <field name="bibref_smni">&lt;i&gt;PL&lt;/i&gt; 23. 211–338</field>
+      <field name="bibref_smni">Lambert 252</field>
+      <field name="repertory_sm">CPL 610</field>
+      <field name="repertory_sm">Lambert 252</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_95147024|Jerome, Saint, –419 or 420</field>
+      <field name="shelfmarks">MS Laud Misc 107</field>
+      <field name="shelfmarks">MS. Laud Misc. 107</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6916|MS. Laud Misc. 107 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2412</field>
+      <field name="id">work_2412</field>
+      <field name="title">Jerome, Saint, –419 or 420: Dialogi contra pelagianos [Latin]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">dialogi contra pelagianos</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_95147024|Jerome, Saint, –419 or 420</field>
+      <field name="shelfmarks">MS Laud Misc 107</field>
+      <field name="shelfmarks">MS. Laud Misc. 107</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6916|MS. Laud Misc. 107 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2416</field>
+      <field name="id">work_2416</field>
+      <field name="title">Jerome, Saint, –419 or 420: Epistula ad Ctesiphontem aduersus Pelagium (ep. 133) [Latin]</field>
+      <field name="alpha_title">J</field>
+      <field name="wk_variant_sm">epistula ad ctesiphontem aduersus pelagium (ep. 133)</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="link_author_smni">/catalog/person_95147024|Jerome, Saint, –419 or 420</field>
+      <field name="shelfmarks">MS Laud Misc 107</field>
+      <field name="shelfmarks">MS. Laud Misc. 107</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6916|MS. Laud Misc. 107 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2952</field>
+      <field name="id">work_2952</field>
+      <field name="title">Bruni, Leonardo, 1369–1444: De bello Italico [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">de bello italico</field>
+      <field name="wk_variant_sm">de bello italico aduersus gothos</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="link_author_smni">/catalog/person_95283478|Bruni, Leonardo, 1369–1444</field>
+      <field name="shelfmarks">MS Canon Misc 551</field>
+      <field name="shelfmarks">MS. Canon. Misc. 551</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3596|MS. Canon. Misc. 551 (Selected pages online)|15th century, third quarter; Italian, North-east</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_3232</field>
+      <field name="id">work_3232</field>
+      <field name="title">Nicholas, of Osimo, –1453: Quadriga spirituale [Italian]</field>
+      <field name="alpha_title">N</field>
+      <field name="wk_variant_sm">'lo libro decto quadriga spirituale'</field>
+      <field name="wk_variant_sm">quadriga spirituale</field>
+      <field name="lang_sm">Italian</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="link_author_smni">/catalog/person_95333965|Nicholas, of Osimo, –1453</field>
+      <field name="shelfmarks">MS Canon Ital 225</field>
+      <field name="shelfmarks">MS. Canon. Ital. 225</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2662|MS. Canon. Ital. 225|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_4391</field>
+      <field name="id">work_4391</field>
+      <field name="title">Holkot, Robertus, –1349: Commentary on Wisdom [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">Super Sapientiam Salamonis</field>
+      <field name="wk_variant_sm">commentary on the book of wisdom</field>
+      <field name="wk_variant_sm">commentary on wisdom</field>
+      <field name="wk_variant_sm">lectiones super librum sapientiae</field>
+      <field name="link_external_smni">http://www.mirabileweb.it/title/lectiones-super-librum-sapientiae-title/1|Mirabile</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">bible</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=bible|Other works with the subject 'bible'</field>
+      <field name="link_author_smni">/catalog/person_9841479|Holkot, Robertus, –1349</field>
+      <field name="shelfmarks">MS Bodl 279</field>
+      <field name="shelfmarks">MS. Bodl. 279</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1328|MS. Bodl. 279|14th century, third quarter; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2944</field>
+      <field name="id">work_2944</field>
+      <field name="title">Leo, VI, Emperor of the East, 866–912: Oracula [Greek]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">oracula</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="link_author_smni">/catalog/person_9873664|Leo, VI, Emperor of the East, 866–912</field>
+      <field name="shelfmarks">MS Laud Gr 93</field>
+      <field name="shelfmarks">MS. Laud Gr. 93</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6905|MS. Laud Gr. 93|16th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_2986</field>
+      <field name="id">work_2986</field>
+      <field name="title">Livy: Ab urbe condita [Latin]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">ab urbe condita</field>
+      <field name="wk_variant_sm">ab urbe condita (third decade)</field>
+      <field name="wk_variant_sm">ab urbe condita, first decade</field>
+      <field name="wk_variant_sm">first decade</field>
+      <field name="wk_variant_sm">first, third and fourth decades</field>
+      <field name="wk_variant_sm">fourth decade</field>
+      <field name="wk_variant_sm">third decade</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="link_author_smni">/catalog/person_99942145|Livy</field>
+      <field name="shelfmarks">MS Canon Class Lat 300</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 300</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2331|MS. Canon. Class. Lat. 300 (Selected pages online)|mid 1420s (?); Italian, Rome</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10205</field>
+      <field name="id">work_10205</field>
+      <field name="title">Antidotarium Nicholai [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">Antidotarium Nicholai</field>
+      <field name="wk_variant_sm">antidotarium nicholai [Latin]</field>
+      <field name="bibref_smni">Thorndike/Kibre 0165G, 0490B</field>
+      <field name="bibref_smni">pr. Venice 1471 (Goff N160), etc.</field>
+      <field name="repertory_sm">Thorndike/Kibre 0165G, 0490B</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10207</field>
+      <field name="id">work_10207</field>
+      <field name="title">Antiphonal [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">Antiphonal</field>
+      <field name="wk_variant_sm">Antiphonal.</field>
+      <field name="wk_variant_sm">Antiphoner</field>
+      <field name="wk_variant_sm">antiphonal [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="wk_subjects_sm">music</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=music|Other works with the subject 'music'</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10279</field>
+      <field name="id">work_10279</field>
+      <field name="title">Arms of the Knights of the Garter [English]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">Arms of the Knights of the Garter.</field>
+      <field name="wk_variant_sm">arms of knights of garter [English]</field>
+      <field name="lang_sm">English</field>
+      <field name="wk_subjects_sm">heraldry</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=heraldry|Other works with the subject 'heraldry'</field>
+      <field name="shelfmarks">MS Rawl B 39</field>
+      <field name="shelfmarks">MS. Rawl. B. 39</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8032|MS. Rawl. B. 39|1561; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10296</field>
+      <field name="id">work_10296</field>
+      <field name="title">Arura account (?) [Greek]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">Arura account (?)</field>
+      <field name="wk_variant_sm">arura account (?) [Greek]</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">documents</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=documents|Other works with the subject 'documents'</field>
+      <field name="shelfmarks">MS Gr class c 135 (P) (b)</field>
+      <field name="shelfmarks">MS. Gr. class. c. 135 (P) (b)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5069|MS. Gr. class. c. 135 (P) (b)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10379</field>
+      <field name="id">work_10379</field>
+      <field name="title">Astronomical, calendarial, medical and Biblical treatises and fragments [Latin]</field>
+      <field name="alpha_title">A</field>
+      <field name="wk_variant_sm">Astronomical, calendarial, medical and Biblical treatises and fragments</field>
+      <field name="wk_variant_sm">astronomical calendarial medical and biblical treatises and fragments [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="wk_subjects_sm">bible</field>
+      <field name="wk_subjects_sm">science</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=bible|Other works with the subject 'bible'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=science|Other works with the subject 'science'</field>
+      <field name="shelfmarks">MS Rawl D 238</field>
+      <field name="shelfmarks">MS. Rawl. D. 238</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8421|MS. Rawl. D. 238|14th century, end; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10097</field>
+      <field name="id">work_10097</field>
+      <field name="title">Bible, New Testament, Acts ('The Laudian Acts') [Greek and Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">Acts of the Apostles ('The Laudian Acts')</field>
+      <field name="wk_variant_sm">acts of apostles (laudian acts) [Greek and Latin]</field>
+      <field name="lang_sm">Greek</field>
+      <field name="lang_sm">Latin</field>
+      <field name="lang_sm">Multiple Languages</field>
+      <field name="wk_subjects_sm">bible</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=bible|Other works with the subject 'bible'</field>
+      <field name="shelfmarks">MS Laud Gr 35</field>
+      <field name="shelfmarks">MS. Laud Gr. 35</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6848|MS. Laud Gr. 35 (Digital facsimile online)|late 6th or early 7th century; Italian, Sardinia (?), or Rome (?)</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12092</field>
+      <field name="id">work_12092</field>
+      <field name="title">Bible, New Testament, Gospels (later Wycliffite version) [Middle English]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">Gospels (later Wycliffite version)</field>
+      <field name="wk_variant_sm">Gospels (later Wycliffite version).</field>
+      <field name="wk_variant_sm">Gospels, later Wycliffite version</field>
+      <field name="wk_variant_sm">gospels (later wycliffite version) [Middle English]</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="wk_subjects_sm">bible</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=bible|Other works with the subject 'bible'</field>
+      <field name="shelfmarks">MS Laud Misc 36</field>
+      <field name="shelfmarks">MS. Laud Misc. 36</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7158|MS. Laud Misc. 36|15th century; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12111</field>
+      <field name="id">work_12111</field>
+      <field name="title">Bible, New Testament, Gospels, Luke and John [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">Gospels of St. Luke and St. John</field>
+      <field name="wk_variant_sm">Gospels of St. Luke and of St. John</field>
+      <field name="wk_variant_sm">gospels of st luke and of st john [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">bible</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=bible|Other works with the subject 'bible'</field>
+      <field name="shelfmarks">MS Lat bib d 10</field>
+      <field name="shelfmarks">MS. Lat. bib. d. 10</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6341|MS. Lat. bib. d. 10|11th century, late; English, Exeter (?)</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10561</field>
+      <field name="id">work_10561</field>
+      <field name="title">Book of Hours, Use of Rome [Latin and French]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">Book of Hours, Use of Rome</field>
+      <field name="wk_variant_sm">Book of Hours, Use of Rome.</field>
+      <field name="wk_variant_sm">book of hours use of rome [Latin and French]</field>
+      <field name="wk_variant_sm">book of hours use of rome [Latin, French]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="lang_sm">French</field>
+      <field name="lang_sm">Multiple Languages</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Liturg 80</field>
+      <field name="shelfmarks">MS. Liturg. 80</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7736|MS. Liturg. 80 (Selected pages online)|c. 1500; French, Tours</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10565</field>
+      <field name="id">work_10565</field>
+      <field name="title">Book of Hours, Use of Rome [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">Book of Hours, Use of Rome</field>
+      <field name="wk_variant_sm">book of hours use of rome [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Canon Liturg 10</field>
+      <field name="shelfmarks">MS Douce 51</field>
+      <field name="shelfmarks">MS. Canon. Liturg. 10</field>
+      <field name="shelfmarks">MS. Douce 51</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2816|MS. Canon. Liturg. 10|15th century, third quarter; Italian, Marches</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4722|MS. Douce 51 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10629</field>
+      <field name="id">work_10629</field>
+      <field name="title">Breviary (Franciscan) [Latin and French]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">Breviary (Franciscan)</field>
+      <field name="wk_variant_sm">breviary (franciscan) [Latin and French]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="lang_sm">French</field>
+      <field name="lang_sm">Multiple Languages</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Douce 245</field>
+      <field name="shelfmarks">MS. Douce 245</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4597|MS. Douce 245 (Selected pages online)|14th century, second quarter; additions, 15th century, beginning; French, Paris</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10654</field>
+      <field name="id">work_10654</field>
+      <field name="title">Breviary, Use of the congregation of S. Giustina, Padua [Latin]</field>
+      <field name="alpha_title">B</field>
+      <field name="wk_variant_sm">Breviary (Use of Congregation of S. Giustina)</field>
+      <field name="wk_variant_sm">Breviary (Use of congregation of S. Giustina)</field>
+      <field name="wk_variant_sm">Breviary, Use of Congregation of S. Giustina</field>
+      <field name="wk_variant_sm">Breviary, Use of the congregation of S. Giustina, Padua</field>
+      <field name="wk_variant_sm">breviary use of congregation of s giustina padua [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Canon Liturg 204</field>
+      <field name="shelfmarks">MS. Canon. Liturg. 204</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2894|MS. Canon. Liturg. 204|15th century, middle and third quarter; Italian, Venice</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10744</field>
+      <field name="id">work_10744</field>
+      <field name="title">Canonical collection [Greek]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">Canonical miscellany.</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="shelfmarks">MS Holkham Gr 11</field>
+      <field name="shelfmarks">MS. Holkham Gr. 11</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6128|MS. Holkham Gr. 11|1301 (fols. 1–227) || 1451–1492</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10882</field>
+      <field name="id">work_10882</field>
+      <field name="title">Charter of Richard I relating to Scotland [Latin]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">Charter of Richard I relating to Scotland</field>
+      <field name="wk_variant_sm">charter of richard i relating to scotland [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">documents</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=documents|Other works with the subject 'documents'</field>
+      <field name="shelfmarks">MS Laud Misc 720</field>
+      <field name="shelfmarks">MS. Laud Misc. 720</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7497|MS. Laud Misc. 720 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_10888</field>
+      <field name="id">work_10888</field>
+      <field name="title">Charters [none or unknown]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">Charters</field>
+      <field name="wk_variant_sm">charters [none or unknown]</field>
+      <field name="lang_sm">No Linguistic Content</field>
+      <field name="wk_subjects_sm">documents</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=documents|Other works with the subject 'documents'</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_11035</field>
+      <field name="id">work_11035</field>
+      <field name="title">Cistercian statutes and list of abbots [Latin]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">Cistercian statutes and list of abbots.</field>
+      <field name="wk_variant_sm">cistercian statutes and list of abbots [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">monasticism and religious orders</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=monasticism and religious orders|Other works with the subject 'monasticism and religious orders'</field>
+      <field name="shelfmarks">MS Broxb 89.2</field>
+      <field name="shelfmarks">MS. Broxb. 89.2</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1977|MS. Broxb. 89.2|15th century, late; French</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_11523</field>
+      <field name="id">work_11523</field>
+      <field name="title">Devotional treatise [French and Latin]</field>
+      <field name="alpha_title">D</field>
+      <field name="wk_variant_sm">Devotional treatise</field>
+      <field name="wk_variant_sm">devotional text(s) [French and Latin]</field>
+      <field name="lang_sm">French</field>
+      <field name="lang_sm">Latin</field>
+      <field name="lang_sm">Multiple Languages</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="shelfmarks">MS Holkham misc 42</field>
+      <field name="shelfmarks">MS. Holkham misc. 42</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6270|MS. Holkham misc. 42|13th century; French (?)</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_11583</field>
+      <field name="id">work_11583</field>
+      <field name="title">Document [Greek]</field>
+      <field name="alpha_title">D</field>
+      <field name="wk_variant_sm">Document</field>
+      <field name="wk_variant_sm">Document.</field>
+      <field name="wk_variant_sm">document [Greek]</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">documents</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=documents|Other works with the subject 'documents'</field>
+      <field name="shelfmarks">MS Gr class c 135 (P) (b)</field>
+      <field name="shelfmarks">MS. Gr. class. c. 135 (P) (b)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5069|MS. Gr. class. c. 135 (P) (b)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_11717</field>
+      <field name="id">work_11717</field>
+      <field name="title">Epistolary [Italian]</field>
+      <field name="alpha_title">E</field>
+      <field name="wk_variant_sm">Epistolary</field>
+      <field name="wk_variant_sm">epistolary [Italian]</field>
+      <field name="lang_sm">Italian</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Canon Ital 118</field>
+      <field name="shelfmarks">MS. Canon. Ital. 118</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2551|MS. Canon. Ital. 118|15th century, second half; Italian, North-east (?)</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_11729</field>
+      <field name="id">work_11729</field>
+      <field name="title">Epitome Iliadis [Latin]</field>
+      <field name="alpha_title">E</field>
+      <field name="wk_variant_sm">Epitome Iliadis</field>
+      <field name="wk_variant_sm">epitome iliadis [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="wk_subjects_sm">classical literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=classical literature|Other works with the subject 'classical literature'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_11878</field>
+      <field name="id">work_11878</field>
+      <field name="title">Formulary of the papal penitentiary [Latin]</field>
+      <field name="alpha_title">F</field>
+      <field name="wk_variant_sm">Formulary of the papal penitentiary</field>
+      <field name="wk_variant_sm">formulary of papal penitentiary [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="wk_subjects_sm">documents</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=documents|Other works with the subject 'documents'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_11982</field>
+      <field name="id">work_11982</field>
+      <field name="title">Genealogy of the Kings of England to Edward I and the kings of Scotland to John Balliol [Latin]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">Genealogy of the Kings of England to Edward I.</field>
+      <field name="wk_variant_sm">Genealogy of the kings of England to Edward I.</field>
+      <field name="wk_variant_sm">genealogy of kings of england to edward i [Latin]</field>
+      <field name="wk_variant_sm">Genealogy of the kings of England from Brut to Edward I</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="shelfmarks">MS Bodl Rolls 3</field>
+      <field name="shelfmarks">MS. Bodl. Rolls 3</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1941|MS. Bodl. Rolls 3 (Selected pages online)|1292 × 1307; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12037</field>
+      <field name="id">work_12037</field>
+      <field name="title">Glossary [Latin]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">Glossary</field>
+      <field name="wk_variant_sm">glossary [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">grammar</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=grammar|Other works with the subject 'grammar'</field>
+      <field name="shelfmarks">MS Lat misc d 34</field>
+      <field name="shelfmarks">MS. Lat. misc. d. 34</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6609|MS. Lat. misc. d. 34 (Selected pages online)|15th century, late; English, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12124</field>
+      <field name="id">work_12124</field>
+      <field name="title">Gradual and Antiphonal (Ambrosian) [Latin]</field>
+      <field name="alpha_title">G</field>
+      <field name="wk_variant_sm">Gradual and Antiphonal (Ambrosian, noted)</field>
+      <field name="wk_variant_sm">gradual and antiphonal (ambrosian noted) [Latin]</field>
+      <field name="wk_variant_sm">Gradual and Antiphonal (Ambrosian)</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Lat liturg c 34</field>
+      <field name="shelfmarks">MS. Lat. liturg. c. 34</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6461|MS. Lat. liturg. c. 34|14th century, first quarter; Italian, North</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12240</field>
+      <field name="id">work_12240</field>
+      <field name="title">Historical extracts relating to Scotland [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">Historical extracts relating to Scotland</field>
+      <field name="wk_variant_sm">historical extracts relating to scotland [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="shelfmarks">MS Laud Misc 720</field>
+      <field name="shelfmarks">MS. Laud Misc. 720</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7497|MS. Laud Misc. 720 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12269</field>
+      <field name="id">work_12269</field>
+      <field name="title">History of Europe, from the time of Julius Caesar to the beginning of the 16th century [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">History of Europe, from the time of Julius Caesar to the beginning of the 16th century</field>
+      <field name="wk_variant_sm">history of europe from time of julius caesar to beginning of 16th century [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="shelfmarks">MS Add D 1</field>
+      <field name="shelfmarks">MS. Add. D. 1</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_162|MS. Add. D. 1|c. 1520; Italian, North</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12264</field>
+      <field name="id">work_12264</field>
+      <field name="title">History of the Church of Durham to 1530 [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">History of the Church of Durham to 1530</field>
+      <field name="wk_variant_sm">history of church of durham to 1530 [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="shelfmarks">MS Laud Misc 700</field>
+      <field name="shelfmarks">MS. Laud Misc. 700</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7476|MS. Laud Misc. 700|14th century; additions, 16th century (?); English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12277</field>
+      <field name="id">work_12277</field>
+      <field name="title">Homiletic/ hagiographical yearbook [Greek]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">Homiletic/ hagiographical yearbook</field>
+      <field name="wk_variant_sm">homiletic/ hagiographical yearbook [Greek]</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">sermons</field>
+      <field name="wk_subjects_sm">hagiography</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=hagiography|Other works with the subject 'hagiography'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=sermons|Other works with the subject 'sermons'</field>
+      <field name="shelfmarks">MS Auct T 3 12</field>
+      <field name="shelfmarks">MS. Auct. T. 3. 12</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_790|MS. Auct. T. 3. 12|14th century, end - 15th century, beginning; Byzantine</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12325</field>
+      <field name="id">work_12325</field>
+      <field name="title">Hymnal [Latin]</field>
+      <field name="alpha_title">H</field>
+      <field name="wk_variant_sm">Hymnal</field>
+      <field name="wk_variant_sm">Hymnal.</field>
+      <field name="wk_variant_sm">hymnal [Latin]</field>
+      <field name="wk_variant_sm">Hymnal or antiphoner</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12374</field>
+      <field name="id">work_12374</field>
+      <field name="title">Index to theological treatise [Latin]</field>
+      <field name="alpha_title">I</field>
+      <field name="wk_variant_sm">Index to theological treatise.</field>
+      <field name="wk_variant_sm">index to theological text(s) [Latin]</field>
+      <field name="wk_variant_sm">Table of quaestiones</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="wk_subjects_sm">indexes</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=indexes|Other works with the subject 'indexes'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="shelfmarks">Merton College MS 98</field>
+      <field name="shelfmarks">Merton College MS. 98</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10196|Merton College MS. 98|S. XIV in; England, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12595</field>
+      <field name="id">work_12595</field>
+      <field name="title">Legal treatises [Latin and French]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">Legal texts</field>
+      <field name="wk_variant_sm">Legal treatises</field>
+      <field name="wk_variant_sm">Legal treatises.</field>
+      <field name="wk_variant_sm">legal text(s) [Latin and French]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="lang_sm">French</field>
+      <field name="lang_sm">Multiple Languages</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12613</field>
+      <field name="id">work_12613</field>
+      <field name="title">Leges Edwardi confessoris [Latin]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">Leges Edwardi Confessoris</field>
+      <field name="wk_variant_sm">Leges Edwardi confessoris</field>
+      <field name="wk_variant_sm">leges edwardi confessoris [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12831</field>
+      <field name="id">work_12831</field>
+      <field name="title">Life of Francesco Petrarca (with English additions) [Latin and English]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">Life of Francesco Petrarca (with English additions).</field>
+      <field name="lang_sm">Latin</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="lang_sm">Multiple Languages</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="shelfmarks">MS Jones 58</field>
+      <field name="shelfmarks">MS. Jones 58</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6314|MS. Jones 58|15th century, first half; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_12852</field>
+      <field name="id">work_12852</field>
+      <field name="title">Life of St. Cyprian [Latin]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">Life of St. Cyprian</field>
+      <field name="wk_variant_sm">life of st cyprian [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">hagiography</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=hagiography|Other works with the subject 'hagiography'</field>
+      <field name="shelfmarks">MS Laud Misc 451</field>
+      <field name="shelfmarks">MS. Laud Misc. 451</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7253|MS. Laud Misc. 451|10th century, second half; French, North</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13000</field>
+      <field name="id">work_13000</field>
+      <field name="title">Lists of Lords Mayors and Lords Lieutenants of London, 1210–1530 [Latin]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">Lists of Lords Mayors and Lords Lieutenants of London, 1210–1530</field>
+      <field name="wk_variant_sm">lists of lords mayors and lords lieutenants of london 1210–1530 [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="shelfmarks">MS Rawl B 359</field>
+      <field name="shelfmarks">MS. Rawl. B. 359</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8031|MS. Rawl. B. 359|16th century; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13007</field>
+      <field name="id">work_13007</field>
+      <field name="title">Lists of Wardens, etc., of the Grocers' Company, London, 1345–1530 [Latin]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">Lists of Wardens, etc., of the Grocers' Company, London, 1345–1530.</field>
+      <field name="wk_variant_sm">lists of wardens etc of grocers company london 1345–1530 [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="shelfmarks">MS Rawl B 359</field>
+      <field name="shelfmarks">MS. Rawl. B. 359</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8031|MS. Rawl. B. 359|16th century; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13084</field>
+      <field name="id">work_13084</field>
+      <field name="title">Logic (unidentified or unspecified texts) [Latin]</field>
+      <field name="alpha_title">L</field>
+      <field name="wk_variant_sm">Logical texts</field>
+      <field name="wk_variant_sm">Logical texts.</field>
+      <field name="wk_variant_sm">Logical treatise</field>
+      <field name="wk_variant_sm">Logical treatises</field>
+      <field name="wk_variant_sm">logical text(s) [Latin]</field>
+      <field name="wk_variant_sm">Treatises on logic</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">philosophy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=philosophy|Other works with the subject 'philosophy'</field>
+      <field name="shelfmarks">MS Canon Class Lat 278</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 278</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2305|MS. Canon. Class. Lat. 278|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13148</field>
+      <field name="id">work_13148</field>
+      <field name="title">Materials relating to the Church of Durham [Latin]</field>
+      <field name="alpha_title">M</field>
+      <field name="wk_variant_sm">Materials relating to the Church of Durham.</field>
+      <field name="wk_variant_sm">materials relating to church of durham [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="shelfmarks">MS Laud Misc 700</field>
+      <field name="shelfmarks">MS. Laud Misc. 700</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7476|MS. Laud Misc. 700|14th century; additions, 16th century (?); English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13196</field>
+      <field name="id">work_13196</field>
+      <field name="title">Medical notes [Latin]</field>
+      <field name="alpha_title">M</field>
+      <field name="wk_variant_sm">Medical notes</field>
+      <field name="wk_variant_sm">Medical notes.</field>
+      <field name="wk_variant_sm">medical notes [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">medicine</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=medicine|Other works with the subject 'medicine'</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13355</field>
+      <field name="id">work_13355</field>
+      <field name="title">Missal [Latin]</field>
+      <field name="alpha_title">M</field>
+      <field name="wk_variant_sm">Missal</field>
+      <field name="wk_variant_sm">Missal.</field>
+      <field name="wk_variant_sm">missal [Latin]</field>
+      <field name="wk_variant_sm">noted Missal</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13456</field>
+      <field name="id">work_13456</field>
+      <field name="title">Nomismata account [Greek]</field>
+      <field name="alpha_title">N</field>
+      <field name="wk_variant_sm">Nomismata account.</field>
+      <field name="wk_variant_sm">nomismata account [Greek]</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">documents</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=documents|Other works with the subject 'documents'</field>
+      <field name="shelfmarks">MS Gr class c 212 (P)</field>
+      <field name="shelfmarks">MS. Gr. class. c. 212 (P)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5255|MS. Gr. class. c. 212 (P)|6th century - 7th century; Egyptian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13626</field>
+      <field name="id">work_13626</field>
+      <field name="title">Opinions of a Spanish lawyer on the legality of the divorce of Henry VIII and Catherine of Aragon [Latin]</field>
+      <field name="alpha_title">O</field>
+      <field name="wk_variant_sm">Opinions of a Spanish lawyer on the legality of the divorce of Henry VIII and Catherine of Aragon</field>
+      <field name="wk_variant_sm">opinions of a Spanish lawyer on legality of divorce of henry viii and catherine of aragon [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="shelfmarks">MS Lat hist c 6</field>
+      <field name="shelfmarks">MS. Lat. hist. c. 6</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6428|MS. Lat. hist. c. 6|c. 1528</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13659</field>
+      <field name="id">work_13659</field>
+      <field name="title">Ordinal [Latin]</field>
+      <field name="alpha_title">O</field>
+      <field name="wk_variant_sm">ordinale</field>
+      <field name="wk_variant_sm">small fragment of an Ordinal</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13743</field>
+      <field name="id">work_13743</field>
+      <field name="title">Pattern book [Middle English]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">Pattern book.</field>
+      <field name="wk_variant_sm">pattern book [Middle English]</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="shelfmarks">MS Ashmole 1504</field>
+      <field name="shelfmarks">MS. Ashmole 1504</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_287|MS. Ashmole 1504 (Selected pages online)|c. 1520–1530; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13884</field>
+      <field name="id">work_13884</field>
+      <field name="title">Poems [Latin and Italian]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">Poems</field>
+      <field name="wk_variant_sm">Poems.</field>
+      <field name="wk_variant_sm">poems [Latin and Italian]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="lang_sm">Italian</field>
+      <field name="lang_sm">Multiple Languages</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="shelfmarks">MS Lawn medieval 19</field>
+      <field name="shelfmarks">MS. Lawn medieval 19</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7689|MS. Lawn medieval 19|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13886</field>
+      <field name="id">work_13886</field>
+      <field name="title">Poems [Latin]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">Poems</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="shelfmarks">MS Canon Class Lat 125</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 125</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2137|MS. Canon. Class. Lat. 125|16th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_13931</field>
+      <field name="id">work_13931</field>
+      <field name="title">Prayer [Greek]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">Prayer</field>
+      <field name="wk_variant_sm">prayer [Greek]</field>
+      <field name="wk_variant_sm">Prayer (fragment)</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">christian literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=christian literature|Other works with the subject 'christian literature'</field>
+      <field name="shelfmarks">MS Gr th f 12 (P)</field>
+      <field name="shelfmarks">MS. Gr. th. f. 12 (P)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5937|MS. Gr. th. f. 12 (P)|7th or 8th century; Egyptian, Deir-el-Bala'izah</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14031</field>
+      <field name="id">work_14031</field>
+      <field name="title">Prophecies [Greek]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">Prophecies</field>
+      <field name="wk_variant_sm">Prophecies.</field>
+      <field name="wk_variant_sm">prophecies [Greek]</field>
+      <field name="lang_sm">Greek</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="shelfmarks">MS Laud Gr 93</field>
+      <field name="shelfmarks">MS. Laud Gr. 93</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6905|MS. Laud Gr. 93|16th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14063</field>
+      <field name="id">work_14063</field>
+      <field name="title">Proverbs [Italian]</field>
+      <field name="alpha_title">P</field>
+      <field name="wk_variant_sm">Proverbs</field>
+      <field name="wk_variant_sm">proverbs [Italian]</field>
+      <field name="lang_sm">Italian</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="shelfmarks">MS Lawn medieval 19</field>
+      <field name="shelfmarks">MS. Lawn medieval 19</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7689|MS. Lawn medieval 19|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14289</field>
+      <field name="id">work_14289</field>
+      <field name="title">Register of writs [Latin]</field>
+      <field name="alpha_title">R</field>
+      <field name="wk_variant_sm">Registrum breuium</field>
+      <field name="wk_variant_sm">Registrum brevium</field>
+      <field name="wk_variant_sm">Register of writs</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14306</field>
+      <field name="id">work_14306</field>
+      <field name="title">Regula S. Benedicti [Latin]</field>
+      <field name="alpha_title">R</field>
+      <field name="wk_variant_sm">Regula S. Benedicti</field>
+      <field name="wk_variant_sm">Rule of St. Benedict [Latin]</field>
+      <field name="wk_variant_sm">regula s benedicti [Latin]</field>
+      <field name="wk_variant_sm">Rule of St. Benedict</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">monasticism and religious orders</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=monasticism and religious orders|Other works with the subject 'monasticism and religious orders'</field>
+      <field name="shelfmarks">MS Hatton 48</field>
+      <field name="shelfmarks">MS. Hatton 48</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6072|MS. Hatton 48 (Selected pages online)|c. 700 (?); English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14663</field>
+      <field name="id">work_14663</field>
+      <field name="title">Song with music [Middle English]</field>
+      <field name="alpha_title">S</field>
+      <field name="wk_variant_sm">Song with music</field>
+      <field name="wk_variant_sm">song with music [Middle English]</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="wk_subjects_sm">music</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=music|Other works with the subject 'music'</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14664</field>
+      <field name="id">work_14664</field>
+      <field name="title">Song with music [French]</field>
+      <field name="alpha_title">S</field>
+      <field name="wk_variant_sm">Song with music</field>
+      <field name="wk_variant_sm">song with music [French]</field>
+      <field name="lang_sm">French</field>
+      <field name="wk_subjects_sm">music</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=music|Other works with the subject 'music'</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14710</field>
+      <field name="id">work_14710</field>
+      <field name="title">Statute of Gloucester [French]</field>
+      <field name="alpha_title">S</field>
+      <field name="wk_variant_sm">Statute of Gloucester</field>
+      <field name="wk_variant_sm">statute of gloucester [French]</field>
+      <field name="lang_sm">French</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="wk_subjects_sm">literature</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=literature|Other works with the subject 'literature'</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14743</field>
+      <field name="id">work_14743</field>
+      <field name="title">Statutes of England [Latin and French]</field>
+      <field name="alpha_title">S</field>
+      <field name="wk_variant_sm">Statutes of England</field>
+      <field name="wk_variant_sm">Statutes of England.</field>
+      <field name="wk_variant_sm">statutes of england [Latin and French]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="lang_sm">French</field>
+      <field name="lang_sm">Multiple Languages</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14747</field>
+      <field name="id">work_14747</field>
+      <field name="title">Statutes of England [none or unknown]</field>
+      <field name="alpha_title">S</field>
+      <field name="wk_variant_sm">Statutes of England</field>
+      <field name="wk_variant_sm">statutes of england [none or unknown]</field>
+      <field name="lang_sm">No Linguistic Content</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14872</field>
+      <field name="id">work_14872</field>
+      <field name="title">Tax list of Benedict XII [Latin]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">Tax list of Benedict XII</field>
+      <field name="wk_variant_sm">tax list of benedict xii [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">documents</field>
+      <field name="wk_subjects_sm">clergy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=clergy|Other works with the subject 'clergy'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=documents|Other works with the subject 'documents'</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_15069</field>
+      <field name="id">work_15069</field>
+      <field name="title">Texts on Islam [Latin]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">Texts on Islam</field>
+      <field name="wk_variant_sm">text(s) on islam [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="shelfmarks">MS Lawn medieval 19</field>
+      <field name="shelfmarks">MS. Lawn medieval 19</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7689|MS. Lawn medieval 19|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_15308</field>
+      <field name="id">work_15308</field>
+      <field name="title">Theology (unspecified or unidentified texts) [Latin]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">Theological pieces</field>
+      <field name="wk_variant_sm">Theological text</field>
+      <field name="wk_variant_sm">Theological treatise</field>
+      <field name="wk_variant_sm">theological text(s) [Latin]</field>
+      <field name="wk_variant_sm">Theological work</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="shelfmarks">MS Rawl G 108</field>
+      <field name="shelfmarks">MS. Rawl. G. 108</field>
+      <field name="shelfmarks">Merton College 19 d 1</field>
+      <field name="shelfmarks">Merton College 19. d. 1</field>
+      <field name="shelfmarks">Merton College D 3 5 (5)</field>
+      <field name="shelfmarks">Merton College D. 3. 5 (5)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8489|MS. Rawl. G. 108|(upper text) 15th century, first half (lower text) 14th century; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10904|Merton College 19. d. 1|s. xiv</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10667|Merton College D. 3. 5 (5)|s. xv in.; English</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_15272</field>
+      <field name="id">work_15272</field>
+      <field name="title">Theological, historical, astrological and other notes [Latin]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">Theological, historical, astrological and other notes</field>
+      <field name="wk_variant_sm">theological historical astrological and other notes [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="wk_subjects_sm">science</field>
+      <field name="wk_subjects_sm">history</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=history|Other works with the subject 'history'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=science|Other works with the subject 'science'</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="shelfmarks">MS Lawn medieval 19</field>
+      <field name="shelfmarks">MS. Lawn medieval 19</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7689|MS. Lawn medieval 19|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14986</field>
+      <field name="id">work_14986</field>
+      <field name="title">Text on chess [Middle English]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">Treatise on chess</field>
+      <field name="wk_variant_sm">text(s) on chess [Middle English]</field>
+      <field name="wk_variant_sm">A poem on Chess</field>
+      <field name="lang_sm">Middle English</field>
+      <field name="wk_subjects_sm">recreation</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=recreation|Other works with the subject 'recreation'</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14998</field>
+      <field name="id">work_14998</field>
+      <field name="title">Treatise on confession [Latin and Italian]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">Treatise on confession</field>
+      <field name="wk_variant_sm">text(s) on confession [Latin and Italian]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="lang_sm">Italian</field>
+      <field name="lang_sm">Multiple Languages</field>
+      <field name="wk_subjects_sm">theology</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=theology|Other works with the subject 'theology'</field>
+      <field name="shelfmarks">MS Canon Misc 98</field>
+      <field name="shelfmarks">MS. Canon. Misc. 98</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3665|MS. Canon. Misc. 98|15th century</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_15098</field>
+      <field name="id">work_15098</field>
+      <field name="title">Treatise on monastic life [Latin]</field>
+      <field name="alpha_title">T</field>
+      <field name="wk_variant_sm">Treatise on monastic life</field>
+      <field name="wk_variant_sm">text(s) on monastic life [Latin]</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">monasticism and religious orders</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=monasticism and religious orders|Other works with the subject 'monasticism and religious orders'</field>
+      <field name="shelfmarks">MS Lawn medieval 19</field>
+      <field name="shelfmarks">MS. Lawn medieval 19</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7689|MS. Lawn medieval 19|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_14973</field>
+      <field name="id">work_14973</field>
+      <field name="title">Canon law (unidentified or unspecified texts) [Latin]</field>
+      <field name="alpha_title">C</field>
+      <field name="wk_variant_sm">Text on Canon Law.</field>
+      <field name="wk_variant_sm">Texts on Canon Law</field>
+      <field name="wk_variant_sm">Texts on canon law</field>
+      <field name="wk_variant_sm">Treatise on canon law</field>
+      <field name="wk_variant_sm">Treatises on Canon Law</field>
+      <field name="wk_variant_sm">Treatises on canon law</field>
+      <field name="wk_variant_sm">text(s) on canon law [Latin]</field>
+      <field name="wk_variant_sm">A canonistic text on marriage</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="shelfmarks">St John's College MS 235 (fragment 43)</field>
+      <field name="shelfmarks">St John's College MS. 235 (fragment 43)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_12529|St John's College MS. 235 (fragment 43)|s. xv2/2; England</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_16339</field>
+      <field name="id">work_16339</field>
+      <field name="title">Manual of the papal penitentiary [Latin]</field>
+      <field name="alpha_title">M</field>
+      <field name="wk_variant_sm">Manual of the papal penitentiary</field>
+      <field name="bibref_smni">C. H. Haskins, 'The sources for the history of the papal penitentiary', &lt;i&gt;The American Journal of Theology&lt;/i&gt; Vol. 9, No. 3 (1905), 421–450, at 426–7</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">law</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=law|Other works with the subject 'law'</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_16378</field>
+      <field name="id">work_16378</field>
+      <field name="title">Office of Corpus Christi [Latin]</field>
+      <field name="alpha_title">O</field>
+      <field name="wk_variant_sm">Abbreviated Office for Corpus Christi, for vespers, matins, and lauds</field>
+      <field name="wk_variant_sm">Corpus Christi</field>
+      <field name="wk_variant_sm">Readings for the Office of Corpus Christi</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Add A 263</field>
+      <field name="shelfmarks">MS. Add. A. 263</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_47|MS. Add. A. 263 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">work</field>
+      <field name="pk">work_16444</field>
+      <field name="id">work_16444</field>
+      <field name="title">Office of St Thomas Aquinas [Latin]</field>
+      <field name="alpha_title">O</field>
+      <field name="wk_variant_sm">St Thomas Aquinas</field>
+      <field name="lang_sm">Latin</field>
+      <field name="wk_subjects_sm">liturgy</field>
+      <field name="link_related_smni">/?f[type][]=work;f[wk_subjects_sm][]=liturgy|Other works with the subject 'liturgy'</field>
+      <field name="shelfmarks">MS Add A 263</field>
+      <field name="shelfmarks">MS. Add. A. 263</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_47|MS. Add. A. 263 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+</add>

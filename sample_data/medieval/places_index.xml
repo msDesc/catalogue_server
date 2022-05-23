@@ -1,0 +1,1490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add><!-- Indexing started at 2022-05-06T19:40:48.817219+01:00 using authority file at /home/morri/workspaces/tei/medieval-mss/places.xml -->
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7008161</field>
+      <field name="id">place_7008161</field>
+      <field name="title">Bordeaux</field>
+      <field name="alpha_title">B</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Burdeos</field>
+      <field name="pl_variant_sm">Burdigala</field>
+      <field name="pl_variant_sm">Burdigalenses</field>
+      <field name="pl_variant_sm">Civitas Burdigalensium</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=44.840439_N_-0.5805_E|44° 50' 26" N, 0° 34' 50" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7008161|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Douce 51</field>
+      <field name="shelfmarks">MS. Douce 51</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4722|MS. Douce 51 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_1007390</field>
+      <field name="id">place_1007390</field>
+      <field name="title">Heybeli Ada (Chalke)</field>
+      <field name="alpha_title">H</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Halki</field>
+      <field name="pl_variant_sm">Heybeliada</field>
+      <field name="pl_variant_sm">Heğbelı Ada</field>
+      <field name="pl_variant_sm">Chalke (Heybeli Ada)</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=40.874444_N_29.095_E|40° 52' 28" N, 29° 5' 42" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/1007390|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Barocci 134</field>
+      <field name="shelfmarks">MS. Barocci 134</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_960|MS. Barocci 134 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7009546</field>
+      <field name="id">place_7009546</field>
+      <field name="title">Edinburgh</field>
+      <field name="alpha_title">E</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Alata castra</field>
+      <field name="pl_variant_sm">Alatius burgus</field>
+      <field name="pl_variant_sm">Aneda</field>
+      <field name="pl_variant_sm">Duneideann</field>
+      <field name="pl_variant_sm">Edenburgum</field>
+      <field name="pl_variant_sm">Edimbourg</field>
+      <field name="pl_variant_sm">Edimburgo</field>
+      <field name="pl_variant_sm">Edinburgum</field>
+      <field name="pl_variant_sm">Edinum</field>
+      <field name="pl_variant_sm">Puellarum castra</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=55.95_N_-3.2_E|55° 57' 0" N, 3° 12' 0" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7009546|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">Christ Church MS 486</field>
+      <field name="shelfmarks">Christ Church MS. 486</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3954|Christ Church MS. 486|1583; England (Oxford)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7010914</field>
+      <field name="id">place_7010914</field>
+      <field name="title">Bury Saint Edmunds</field>
+      <field name="alpha_title">B</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Beodricesworth</field>
+      <field name="pl_variant_sm">Bury St. Edmunds</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=52.25_N_0.716667_E|52° 15' 0" N, 0° 43' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7010914|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Bodl 130</field>
+      <field name="shelfmarks">MS. Bodl. 130</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1192|MS. Bodl. 130 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7002445</field>
+      <field name="id">place_7002445</field>
+      <field name="title">England</field>
+      <field name="alpha_title">E</field>
+      <field name="pl_type_s">country</field>
+      <field name="pl_variant_sm">Angleterre</field>
+      <field name="pl_variant_sm">Anglia</field>
+      <field name="pl_variant_sm">Britannia Romana</field>
+      <field name="pl_variant_sm">Britannia maior</field>
+      <field name="pl_variant_sm">Britannia propria</field>
+      <field name="pl_variant_sm">English</field>
+      <field name="pl_variant_sm">Inghilterra</field>
+      <field name="pl_variant_sm">Inglaterra</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=53_N_-2_E|53° 0' 0" N, 2° 0' 0" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7002445|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">Christ Church MS 486</field>
+      <field name="shelfmarks">Christ Church MS. 486</field>
+      <field name="shelfmarks">MS Add C 269</field>
+      <field name="shelfmarks">MS Ashmole 1504</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS Bodl 120</field>
+      <field name="shelfmarks">MS Bodl 130</field>
+      <field name="shelfmarks">MS Bodl 279</field>
+      <field name="shelfmarks">MS Bodl 578</field>
+      <field name="shelfmarks">MS Bodl 814</field>
+      <field name="shelfmarks">MS Bodl 822</field>
+      <field name="shelfmarks">MS Bodl Rolls 3</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS Hatton 18</field>
+      <field name="shelfmarks">MS Hatton 48</field>
+      <field name="shelfmarks">MS Lat bib d 10</field>
+      <field name="shelfmarks">MS Lat misc d 34</field>
+      <field name="shelfmarks">MS Laud Misc 36</field>
+      <field name="shelfmarks">MS Laud Misc 700</field>
+      <field name="shelfmarks">MS Laud Misc 720</field>
+      <field name="shelfmarks">MS Rawl A 387b</field>
+      <field name="shelfmarks">MS Rawl B 359</field>
+      <field name="shelfmarks">MS Rawl B 39</field>
+      <field name="shelfmarks">MS Rawl C 159</field>
+      <field name="shelfmarks">MS Rawl D 238</field>
+      <field name="shelfmarks">MS. Add. C. 269</field>
+      <field name="shelfmarks">MS. Ashmole 1504</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="shelfmarks">MS. Bodl. 120</field>
+      <field name="shelfmarks">MS. Bodl. 130</field>
+      <field name="shelfmarks">MS. Bodl. 279</field>
+      <field name="shelfmarks">MS. Bodl. 578</field>
+      <field name="shelfmarks">MS. Bodl. 814</field>
+      <field name="shelfmarks">MS. Bodl. 822</field>
+      <field name="shelfmarks">MS. Bodl. Rolls 3</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="shelfmarks">MS. Hatton 18</field>
+      <field name="shelfmarks">MS. Hatton 48</field>
+      <field name="shelfmarks">MS. Lat. bib. d. 10</field>
+      <field name="shelfmarks">MS. Lat. misc. d. 34</field>
+      <field name="shelfmarks">MS. Laud Misc. 36</field>
+      <field name="shelfmarks">MS. Laud Misc. 700</field>
+      <field name="shelfmarks">MS. Laud Misc. 720</field>
+      <field name="shelfmarks">MS. Rawl. A. 387b</field>
+      <field name="shelfmarks">MS. Rawl. B. 359</field>
+      <field name="shelfmarks">MS. Rawl. B. 39</field>
+      <field name="shelfmarks">MS. Rawl. C. 159</field>
+      <field name="shelfmarks">MS. Rawl. D. 238</field>
+      <field name="shelfmarks">Merton College D 3 5 (5)</field>
+      <field name="shelfmarks">Merton College D. 3. 5 (5)</field>
+      <field name="shelfmarks">Merton College MS 98</field>
+      <field name="shelfmarks">Merton College MS. 98</field>
+      <field name="shelfmarks">St John's College MS 137</field>
+      <field name="shelfmarks">St John's College MS 235 (fragment 43)</field>
+      <field name="shelfmarks">St John's College MS. 137</field>
+      <field name="shelfmarks">St John's College MS. 235 (fragment 43)</field>
+      <field name="shelfmarks">University College MS 167</field>
+      <field name="shelfmarks">University College MS. 167</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3954|Christ Church MS. 486|1583; England (Oxford)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_140|MS. Add. C. 269|12th century, end; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_287|MS. Ashmole 1504 (Selected pages online)|c. 1520–1530; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1186|MS. Bodl. 120|15th century, second half; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1192|MS. Bodl. 130 (Digital facsimile online)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1328|MS. Bodl. 279|14th century, third quarter; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1595|MS. Bodl. 578|15th century, first half; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1802|MS. Bodl. 814|15th century, first half; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1811|MS. Bodl. 822|13th century, middle; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1941|MS. Bodl. Rolls 3 (Selected pages online)|1292 × 1307; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6049|MS. Hatton 18|15th century, end; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6072|MS. Hatton 48 (Selected pages online)|c. 700 (?); English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6341|MS. Lat. bib. d. 10|11th century, late; English, Exeter (?)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6609|MS. Lat. misc. d. 34 (Selected pages online)|15th century, late; English, Oxford</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7158|MS. Laud Misc. 36|15th century; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7476|MS. Laud Misc. 700|14th century; additions, 16th century (?); English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7497|MS. Laud Misc. 720 (Selected pages online)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7936|MS. Rawl. A. 387b (Selected pages online)|15th century, third quarter (?); English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8031|MS. Rawl. B. 359|16th century; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8032|MS. Rawl. B. 39|1561; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8107|MS. Rawl. C. 159|14th century, first half; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8421|MS. Rawl. D. 238|14th century, end; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10667|Merton College D. 3. 5 (5)|s. xv in.; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10196|Merton College MS. 98|S. XIV in; England, Oxford</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_12137|St John's College MS. 137|s. xv in.; England</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_12529|St John's College MS. 235 (fragment 43)|s. xv2/2; England</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_13116|University College MS. 167|s. XVex.; England; Fountains Abbey</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_1000070</field>
+      <field name="id">place_1000070</field>
+      <field name="title">France</field>
+      <field name="alpha_title">F</field>
+      <field name="pl_type_s">country</field>
+      <field name="pl_variant_sm">FR</field>
+      <field name="pl_variant_sm">FR00</field>
+      <field name="pl_variant_sm">FRA</field>
+      <field name="pl_variant_sm">France, Republic of</field>
+      <field name="pl_variant_sm">Francia</field>
+      <field name="pl_variant_sm">Frankreich</field>
+      <field name="pl_variant_sm">Frankrijk</field>
+      <field name="pl_variant_sm">França</field>
+      <field name="pl_variant_sm">Française, République</field>
+      <field name="pl_variant_sm">French</field>
+      <field name="pl_variant_sm">French Republic</field>
+      <field name="pl_variant_sm">Gallia</field>
+      <field name="pl_variant_sm">Gaul</field>
+      <field name="pl_variant_sm">Gaule</field>
+      <field name="pl_variant_sm">ISO250</field>
+      <field name="pl_variant_sm">Republic of France</field>
+      <field name="pl_variant_sm">República Francesa</field>
+      <field name="pl_variant_sm">République Française</field>
+      <field name="pl_variant_sm">République française</field>
+      <field name="pl_variant_sm">Франция</field>
+      <field name="pl_variant_sm">Французская Республика</field>
+      <field name="pl_variant_sm">الجهور ةًا فًروس ةَ</field>
+      <field name="pl_variant_sm">فروسا</field>
+      <field name="pl_variant_sm">法兰西共和国</field>
+      <field name="pl_variant_sm">法国</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=46_N_2_E|46° 0' 0" N, 2° 0' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/1000070|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Broxb 89.2</field>
+      <field name="shelfmarks">MS Douce 245</field>
+      <field name="shelfmarks">MS Douce 51</field>
+      <field name="shelfmarks">MS Holkham misc 42</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS Laud Misc 451</field>
+      <field name="shelfmarks">MS Liturg 80</field>
+      <field name="shelfmarks">MS Rawl G 35</field>
+      <field name="shelfmarks">MS. Broxb. 89.2</field>
+      <field name="shelfmarks">MS. Douce 245</field>
+      <field name="shelfmarks">MS. Douce 51</field>
+      <field name="shelfmarks">MS. Holkham misc. 42</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="shelfmarks">MS. Laud Misc. 451</field>
+      <field name="shelfmarks">MS. Liturg. 80</field>
+      <field name="shelfmarks">MS. Rawl. G. 35</field>
+      <field name="shelfmarks">Merton College 73 e 6</field>
+      <field name="shelfmarks">Merton College 73. e. 6</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1977|MS. Broxb. 89.2|15th century, late; French</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4597|MS. Douce 245 (Selected pages online)|14th century, second quarter; additions, 15th century, beginning; French, Paris</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4722|MS. Douce 51 (Selected pages online)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6270|MS. Holkham misc. 42|13th century; French (?)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7253|MS. Laud Misc. 451|10th century, second half; French, North</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7736|MS. Liturg. 80 (Selected pages online)|c. 1500; French, Tours</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8569|MS. Rawl. G. 35|15th century, end; French</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10858|Merton College 73. e. 6|s. xiv; French</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7011781</field>
+      <field name="id">place_7011781</field>
+      <field name="title">London</field>
+      <field name="alpha_title">L</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Londen</field>
+      <field name="pl_variant_sm">Londinion</field>
+      <field name="pl_variant_sm">Londinium</field>
+      <field name="pl_variant_sm">Londinium Augusta</field>
+      <field name="pl_variant_sm">Londinos</field>
+      <field name="pl_variant_sm">Londra</field>
+      <field name="pl_variant_sm">Londres</field>
+      <field name="pl_variant_sm">Lundenburg</field>
+      <field name="pl_variant_sm">Lundenceaster</field>
+      <field name="pl_variant_sm">Lundene</field>
+      <field name="pl_variant_sm">Lundenne</field>
+      <field name="pl_variant_sm">Lundenwic</field>
+      <field name="pl_variant_sm">Lundin</field>
+      <field name="pl_variant_sm">Lundinium</field>
+      <field name="pl_variant_sm">Lundonia</field>
+      <field name="pl_variant_sm">Lundres</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=51.514248_N_-0.093145_E|51° 30' 51" N, 0° 5' 35" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7011781|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Rawl B 359</field>
+      <field name="shelfmarks">MS. Rawl. B. 359</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8031|MS. Rawl. B. 359|16th century; English</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7002444</field>
+      <field name="id">place_7002444</field>
+      <field name="title">Scotland</field>
+      <field name="alpha_title">S</field>
+      <field name="pl_type_s">country</field>
+      <field name="pl_variant_sm">Caledonia</field>
+      <field name="pl_variant_sm">Escocia</field>
+      <field name="pl_variant_sm">Escócia</field>
+      <field name="pl_variant_sm">Schottland</field>
+      <field name="pl_variant_sm">Scotch</field>
+      <field name="pl_variant_sm">Scotish</field>
+      <field name="pl_variant_sm">Scottish</field>
+      <field name="pl_variant_sm">Scozia</field>
+      <field name="pl_variant_sm">Écosse</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=57_N_-4_E|57° 0' 0" N, 4° 0' 0" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7002444|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Misc 720</field>
+      <field name="shelfmarks">MS. Laud Misc. 720</field>
+      <field name="shelfmarks">University College MS 108</field>
+      <field name="shelfmarks">University College MS. 108</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7497|MS. Laud Misc. 720 (Selected pages online)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_13087|University College MS. 108|s. XVI; Scotland</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7004847</field>
+      <field name="id">place_7004847</field>
+      <field name="title">Bologna</field>
+      <field name="alpha_title">B</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Bologne</field>
+      <field name="pl_variant_sm">Bolognese</field>
+      <field name="pl_variant_sm">Bolonia</field>
+      <field name="pl_variant_sm">Bononia</field>
+      <field name="pl_variant_sm">Bulåggna</field>
+      <field name="pl_variant_sm">Felsina</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=44.507_N_11.351_E|44° 30' 25" N, 11° 21' 4" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7004847|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Canon Class Lat 278</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 278</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2305|MS. Canon. Class. Lat. 278|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7004264</field>
+      <field name="id">place_7004264</field>
+      <field name="title">Ferrara</field>
+      <field name="alpha_title">F</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Ferrarese</field>
+      <field name="pl_variant_sm">Forum Alieni</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=44.833333_N_11.583333_E|44° 50' 0" N, 11° 35' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7004264|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Rawl G 87</field>
+      <field name="shelfmarks">MS. Rawl. G. 87</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8607|MS. Rawl. G. 87 (Selected pages online)|15th century, third quarter; Italian, Ferrara</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7024097</field>
+      <field name="id">place_7024097</field>
+      <field name="title">Flanders</field>
+      <field name="alpha_title">F</field>
+      <field name="pl_type_s">country</field>
+      <field name="pl_variant_sm">Flandern</field>
+      <field name="pl_variant_sm">Flanders, historical</field>
+      <field name="pl_variant_sm">Flandre</field>
+      <field name="pl_variant_sm">Flandrensis</field>
+      <field name="pl_variant_sm">Flandres</field>
+      <field name="pl_variant_sm">Flandria</field>
+      <field name="pl_variant_sm">Flemish</field>
+      <field name="pl_variant_sm">Vlaanderen</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=49.8333_N_5.3333_E|49° 50' 0" N, 5° 20' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7024097|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Douce 51</field>
+      <field name="shelfmarks">MS. Douce 51</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4722|MS. Douce 51 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7000457</field>
+      <field name="id">place_7000457</field>
+      <field name="title">Florence</field>
+      <field name="alpha_title">F</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Fiorenza</field>
+      <field name="pl_variant_sm">Firenze</field>
+      <field name="pl_variant_sm">Florence</field>
+      <field name="pl_variant_sm">Florencia</field>
+      <field name="pl_variant_sm">Florentia</field>
+      <field name="pl_variant_sm">Florentine</field>
+      <field name="pl_variant_sm">Florenz</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=43.766667_N_11.25_E|43° 46' 0" N, 11° 15' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7000457|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Canon Class Lat 25</field>
+      <field name="shelfmarks">MS Laud Gr 56</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 25</field>
+      <field name="shelfmarks">MS. Laud Gr. 56</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2274|MS. Canon. Class. Lat. 25|15th century, second half; Italian, Florence (?)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6868|MS. Laud Gr. 56|15th century, fourth quarter; Italian, Florence (?), Rome (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7000084</field>
+      <field name="id">place_7000084</field>
+      <field name="title">Germany</field>
+      <field name="alpha_title">G</field>
+      <field name="pl_type_s">country</field>
+      <field name="pl_variant_sm">Alemanha</field>
+      <field name="pl_variant_sm">Alemania</field>
+      <field name="pl_variant_sm">Allemagne</field>
+      <field name="pl_variant_sm">BRD</field>
+      <field name="pl_variant_sm">Bundesrepublik Deutschland</field>
+      <field name="pl_variant_sm">DE</field>
+      <field name="pl_variant_sm">DEU</field>
+      <field name="pl_variant_sm">Deutsches Reich</field>
+      <field name="pl_variant_sm">Deutschland</field>
+      <field name="pl_variant_sm">Deutschland, Bundesrepublik</field>
+      <field name="pl_variant_sm">Duitschland</field>
+      <field name="pl_variant_sm">Duitsland</field>
+      <field name="pl_variant_sm">Federal Republic of Germany</field>
+      <field name="pl_variant_sm">GM</field>
+      <field name="pl_variant_sm">GM00</field>
+      <field name="pl_variant_sm">German</field>
+      <field name="pl_variant_sm">Germania</field>
+      <field name="pl_variant_sm">Germany, Federal Republic of</field>
+      <field name="pl_variant_sm">ISO276</field>
+      <field name="pl_variant_sm">ISO280</field>
+      <field name="pl_variant_sm">República Federal de Alemania</field>
+      <field name="pl_variant_sm">République fédérale d'Allemagne</field>
+      <field name="pl_variant_sm">Германия</field>
+      <field name="pl_variant_sm">Федеративая Республика Германия</field>
+      <field name="pl_variant_sm">ألماه اَ</field>
+      <field name="pl_variant_sm">جُهور ةً ألماه اَ الاتحاد ةً</field>
+      <field name="pl_variant_sm">德国</field>
+      <field name="pl_variant_sm">德意志联邦共和国</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=51.5_N_10.5_E|51° 30' 0" N, 10° 30' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7000084|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Add A 263</field>
+      <field name="shelfmarks">MS Laud Lat 106</field>
+      <field name="shelfmarks">MS Laud Misc 107</field>
+      <field name="shelfmarks">MS. Add. A. 263</field>
+      <field name="shelfmarks">MS. Laud Lat. 106</field>
+      <field name="shelfmarks">MS. Laud Misc. 107</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_47|MS. Add. A. 263 (Digital facsimile online)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7569|MS. Laud Lat. 106 (Digital facsimile online)|13th century, end; France or Germany</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6916|MS. Laud Misc. 107 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_1000080</field>
+      <field name="id">place_1000080</field>
+      <field name="title">Italy</field>
+      <field name="alpha_title">I</field>
+      <field name="pl_type_s">country</field>
+      <field name="pl_variant_sm">Esperia</field>
+      <field name="pl_variant_sm">ISO380</field>
+      <field name="pl_variant_sm">IT</field>
+      <field name="pl_variant_sm">IT00</field>
+      <field name="pl_variant_sm">ITA</field>
+      <field name="pl_variant_sm">Italia</field>
+      <field name="pl_variant_sm">Italian</field>
+      <field name="pl_variant_sm">Italian Republic</field>
+      <field name="pl_variant_sm">Italiana, Repubblica</field>
+      <field name="pl_variant_sm">Italie</field>
+      <field name="pl_variant_sm">Italien</field>
+      <field name="pl_variant_sm">Italië</field>
+      <field name="pl_variant_sm">Italy, Republic of</field>
+      <field name="pl_variant_sm">Itália</field>
+      <field name="pl_variant_sm">Repubblica Italiana</field>
+      <field name="pl_variant_sm">Repubblica italiana</field>
+      <field name="pl_variant_sm">Republic of Italy</field>
+      <field name="pl_variant_sm">República Italiana</field>
+      <field name="pl_variant_sm">République italienne</field>
+      <field name="pl_variant_sm">Италия</field>
+      <field name="pl_variant_sm">Итальянская Республика</field>
+      <field name="pl_variant_sm">إ طًا اًَ</field>
+      <field name="pl_variant_sm">جُهور ةً إ طًا اًَ</field>
+      <field name="pl_variant_sm">意大利</field>
+      <field name="pl_variant_sm">意大利共和国</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=42.8333_N_12.8333_E|42° 50' 0" N, 12° 50' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/1000080|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Add D 1</field>
+      <field name="shelfmarks">MS Bywater 1</field>
+      <field name="shelfmarks">MS Canon Class Lat 25</field>
+      <field name="shelfmarks">MS Canon Class Lat 278</field>
+      <field name="shelfmarks">MS Canon Class Lat 300</field>
+      <field name="shelfmarks">MS Canon Ital 118</field>
+      <field name="shelfmarks">MS Canon Ital 194</field>
+      <field name="shelfmarks">MS Canon Ital 225</field>
+      <field name="shelfmarks">MS Canon Liturg 10</field>
+      <field name="shelfmarks">MS Canon Liturg 204</field>
+      <field name="shelfmarks">MS Canon Misc 459</field>
+      <field name="shelfmarks">MS Canon Misc 551</field>
+      <field name="shelfmarks">MS D'Orville 179</field>
+      <field name="shelfmarks">MS Gr misc c 6</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS Jones 58</field>
+      <field name="shelfmarks">MS Lat liturg c 34</field>
+      <field name="shelfmarks">MS Laud Gr 35</field>
+      <field name="shelfmarks">MS Laud Gr 56</field>
+      <field name="shelfmarks">MS Lawn medieval 19</field>
+      <field name="shelfmarks">MS Rawl G 108</field>
+      <field name="shelfmarks">MS Rawl G 132</field>
+      <field name="shelfmarks">MS Rawl G 87</field>
+      <field name="shelfmarks">MS. Add. D. 1</field>
+      <field name="shelfmarks">MS. Bywater 1</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 25</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 278</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 300</field>
+      <field name="shelfmarks">MS. Canon. Ital. 118</field>
+      <field name="shelfmarks">MS. Canon. Ital. 194</field>
+      <field name="shelfmarks">MS. Canon. Ital. 225</field>
+      <field name="shelfmarks">MS. Canon. Liturg. 10</field>
+      <field name="shelfmarks">MS. Canon. Liturg. 204</field>
+      <field name="shelfmarks">MS. Canon. Misc. 459</field>
+      <field name="shelfmarks">MS. Canon. Misc. 551</field>
+      <field name="shelfmarks">MS. D'Orville 179</field>
+      <field name="shelfmarks">MS. Gr. misc. c. 6</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="shelfmarks">MS. Jones 58</field>
+      <field name="shelfmarks">MS. Lat. liturg. c. 34</field>
+      <field name="shelfmarks">MS. Laud Gr. 35</field>
+      <field name="shelfmarks">MS. Laud Gr. 56</field>
+      <field name="shelfmarks">MS. Lawn medieval 19</field>
+      <field name="shelfmarks">MS. Rawl. G. 108</field>
+      <field name="shelfmarks">MS. Rawl. G. 132</field>
+      <field name="shelfmarks">MS. Rawl. G. 87</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_162|MS. Add. D. 1|c. 1520; Italian, North</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2009|MS. Bywater 1 (Selected pages online)|15th century, third quarter; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2274|MS. Canon. Class. Lat. 25|15th century, second half; Italian, Florence (?)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2305|MS. Canon. Class. Lat. 278|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2331|MS. Canon. Class. Lat. 300 (Selected pages online)|mid 1420s (?); Italian, Rome</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2551|MS. Canon. Ital. 118|15th century, second half; Italian, North-east (?)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2629|MS. Canon. Ital. 194|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2662|MS. Canon. Ital. 225|15th century; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2816|MS. Canon. Liturg. 10|15th century, third quarter; Italian, Marches</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2894|MS. Canon. Liturg. 204|15th century, middle and third quarter; Italian, Venice</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3495|MS. Canon. Misc. 459|1464; Italian, Venice</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3596|MS. Canon. Misc. 551 (Selected pages online)|15th century, third quarter; Italian, North-east</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4116|MS. D'Orville 179|15th century, end; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5912|MS. Gr. misc. c. 6|16th century, second half; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6314|MS. Jones 58|15th century, first half; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6461|MS. Lat. liturg. c. 34|14th century, first quarter; Italian, North</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6848|MS. Laud Gr. 35 (Digital facsimile online)|late 6th or early 7th century; Italian, Sardinia (?), or Rome (?)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6868|MS. Laud Gr. 56|15th century, fourth quarter; Italian, Florence (?), Rome (?)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7689|MS. Lawn medieval 19|15th century; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8489|MS. Rawl. G. 108|(upper text) 15th century, first half (lower text) 14th century; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8511|MS. Rawl. G. 132|15th century, middle; Italian, Lombardy</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8607|MS. Rawl. G. 87 (Selected pages online)|15th century, third quarter; Italian, Ferrara</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7000874</field>
+      <field name="id">place_7000874</field>
+      <field name="title">Rome</field>
+      <field name="alpha_title">R</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Rom</field>
+      <field name="pl_variant_sm">Roma</field>
+      <field name="pl_variant_sm">Roman</field>
+      <field name="pl_variant_sm">Urbe</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=41.9_N_12.483333_E|41° 54' 0" N, 12° 29' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7000874|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Canon Class Lat 300</field>
+      <field name="shelfmarks">MS Laud Gr 35</field>
+      <field name="shelfmarks">MS Laud Gr 56</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 300</field>
+      <field name="shelfmarks">MS. Laud Gr. 35</field>
+      <field name="shelfmarks">MS. Laud Gr. 56</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2331|MS. Canon. Class. Lat. 300 (Selected pages online)|mid 1420s (?); Italian, Rome</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6848|MS. Laud Gr. 35 (Digital facsimile online)|late 6th or early 7th century; Italian, Sardinia (?), or Rome (?)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6868|MS. Laud Gr. 56|15th century, fourth quarter; Italian, Florence (?), Rome (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7018159</field>
+      <field name="id">place_7018159</field>
+      <field name="title">Venice</field>
+      <field name="alpha_title">V</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Venecia</field>
+      <field name="pl_variant_sm">Venedig</field>
+      <field name="pl_variant_sm">Venetia</field>
+      <field name="pl_variant_sm">Venetian</field>
+      <field name="pl_variant_sm">Venezia</field>
+      <field name="pl_variant_sm">Venise</field>
+      <field name="pl_variant_sm">Vinegia</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=45.438611_N_12.326667_E|45° 26' 19" N, 12° 19' 36" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7018159|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Canon Liturg 204</field>
+      <field name="shelfmarks">MS Canon Misc 459</field>
+      <field name="shelfmarks">MS. Canon. Liturg. 204</field>
+      <field name="shelfmarks">MS. Canon. Misc. 459</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2894|MS. Canon. Liturg. 204|15th century, middle and third quarter; Italian, Venice</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3495|MS. Canon. Misc. 459|1464; Italian, Venice</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7011953</field>
+      <field name="id">place_7011953</field>
+      <field name="title">Exeter</field>
+      <field name="alpha_title">E</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Escancestre</field>
+      <field name="pl_variant_sm">Essecestra</field>
+      <field name="pl_variant_sm">Execestre</field>
+      <field name="pl_variant_sm">Exonia</field>
+      <field name="pl_variant_sm">Isca Dumnoniorum</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=50.7_N_-3.533333_E|50° 42' 0" N, 3° 32' 0" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7011953|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Lat bib d 10</field>
+      <field name="shelfmarks">MS. Lat. bib. d. 10</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6341|MS. Lat. bib. d. 10|11th century, late; English, Exeter (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7011931</field>
+      <field name="id">place_7011931</field>
+      <field name="title">Oxford</field>
+      <field name="alpha_title">O</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Oxenaford</field>
+      <field name="pl_variant_sm">Oxeneford</field>
+      <field name="pl_variant_sm">Oxineford</field>
+      <field name="pl_variant_sm">Oxnaford</field>
+      <field name="pl_variant_sm">Oxonia</field>
+      <field name="pl_variant_sm">juxta Oxeneford</field>
+      <field name="pl_variant_sm">juxta murum</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=51.75_N_-1.25_E|51° 45' 0" N, 1° 15' 0" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7011931|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">Christ Church MS 486</field>
+      <field name="shelfmarks">Christ Church MS. 486</field>
+      <field name="shelfmarks">MS Lat misc d 34</field>
+      <field name="shelfmarks">MS. Lat. misc. d. 34</field>
+      <field name="shelfmarks">Merton College MS 98</field>
+      <field name="shelfmarks">Merton College MS. 98</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_3954|Christ Church MS. 486|1583; England (Oxford)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6609|MS. Lat. misc. d. 34 (Selected pages online)|15th century, late; English, Oxford</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10196|Merton College MS. 98|S. XIV in; England, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7003085</field>
+      <field name="id">place_7003085</field>
+      <field name="title">Padua</field>
+      <field name="alpha_title">P</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Padoue</field>
+      <field name="pl_variant_sm">Padova</field>
+      <field name="pl_variant_sm">Paduan</field>
+      <field name="pl_variant_sm">Patavium</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=45.416667_N_11.883333_E|45° 25' 0" N, 11° 53' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7003085|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Canon Class Lat 278</field>
+      <field name="shelfmarks">MS. Canon. Class. Lat. 278</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2305|MS. Canon. Class. Lat. 278|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7008038</field>
+      <field name="id">place_7008038</field>
+      <field name="title">Paris</field>
+      <field name="alpha_title">P</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Lutetia</field>
+      <field name="pl_variant_sm">Lutetia Parisii</field>
+      <field name="pl_variant_sm">Lutetia Parisiorum</field>
+      <field name="pl_variant_sm">Parigi</field>
+      <field name="pl_variant_sm">Parisian</field>
+      <field name="pl_variant_sm">Parisii</field>
+      <field name="pl_variant_sm">Parisius</field>
+      <field name="pl_variant_sm">París</field>
+      <field name="pl_variant_sm">parisien</field>
+      <field name="pl_variant_sm">parisienne</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=48.866667_N_2.333333_E|48° 52' 0" N, 2° 20' 0" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7008038|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Douce 245</field>
+      <field name="shelfmarks">MS. Douce 245</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4597|MS. Douce 245 (Selected pages online)|14th century, second quarter; additions, 15th century, beginning; French, Paris</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7008323</field>
+      <field name="id">place_7008323</field>
+      <field name="title">Tours</field>
+      <field name="alpha_title">T</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Caesarodunum</field>
+      <field name="pl_variant_sm">Civitas Turonorum</field>
+      <field name="pl_variant_sm">Turones</field>
+      <field name="pl_variant_sm">Turoni</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=47.394836_N_0.703977_E|47° 23' 41" N, 0° 42' 14" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7008323|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Liturg 80</field>
+      <field name="shelfmarks">MS. Liturg. 80</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7736|MS. Liturg. 80 (Selected pages online)|c. 1500; French, Tours</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7024407</field>
+      <field name="id">place_7024407</field>
+      <field name="title">Byzantine Empire</field>
+      <field name="alpha_title">B</field>
+      <field name="pl_type_s">country</field>
+      <field name="pl_variant_sm">East Roman Empire</field>
+      <field name="pl_variant_sm">Eastern Roman Empire</field>
+      <field name="pl_variant_sm">Empire byzantin</field>
+      <field name="pl_variant_sm">Empire of the East</field>
+      <field name="pl_variant_sm">Byzantine</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7024407|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Arch Selden B 45</field>
+      <field name="shelfmarks">MS Auct T 3 12</field>
+      <field name="shelfmarks">MS Barocci 134</field>
+      <field name="shelfmarks">MS Laud Gr 90</field>
+      <field name="shelfmarks">MS. Arch. Selden. B. 45</field>
+      <field name="shelfmarks">MS. Auct. T. 3. 12</field>
+      <field name="shelfmarks">MS. Barocci 134</field>
+      <field name="shelfmarks">MS. Laud Gr. 90</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8870|MS. Arch. Selden. B. 45|1482; Byzantine</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_790|MS. Auct. T. 3. 12|14th century, end - 15th century, beginning; Byzantine</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_960|MS. Barocci 134 (Digital facsimile online)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6901|MS. Laud Gr. 90|13th century, end; Byzantine, Constantinople</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7002473</field>
+      <field name="id">place_7002473</field>
+      <field name="title">Constantinople (Istanbul)</field>
+      <field name="alpha_title">C</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Byzantion</field>
+      <field name="pl_variant_sm">Byzantium</field>
+      <field name="pl_variant_sm">Constantinople</field>
+      <field name="pl_variant_sm">Constantinopoli</field>
+      <field name="pl_variant_sm">Constantinopolis</field>
+      <field name="pl_variant_sm">Costantinopoli</field>
+      <field name="pl_variant_sm">Estambul</field>
+      <field name="pl_variant_sm">Istamboul</field>
+      <field name="pl_variant_sm">Istambul</field>
+      <field name="pl_variant_sm">Konstantinopel</field>
+      <field name="pl_variant_sm">Konstantinoupolis</field>
+      <field name="pl_variant_sm">Kustantiniyah</field>
+      <field name="pl_variant_sm">Mikligard</field>
+      <field name="pl_variant_sm">New Rome</field>
+      <field name="pl_variant_sm">Stamboul</field>
+      <field name="pl_variant_sm">Stambul</field>
+      <field name="pl_variant_sm">Tsargrad</field>
+      <field name="pl_variant_sm">Tsarigrad</field>
+      <field name="pl_variant_sm">İstanbul</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=41.011046_N_28.957798_E|41° 0' 40" N, 28° 57' 28" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7002473|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Barocci 134</field>
+      <field name="shelfmarks">MS Laud Gr 90</field>
+      <field name="shelfmarks">MS. Barocci 134</field>
+      <field name="shelfmarks">MS. Laud Gr. 90</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_960|MS. Barocci 134 (Digital facsimile online)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6901|MS. Laud Gr. 90|13th century, end; Byzantine, Constantinople</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7011277</field>
+      <field name="id">place_7011277</field>
+      <field name="title">Sherborne</field>
+      <field name="alpha_title">S</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Scireburne</field>
+      <field name="pl_variant_sm">Sherbourne</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=50.95_N_-2.5_E|50° 57' 0" N, 2° 30' 0" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7011277|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7011012</field>
+      <field name="id">place_7011012</field>
+      <field name="title">Coventry</field>
+      <field name="alpha_title">C</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Cofantreo</field>
+      <field name="pl_variant_sm">Cofentreium</field>
+      <field name="pl_variant_sm">Couaentréé</field>
+      <field name="pl_variant_sm">Coventre</field>
+      <field name="pl_variant_sm">Coventreu</field>
+      <field name="pl_variant_sm">Coventrev</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=52.416667_N_-1.55_E|52° 25' 0" N, 1° 33' 0" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7011012|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7012584</field>
+      <field name="id">place_7012584</field>
+      <field name="title">Lorsch</field>
+      <field name="alpha_title">L</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=49.654722_N_8.568611_E|49° 39' 17" N, 8° 34' 7" E</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7012584|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Misc 107</field>
+      <field name="shelfmarks">MS. Laud Misc. 107</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6916|MS. Laud Misc. 107 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7014986</field>
+      <field name="id">place_7014986</field>
+      <field name="title">Egypt (ancient)</field>
+      <field name="alpha_title">E</field>
+      <field name="pl_type_s">country</field>
+      <field name="pl_variant_sm">Aegyptus</field>
+      <field name="pl_variant_sm">Aigyptos</field>
+      <field name="pl_variant_sm">Ancient Egyptian</field>
+      <field name="pl_variant_sm">Egypt, ancient</field>
+      <field name="pl_variant_sm">Hwt-ka-Ptah</field>
+      <field name="pl_variant_sm">Kem</field>
+      <field name="pl_variant_sm">Kemet</field>
+      <field name="pl_variant_sm">Kemi</field>
+      <field name="pl_variant_sm">Kermit</field>
+      <field name="pl_variant_sm">Kmt</field>
+      <field name="pl_variant_sm">Egyptian</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7014986|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Gr class c 135 (P) (b)</field>
+      <field name="shelfmarks">MS Gr class c 212 (P)</field>
+      <field name="shelfmarks">MS Gr class c 221 (P) (b) - (d)</field>
+      <field name="shelfmarks">MS Gr class c 94 (P)</field>
+      <field name="shelfmarks">MS Gr class d 14 (P)</field>
+      <field name="shelfmarks">MS Gr class d 28 (P) (b)- (d)</field>
+      <field name="shelfmarks">MS Gr th f 12 (P)</field>
+      <field name="shelfmarks">MS. Gr. class. c. 135 (P) (b)</field>
+      <field name="shelfmarks">MS. Gr. class. c. 212 (P)</field>
+      <field name="shelfmarks">MS. Gr. class. c. 221 (P) (b) - (d)</field>
+      <field name="shelfmarks">MS. Gr. class. c. 94 (P)</field>
+      <field name="shelfmarks">MS. Gr. class. d. 14 (P)</field>
+      <field name="shelfmarks">MS. Gr. class. d. 28 (P) (b)- (d)</field>
+      <field name="shelfmarks">MS. Gr. th. f. 12 (P)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5069|MS. Gr. class. c. 135 (P) (b)|Composite manuscript</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5255|MS. Gr. class. c. 212 (P)|6th century - 7th century; Egyptian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5267|MS. Gr. class. c. 221 (P) (b) - (d)|unknown; Egyptian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5436|MS. Gr. class. c. 94 (P)|6th or 7th century; Egyptian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5485|MS. Gr. class. d. 14 (P)|2nd century BC; Egyptian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5508|MS. Gr. class. d. 28 (P) (b)- (d)|c. 230–260 BC; Egyptian, Arsinoites (Fayum)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5937|MS. Gr. th. f. 12 (P)|7th or 8th century; Egyptian, Deir-el-Bala'izah</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7011311</field>
+      <field name="id">place_7011311</field>
+      <field name="title">Honiton</field>
+      <field name="alpha_title">H</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Honetona</field>
+      <field name="pl_variant_sm">Honetone</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=50.8_N_-3.183333_E|50° 48' 0" N, 3° 11' 0" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7011311|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Lat bib d 10</field>
+      <field name="shelfmarks">MS. Lat. bib. d. 10</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6341|MS. Lat. bib. d. 10|11th century, late; English, Exeter (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7011312</field>
+      <field name="id">place_7011312</field>
+      <field name="title">Ottery Saint Mary</field>
+      <field name="alpha_title">O</field>
+      <field name="pl_type_s">settlement</field>
+      <field name="pl_variant_sm">Otrei</field>
+      <field name="pl_variant_sm">Otri</field>
+      <field name="pl_variant_sm">Ottery St. Mary</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=50.75_N_-3.266667_E|50° 45' 0" N, 3° 16' 0" W</field>
+      <field name="link_external_smni">http://vocab.getty.edu/tgn/7011312|Getty Thesaurus of Geographic Names® Online (authority record)</field>
+      <field name="note_smni">This record contains information from the &lt;a href="http://www.getty.edu/research/tools/vocabularies/tgn/" target="_blank"&gt;Getty Thesaurus of Geographic Names&lt;/a&gt;, copyright 2017 the J. Paul Getty Trust, released under the &lt;a href="https://opendatacommons.org/licenses/by/1-0/" target="_blank"&gt;Open Data Commons Attribution License (ODC-By) 1.0&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Lat bib d 10</field>
+      <field name="shelfmarks">MS. Lat. bib. d. 10</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6341|MS. Lat. bib. d. 10|11th century, late; English, Exeter (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_158711466</field>
+      <field name="id">org_158711466</field>
+      <field name="title">Sherborne, Benedictine abbey</field>
+      <field name="alpha_title">S</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Abbey Church of S. Mary the Virgin</field>
+      <field name="pl_variant_sm">Sherborne Abbey</field>
+      <field name="pl_variant_sm">Benedictine abbey</field>
+      <field name="link_external_smni">http://catalogue.bnf.fr/ark:/12148/cb12523228c|Bibliothèque nationale de France (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/nr89009217|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000446670050|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/158711466|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Auct F 2 14</field>
+      <field name="shelfmarks">MS. Auct. F. 2. 14</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_610|MS. Auct. F. 2. 14 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_241579670</field>
+      <field name="id">org_241579670</field>
+      <field name="title">Constance, collegiate church of St Stephen</field>
+      <field name="alpha_title">C</field>
+      <field name="pl_variant_sm">Chorherrenstift Sankt Stephan</field>
+      <field name="pl_variant_sm">Kollegiatstift St. Stephan, Konstanz</field>
+      <field name="pl_variant_sm">Sankt Stephan Stift</field>
+      <field name="pl_variant_sm">St Stephan in Constance</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/4295817-9|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q97715762|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/241579670|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Add A 263</field>
+      <field name="shelfmarks">MS. Add. A. 263</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_47|MS. Add. A. 263 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_249124062</field>
+      <field name="id">org_249124062</field>
+      <field name="title">Zofingen (Aargau), collegiate church of St Maurice</field>
+      <field name="alpha_title">Z</field>
+      <field name="pl_variant_sm">Chorherrenstift</field>
+      <field name="pl_variant_sm">Chorherrenstift St. Mauritius Zofingen</field>
+      <field name="pl_variant_sm">Chorherrenstift Zofingen</field>
+      <field name="pl_variant_sm">Sankt Mauritius Stift</field>
+      <field name="pl_variant_sm">St. Mauritius in Zofingen</field>
+      <field name="pl_variant_sm">St. Mauritius in Zofingen (Convent)</field>
+      <field name="pl_variant_sm">Stift Zofingen</field>
+      <field name="pl_variant_sm">St Maurice in Zofingen</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/4316280-0|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n94050287|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q28977698|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/249124062|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Add A 263</field>
+      <field name="shelfmarks">MS. Add. A. 263</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_47|MS. Add. A. 263 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_234299904</field>
+      <field name="id">org_234299904</field>
+      <field name="title">Rohr, Benedictine nunnery of St Michael</field>
+      <field name="alpha_title">R</field>
+      <field name="pl_variant_sm">Benediktinerinnenkloster Rohr</field>
+      <field name="pl_variant_sm">Kloster Rohr</field>
+      <field name="pl_variant_sm">Kloster Sankt Michael Rohr</field>
+      <field name="pl_variant_sm">Benedictine nunnery of Rohr</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/4318945-3|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q1728795|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/234299904|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="link_external_smni">https://www.wikidata.org/entity/Q1728795|Wikidata</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Add A 263</field>
+      <field name="shelfmarks">MS. Add. A. 263</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_47|MS. Add. A. 263 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_243863172</field>
+      <field name="id">org_243863172</field>
+      <field name="title">Padua, monastery of San Giovanni di Verdara (Benedictine, later Augustinian canons)</field>
+      <field name="alpha_title">P</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Convento di San Giovanni di Verdara</field>
+      <field name="pl_variant_sm">Lateranenserkonvent</field>
+      <field name="pl_variant_sm">San Giovanni di Verdara, Kloster</field>
+      <field name="pl_variant_sm">Canons of S. Giovanni in Verdara, Padua</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/4585487-7|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/243863172|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_150107857</field>
+      <field name="id">org_150107857</field>
+      <field name="title">Bury St Edmunds, Benedictine abbey</field>
+      <field name="alpha_title">B</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Abbey of Bury St Edmunds</field>
+      <field name="pl_variant_sm">Abbey of Bury St. Edmunds</field>
+      <field name="pl_variant_sm">Abbey, Bury Saint Edmunds</field>
+      <field name="pl_variant_sm">Abbey, Saint Edmunds</field>
+      <field name="pl_variant_sm">Benedictine Abbey of Bury St. Edmunds</field>
+      <field name="pl_variant_sm">Bury St Edmunds (GB), abbey</field>
+      <field name="pl_variant_sm">Bury St. Edmunds Abbey</field>
+      <field name="pl_variant_sm">Bury abbey</field>
+      <field name="pl_variant_sm">Saint Edmunds Abbey</field>
+      <field name="pl_variant_sm">Bury St Edmunds, Suffolk, Benedictine abbey of St Edmund, King and Martyr</field>
+      <field name="link_external_smni">http://catalogue.bnf.fr/ark:/12148/cb129559430|Bibliothèque nationale de France (authority record)</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/16187371-6|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n81086928|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.idref.fr/176446745/id|SUDOC: Système Universitaire de Documentation (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000119576681|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q334286|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/150107857|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Bodl 130</field>
+      <field name="shelfmarks">MS. Bodl. 130</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1192|MS. Bodl. 130 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_151354181</field>
+      <field name="id">org_151354181</field>
+      <field name="title">Jarrow, Benedictine abbey</field>
+      <field name="alpha_title">J</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Abbey of Jarrow (Jarrow, England)</field>
+      <field name="pl_variant_sm">Jarrow (England)., Jarrow (Abbey)</field>
+      <field name="pl_variant_sm">Jarrow</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n86075735|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000101585782|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/151354181|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Gr 35</field>
+      <field name="shelfmarks">MS. Laud Gr. 35</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6848|MS. Laud Gr. 35 (Digital facsimile online)|late 6th or early 7th century; Italian, Sardinia (?), or Rome (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_235558512</field>
+      <field name="id">org_235558512</field>
+      <field name="title">Wearmouth, Benedictine abbey</field>
+      <field name="alpha_title">W</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Kloster Wearmouth</field>
+      <field name="pl_variant_sm">Wearmouth</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/4223565-0|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/235558512|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Gr 35</field>
+      <field name="shelfmarks">MS. Laud Gr. 35</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6848|MS. Laud Gr. 35 (Digital facsimile online)|late 6th or early 7th century; Italian, Sardinia (?), or Rome (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_148943477</field>
+      <field name="id">org_148943477</field>
+      <field name="title">Worcester, Benedictine cathedral priory of St Mary</field>
+      <field name="alpha_title">W</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Worcester, Worcestershire, Benedictine cathedral priory of St Mary the Virgin</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n82052304|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n82052305|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000099504209|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q42942758|Wikidata</field>
+      <field name="link_external_smni">https://catalogue.bnf.fr/ark:/12148/cb11868180m|Bibliothèque nationale de France (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/147766659|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/148943477|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Hatton 48</field>
+      <field name="shelfmarks">MS. Hatton 48</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6072|MS. Hatton 48 (Selected pages online)|c. 700 (?); English</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_135211427</field>
+      <field name="id">org_135211427</field>
+      <field name="title">York, Benedictine Abbey of St. Mary</field>
+      <field name="alpha_title">Y</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Abbey of Saint Mary (York, England)</field>
+      <field name="pl_variant_sm">Monasterium Beate Marie Eboracensis</field>
+      <field name="pl_variant_sm">Monastery of St. Mary (York, England)</field>
+      <field name="pl_variant_sm">Saint Mary's Abbey (York, England)</field>
+      <field name="pl_variant_sm">St. Mary's Abbey (York, England)</field>
+      <field name="pl_variant_sm">York, Benedictine abbey of St Mary</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/no2003008888|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000092258711|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/135211427|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="link_external_smni">https://www.wikidata.org/entity/Q1426965|Wikidata</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Bodl Rolls 3</field>
+      <field name="shelfmarks">MS. Bodl. Rolls 3</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1941|MS. Bodl. Rolls 3 (Selected pages online)|1292 × 1307; English</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_165174766</field>
+      <field name="id">org_165174766</field>
+      <field name="title">Canterbury, Benedictine abbey of St. Augustine</field>
+      <field name="alpha_title">C</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Benediktinerkloster Saint Augustine Canterbury</field>
+      <field name="pl_variant_sm">Canterbury (England)., St. Augustine's Abbey</field>
+      <field name="pl_variant_sm">Canterbury (GB), St. Augustine's Abbey</field>
+      <field name="pl_variant_sm">Saint Augustine's Abbey (Canterbury, England)</field>
+      <field name="pl_variant_sm">Saint Augustine's Abbey (Canterbury, GB)</field>
+      <field name="pl_variant_sm">Saint Augustine's Abbey Canterbury</field>
+      <field name="pl_variant_sm">Saint Augustine's Abbey, Canterbury, GB</field>
+      <field name="pl_variant_sm">St. Augustine's Abbey (Canterbury, England)</field>
+      <field name="pl_variant_sm">St. Augustine's Abbey, Canterbury</field>
+      <field name="pl_variant_sm">St. Augustine's Abbey, Canterbury, Eng.</field>
+      <field name="pl_variant_sm">Canterbury, Kent, Benedictine abbey of St Augustine (originally of St Peter and St Paul)</field>
+      <field name="link_external_smni">http://catalogue.bnf.fr/ark:/12148/cb12523394f|Bibliothèque nationale de France (authority record)</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/4399943-8|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n89650828|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.idref.fr/034481869/id|SUDOC: Système Universitaire de Documentation (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000121978479|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q334303|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/165174766|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Rawl C 159</field>
+      <field name="shelfmarks">MS. Rawl. C. 159</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8107|MS. Rawl. C. 159|14th century, first half; English</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_143145136</field>
+      <field name="id">org_143145136</field>
+      <field name="title">Fountains Abbey (Cistercian)</field>
+      <field name="alpha_title">F</field>
+      <field name="pl_variant_sm">Fountains Abbey</field>
+      <field name="pl_variant_sm">Fountains Abbey (West Riding of Yorkshire, England)</field>
+      <field name="link_external_smni">http://catalogue.bnf.fr/ark:/12148/cb120817724|Bibliothèque nationale de France (authority record)</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/4253283-8|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n85373849|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q540237|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/143145136|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/173026705|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">University College MS 167</field>
+      <field name="shelfmarks">University College MS. 167</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_13116|University College MS. 167|s. XVex.; England; Fountains Abbey</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_133214228</field>
+      <field name="id">org_133214228</field>
+      <field name="title">Eberbach, Cistercian Abbey of the Virgin Mary</field>
+      <field name="alpha_title">E</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Eberbach (Germany)., Abtei Eberbach</field>
+      <field name="pl_variant_sm">Eberbach, Ger. (Cistercian abbey)</field>
+      <field name="pl_variant_sm">Kloster Eberbach</field>
+      <field name="pl_variant_sm">Zisterzienskloster Eberbach</field>
+      <field name="pl_variant_sm">Eberbach</field>
+      <field name="pl_variant_sm">Eberbach, Cistercian abbey</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/805130-6|DNB</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n50065430|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://klosterdatenbank.germania-sacra.de/gsn/30177|Germania Sacra</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q697766|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/133214228|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Misc 107</field>
+      <field name="shelfmarks">MS. Laud Misc. 107</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6916|MS. Laud Misc. 107 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_134870077</field>
+      <field name="id">org_134870077</field>
+      <field name="title">Glastonbury, Benedictine Abbey</field>
+      <field name="alpha_title">G</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Glastonbury (England)., Glastonbury Abbey</field>
+      <field name="pl_variant_sm">Glastonbury, Somerset, Benedictine Abbey of Saint Mary the Virgin</field>
+      <field name="link_external_smni">http://catalogue.bnf.fr/ark:/12148/cb11973675k|Bibliothèque nationale de France (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n80144969|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.idref.fr/027763935/id|SUDOC: Système Universitaire de Documentation (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000092033782|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q544113|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/134870077|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Misc 128</field>
+      <field name="shelfmarks">MS. Laud Misc. 128</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6938|MS. Laud Misc. 128|15th century, end</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_127815410</field>
+      <field name="id">org_127815410</field>
+      <field name="title">Exeter, Cathedral</field>
+      <field name="alpha_title">E</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Cathedral Church of St. Peter, Exeter (Exeter, England)</field>
+      <field name="pl_variant_sm">St. Peter's Cathedral, Exeter (Exeter, England)</field>
+      <field name="pl_variant_sm">Exeter, Devon, Cathedral church of St Peter</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n50079633|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000087953189|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q1131208|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/127815410|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Bodl 279</field>
+      <field name="shelfmarks">MS Lat bib d 10</field>
+      <field name="shelfmarks">MS. Bodl. 279</field>
+      <field name="shelfmarks">MS. Lat. bib. d. 10</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1328|MS. Bodl. 279|14th century, third quarter; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6341|MS. Lat. bib. d. 10|11th century, late; English, Exeter (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_144679410</field>
+      <field name="id">org_144679410</field>
+      <field name="title">Durham, Benedictine Cathedral Priory</field>
+      <field name="alpha_title">D</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Church of Durham</field>
+      <field name="pl_variant_sm">Durham, Benedictine cathedral priory of St Cuthbert</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n50075775|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/nr89013055|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000114113768|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q5316469|Wikidata</field>
+      <field name="link_external_smni">https://catalogue.bnf.fr/ark:/12148/cb12207771x|Bibliothèque nationale de France (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/144679410|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/156864169|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="link_external_smni">https://www.wikidata.org/entity/Q746207|Wikidata</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Misc 700</field>
+      <field name="shelfmarks">MS. Laud Misc. 700</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_7476|MS. Laud Misc. 700|14th century; additions, 16th century (?); English</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_123184663</field>
+      <field name="id">org_123184663</field>
+      <field name="title">London, Grocers' Company</field>
+      <field name="alpha_title">L</field>
+      <field name="pl_variant_sm">London., Grocers' Company</field>
+      <field name="pl_variant_sm">Worshipful Company of Grocers (London, England)</field>
+      <field name="pl_variant_sm">Grocers' Company, London</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n82167395|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q730484|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/123184663|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Rawl B 359</field>
+      <field name="shelfmarks">MS. Rawl. B. 359</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8031|MS. Rawl. B. 359|16th century; English</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_168089114</field>
+      <field name="id">org_168089114</field>
+      <field name="title">England, Order of the Garter</field>
+      <field name="alpha_title">E</field>
+      <field name="pl_variant_sm">Knights of the Garter</field>
+      <field name="link_external_smni">http://catalogue.bnf.fr/ark:/12148/cb119736925|Bibliothèque nationale de France (authority record)</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/16108635-4|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n50003915|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.idref.fr/02776415X/id|SUDOC: Système Universitaire de Documentation (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q215248|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/168089114|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Rawl B 39</field>
+      <field name="shelfmarks">MS. Rawl. B. 39</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8032|MS. Rawl. B. 39|1561; English</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_2142145857037522921207</field>
+      <field name="id">org_2142145857037522921207</field>
+      <field name="title">Windsor, secular college of St. George's Chapel</field>
+      <field name="alpha_title">W</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">College of Saint George, Windsor</field>
+      <field name="pl_variant_sm">College of St. George, Windsor</field>
+      <field name="pl_variant_sm">Windsor, Berkshire, Royal collegiate chapel of St George</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/1086901363|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/2142145857037522921207|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Bodl 822</field>
+      <field name="shelfmarks">MS Bodl 838</field>
+      <field name="shelfmarks">MS. Bodl. 822</field>
+      <field name="shelfmarks">MS. Bodl. 838</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1811|MS. Bodl. 822|13th century, middle; English</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_1827|MS. Bodl. 838|14th century, early</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_148998848</field>
+      <field name="id">org_148998848</field>
+      <field name="title">Würzburg, cathedral church of St. Kilian</field>
+      <field name="alpha_title">W</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Kiliansdom, g:Würzburg</field>
+      <field name="pl_variant_sm">Sankt Kilian, g:Würzburg</field>
+      <field name="pl_variant_sm">St. Kiliansdom (Würzburg, Germany)</field>
+      <field name="pl_variant_sm">Würzburg, cathedral church of St. Kylian</field>
+      <field name="pl_variant_sm">Würzburger Dom, g:Würzburg</field>
+      <field name="pl_variant_sm">Würzburg, Domstift St Kilian</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/4216592-1|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n85318300|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q252166|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/148998848|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Gr 35</field>
+      <field name="shelfmarks">MS. Laud Gr. 35</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6848|MS. Laud Gr. 35 (Digital facsimile online)|late 6th or early 7th century; Italian, Sardinia (?), or Rome (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_311465280</field>
+      <field name="id">org_311465280</field>
+      <field name="title">Coventry, Benedictine cathedral priory of St Mary</field>
+      <field name="alpha_title">C</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Coventry Priory Cathedral</field>
+      <field name="pl_variant_sm">Saint Mary's Priory and Cathedral (Coventry, England)</field>
+      <field name="pl_variant_sm">St Mary's Priory and Cathedral (Coventry, England)</field>
+      <field name="pl_variant_sm">Coventry, Warwickshire, Benedictine cathedral priory of St Mary the Virgin</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/nb2014023165|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q7590394|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/311465280|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Douce 139</field>
+      <field name="shelfmarks">MS. Douce 139</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_4516|MS. Douce 139 (Selected pages online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_237710601</field>
+      <field name="id">org_237710601</field>
+      <field name="title">Fulda, Benedictine abbey of St Salvator</field>
+      <field name="alpha_title">F</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Benediktinerkloster Fulda</field>
+      <field name="pl_variant_sm">Benediktinerkloster Sankt Salvator und Bonifatius Fulda</field>
+      <field name="pl_variant_sm">Fulda, Benediktinerkloster</field>
+      <field name="pl_variant_sm">Kloster Sankt Salvator und Bonifatius Fulda</field>
+      <field name="pl_variant_sm">Kloster des Bonifatius Fulda</field>
+      <field name="pl_variant_sm">Reichsabtei Fulda</field>
+      <field name="pl_variant_sm">Reichskloster Fulda</field>
+      <field name="pl_variant_sm">Sanctus Bonifacius Fulda</field>
+      <field name="pl_variant_sm">Stift Sankt Salvator und Bonifatius Fulda</field>
+      <field name="pl_variant_sm">Fulda abbey</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=50.55413185_N_9.672582597_E|50° 33' 15" N, 9° 40' 21" E</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/4074038-9|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://klosterdatenbank.germania-sacra.de/gsn/30121|Germania Sacra</field>
+      <field name="link_external_smni">https://viaf.org/viaf/237710601|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">Co-ordinates from Germania Sacra</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Gr 35</field>
+      <field name="shelfmarks">MS. Laud Gr. 35</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6848|MS. Laud Gr. 35 (Digital facsimile online)|late 6th or early 7th century; Italian, Sardinia (?), or Rome (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_157833663</field>
+      <field name="id">org_157833663</field>
+      <field name="title">Hornbach (Rheinland-Pfalz), Benedictine abbey of St Peter</field>
+      <field name="alpha_title">H</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Abtei</field>
+      <field name="pl_variant_sm">Benediktinerabtei</field>
+      <field name="pl_variant_sm">Benediktinerkloster</field>
+      <field name="pl_variant_sm">Kloster, Hornbach</field>
+      <field name="pl_variant_sm">Hornbach abbey</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=49.186954_N_7.369469_E|49° 11' 13" N, 7° 22' 10" E</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/5081987-2|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://klosterdatenbank.germania-sacra.de/gsn/40091|Germania Sacra</field>
+      <field name="link_external_smni">https://viaf.org/viaf/157833663|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">Co-ordinates from Germania Sacra</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Gr 35</field>
+      <field name="shelfmarks">MS. Laud Gr. 35</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6848|MS. Laud Gr. 35 (Digital facsimile online)|late 6th or early 7th century; Italian, Sardinia (?), or Rome (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_143763943</field>
+      <field name="id">org_143763943</field>
+      <field name="title">Lorsch, Benedictine (later Cistercian and Premonastratensian) abbey</field>
+      <field name="alpha_title">L</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Abbatia Lorsch</field>
+      <field name="pl_variant_sm">Abtei Lorsch</field>
+      <field name="pl_variant_sm">Benediktinerabtei, Lorsch</field>
+      <field name="pl_variant_sm">Benediktinerkloster Altenmünster, Lorsch</field>
+      <field name="pl_variant_sm">Benediktinerkloster Lorsch</field>
+      <field name="pl_variant_sm">Benediktinerkloster, später Prämonstratenserstift Lorsch</field>
+      <field name="pl_variant_sm">Kloster Lorsch</field>
+      <field name="pl_variant_sm">Reichsabtei Lorsch</field>
+      <field name="pl_variant_sm">Benedictine abbey</field>
+      <field name="pl_variant_sm">Lorsch Abbey</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=49.65364153_N_8.569858137_E|49° 39' 13" N, 8° 34' 11" E</field>
+      <field name="link_external_smni">http://catalogue.bnf.fr/ark:/12148/cb12114706s|Bibliothèque nationale de France (authority record)</field>
+      <field name="link_external_smni">http://d-nb.info/gnd/801576-4|GND: Gemeinsame Normdatei (authority record)</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/n85227962|Library of Congress (authority record)</field>
+      <field name="link_external_smni">http://klosterdatenbank.germania-sacra.de/gsn/30243|Germania Sacra</field>
+      <field name="link_external_smni">http://klosterdatenbank.germania-sacra.de/gsn/30244|Germania Sacra</field>
+      <field name="link_external_smni">http://www.idref.fr/029542790/id|SUDOC: Système Universitaire de Documentation (authority record)</field>
+      <field name="link_external_smni">http://www.isni.org/isni/0000000106981127|ISNI: International Standard Name Identifier (authority record)</field>
+      <field name="link_external_smni">http://www.wikidata.org/entity/Q157550|Wikidata</field>
+      <field name="link_external_smni">https://viaf.org/viaf/143763943|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="note_smni">Co-ordinates from Germania Sacra</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Laud Misc 107</field>
+      <field name="shelfmarks">MS. Laud Misc. 107</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6916|MS. Laud Misc. 107 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_152906198</field>
+      <field name="id">org_152906198</field>
+      <field name="title">Denny, Cambridgeshire, Abbey of St James and St Leonard, of Franciscan nuns</field>
+      <field name="alpha_title">D</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Denny, Cambridgeshire, Poor Clares</field>
+      <field name="link_external_smni">http://id.loc.gov/authorities/names/nr2003040649|Library of Congress (authority record)</field>
+      <field name="link_external_smni">https://viaf.org/viaf/152906198|VIAF: Virtual International Authority File (authority record)</field>
+      <field name="link_external_smni">https://www.wikidata.org/entity/Q5146959|Wikidata</field>
+      <field name="note_smni">This record contains information from &lt;a href="http://viaf.org/" target="_blank"&gt;VIAF (Virtual International Authority File)&lt;/a&gt; which is made available under the &lt;a href="http://opendatacommons.org/licenses/by/1.0/" target="_blank"&gt;ODC Attribution License&lt;/a&gt;.</field>
+      <field name="shelfmarks">MS Hatton 18</field>
+      <field name="shelfmarks">MS. Hatton 18</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6049|MS. Hatton 18|15th century, end; English</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_124557775</field>
+      <field name="id">org_124557775</field>
+      <field name="title">Apa Apollo (Deir el-Bala’izah), monastery</field>
+      <field name="alpha_title">A</field>
+      <field name="pl_variant_sm">Deir-el-Bala'izah</field>
+      <field name="link_geo_smni">https://tools.wmflabs.org/geohack/geohack.php?params=27.00798_N_31.23217_E|27° 0' 29" N, 31° 13' 56" E</field>
+      <field name="link_external_smni">http://dare.ht.lu.se/places/37293|DARE</field>
+      <field name="shelfmarks">MS Gr th f 12 (P)</field>
+      <field name="shelfmarks">MS. Gr. th. f. 12 (P)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_5937|MS. Gr. th. f. 12 (P)|7th or 8th century; Egyptian, Deir-el-Bala'izah</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_8</field>
+      <field name="id">org_8</field>
+      <field name="title">Holkham Hall (Norfolk), library</field>
+      <field name="alpha_title">H</field>
+      <field name="pl_variant_sm">Holkham Hall</field>
+      <field name="shelfmarks">MS Holkham misc 20</field>
+      <field name="shelfmarks">MS Holkham misc 42</field>
+      <field name="shelfmarks">MS. Holkham misc. 20</field>
+      <field name="shelfmarks">MS. Holkham misc. 42</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6247|MS. Holkham misc. 20|15th century; Italian</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_6270|MS. Holkham misc. 42|13th century; French (?)</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_60</field>
+      <field name="id">org_60</field>
+      <field name="title">Oxford, Franciscan friary</field>
+      <field name="alpha_title">O</field>
+      <field name="pl_variant_sm">Franciscan house, Oxford</field>
+      <field name="bibref_smni">Knowles &amp; Hadcock, pp. 223, 227</field>
+      <field name="shelfmarks">Merton College MS 98</field>
+      <field name="shelfmarks">Merton College MS. 98</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10196|Merton College MS. 98|S. XIV in; England, Oxford</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_211</field>
+      <field name="id">org_211</field>
+      <field name="title">Zofingen (Aargau), Dominican friary</field>
+      <field name="alpha_title">Z</field>
+      <field name="pl_variant_sm">Zofingen, Aargau</field>
+      <field name="link_external_smni">https://klosterdatenbank.adw-goe.de/gsn/4558|Germania Sacra</field>
+      <field name="shelfmarks">MS Add A 263</field>
+      <field name="shelfmarks">MS. Add. A. 263</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_47|MS. Add. A. 263 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_213</field>
+      <field name="id">org_213</field>
+      <field name="title">Constance, Dominican friary</field>
+      <field name="alpha_title">C</field>
+      <field name="pl_variant_sm">Dominikanerkloster Konstanz</field>
+      <field name="pl_variant_sm">Dominicans in Constance</field>
+      <field name="link_external_smni">https://klosterdatenbank.adw-goe.de/gsn/4557|Germania Sacra</field>
+      <field name="shelfmarks">MS Add A 263</field>
+      <field name="shelfmarks">MS. Add. A. 263</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_47|MS. Add. A. 263 (Digital facsimile online)|Composite manuscript</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">org_256</field>
+      <field name="id">org_256</field>
+      <field name="title">Coventry, Warwickshire, Franciscan convent</field>
+      <field name="alpha_title">C</field>
+      <field name="roles_sm">Owner, signer, or donor</field>
+      <field name="pl_variant_sm">Coventry, Greyfriars</field>
+      <field name="link_external_smni">https://www.wikidata.org/entity/Q5608360|Wikidata</field>
+      <field name="shelfmarks">MS Rawl D 238</field>
+      <field name="shelfmarks">MS. Rawl. D. 238</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_8421|MS. Rawl. D. 238|14th century, end; English</field>
+   </doc>
+</add>
