@@ -3,7 +3,7 @@ common:
   debug: yes
 
 solr:
-  server: http://solr01-qa.bodleian.ox.ac.uk:8983/solr/medieval-mss
+  server: http://localhost:8983/solr/medieval-mss
   results_per_page: 20
   facet_fields:
     roles_sm:

@@ -26,6 +26,19 @@ to run the Medieval catalogue on localhost port 9001, run:
     $> poetry run gunicorn --reload  catalogue_server.medieval.server:app --worker-class sanic.worker.GunicornWorker -b localhost:9001
     
 (This is used for development -- the '--reload' flag will automatically reload the application when changes are detected.)
+Just like Blacklight, it provides a web interface to query Solr, but the Solr server needs to be set up independently. 
+In production, that is likely to be on a dedicated server, but for development the following assumes it is on localhost. 
+Included in this repository is a `solr` folder, containing the configuration files to create a core for the Medieval 
+catalogue (which should be named `medieval-mss`), and a `sample_data` folder, containing Solr XML documents ready to be 
+loaded into it. To do so, run:
+
+```shell
+cd sample_data
+curl -fsS "http://localhost:8983/solr/medieval-mss/update?commit=true" --data-binary @manuscripts_index.xml -H "Content-Type: text/xml"
+curl -fsS "http://localhost:8983/solr/medieval-mss/update?commit=true" --data-binary @works_index.xml -H "Content-Type: text/xml"
+curl -fsS "http://localhost:8983/solr/medieval-mss/update?commit=true" --data-binary @persons_index.xml -H "Content-Type: text/xml"
+curl -fsS "http://localhost:8983/solr/medieval-mss/update?commit=true" --data-binary @places_index.xml -H "Content-Type: text/xml"
+```
 
 ## Structure and Operations
 
