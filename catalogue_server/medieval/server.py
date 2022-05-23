@@ -65,9 +65,11 @@ solr_conn: pysolr.Solr = pysolr.Solr(solr_server)
 @app.route("/")
 async def root(req: request.Request) -> response.HTTPResponse:
     collections: Dict = facet_by_field_name("ms_collection_s", solr_conn)
+    repositories: Dict = facet_by_field_name("ms_repository_s", solr_conn)
 
     tmpl_vars = {
-        "collections": collections
+        "collections": collections,
+        "repositories": repositories
     }
 
     rendered_template = await index_template.render_async(**tmpl_vars)

@@ -144,19 +144,20 @@ main.container {
   }
 }
 
-.collection-grid {
+.home-page-grid {
   display: flex;
   flex-wrap: wrap;
   align-content: start;
   margin-bottom: 1rem;
 }
 
-.collection-item {
+.home-page-grid-item {
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
-  flex: 1 0 200px;
+  flex: 0 0 20%;
+  min-width:200px;
   height: 70px;
   border: 1px solid $white-ter;
   padding: 0 10px;

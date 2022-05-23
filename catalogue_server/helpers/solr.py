@@ -44,7 +44,7 @@ class CatalogueRequest:
         self._config: Dict = config
 
         facet_config = self._config["solr"]["facet_fields"]
-        self._fields = self._config["solr"]["search_fields"]
+        self._fields = self._config["solr"]["field_list"]
         self._facet_fields = facet_config.keys()
         self._results_per_page = self._config["solr"]["results_per_page"]
 

@@ -1,4 +1,7 @@
 .idea
 .sass-cache
 *.pyc
+*.swp
 catalogue_server.egg-info
+solr/*/data/
+solr/*/core.properties

@@ -3,7 +3,7 @@ common:
   debug: yes
 
 solr:
-  server: http://solr01-qa.bodleian.ox.ac.uk:8983/solr/medieval-mss
+  server: http://localhost:8983/solr/medieval-mss
   results_per_page: 20
   facet_fields:
     roles_sm:
@@ -41,7 +41,7 @@ solr:
     alpha_title:
       name: "Starts with"
       sidebar: no
-  search_fields:
+  field_list:
     - pk
     - title
     - ms_summary_sm
