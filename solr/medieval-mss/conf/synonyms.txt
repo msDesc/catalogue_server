@@ -1,1 +1,8 @@
-../../../../tei_solr_config/conf/synonyms.txt
+Pliny,Plinius
+anon,anonymous
+fol,fols,folio,folios
+pref,preface
+chap,chapter
+col,column
+nd,undated
+colour,color

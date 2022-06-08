@@ -1,1 +1,145 @@
-../../../../tei_solr_config/conf/schema.xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<schema name="tei-solr-config" version="1.6">
+    <field name="id" type="string" indexed="true" stored="true" required="true" multiValued="false" />
+    <field name="pk" type="string" indexed="true" stored="true" required="true" />
+    <field name="type" type="string" indexed="true" stored="true" required="true" />
+    <field name="title" type="string" indexed="true" stored="true" required="true" />
+    <!-- just the first letter for alphabetical indexing -->
+    <field name="alpha_title" type="string" indexed="true" stored="true" />
+    <field name="_version_" type="long" indexed="true" stored="false"/>
+    <field name="_root_" type="string" indexed="true" stored="false" docValues="false" />
+    <field name="fulltext" type="text_fulltext" indexed="true" stored="true" />
+    <field name="display" type="text_unindexed" />
+    <field name="shelfmarks" type="text_untokenized" indexed="true" stored="true" multiValued="true" />
+
+    <dynamicField name="*_i"  type="int"    indexed="true"  stored="true" />
+    <dynamicField name="*_im" type="ints"    indexed="true"  stored="true"/>
+    <dynamicField name="*_s"  type="string"  indexed="true"  stored="true" />
+    <dynamicField name="*_sm" type="strings"  indexed="true"  stored="true"/>
+    <dynamicField name="*_sni" type="string" indexed="false" stored="true" />
+    <dynamicField name="*_smni" type="strings" indexed="false" stored="true" />
+
+    <dynamicField name="*_t"   type="text_general" indexed="true" stored="true"/>
+    <dynamicField name="*_txt" type="text_general" indexed="true" stored="true"/>
+    <dynamicField name="*_tni" type="text_unindexed" indexed="false" stored="true" />
+    <dynamicField name="*_tns" type="text_general" indexed="true" stored="false" multiValued="true" />
+    <dynamicField name="*_b"  type="boolean" indexed="true" stored="true"/>
+    <dynamicField name="*_bm" type="booleans" indexed="true" stored="true"/>
+
+    <dynamicField name="*_dt"  type="date"    indexed="true"  stored="true"/>
+    <dynamicField name="*_dtm" type="date"    indexed="true"  stored="true" multiValued="true"/>
+
+    <dynamicField name="*_sort" type="text_alphanumeric_sort" indexed="true" stored="false" />
+    <dynamicField name="*_usort" type="unicode_sort" indexed="true" stored="false" />
+
+    <!-- Automatically copy all string fields to the fulltext search -->
+    <copyField source="title" dest="fulltext" />
+    <copyField source="*_s" dest="fulltext" />
+    <copyField source="*_sm" dest="fulltext" />
+    <copyField source="*_t" dest="fulltext" />
+    <copyField source="*_txt" dest="fulltext" />
+    <copyField source="*_tni" dest="fulltext" />
+
+    <copyField source="title" dest="field_boost_tns" />
+    <copyField source="ms_summary_sm" dest="field_boost_tns" />
+
+    <!-- Enable title sorting -->
+    <field name="sort_title" type="text_alphanumeric_sort" indexed="true" stored="false" />
+    <copyField source="title" dest="sort_title" />
+
+    <uniqueKey>id</uniqueKey>
+
+    <!-- field type definitions -->
+    <fieldType name="uuid" class="solr.UUIDField" indexed="true" />
+    <fieldType name="string" class="solr.StrField" sortMissingLast="true" docValues="true" />
+    <fieldType name="strings" class="solr.StrField" sortMissingLast="true" multiValued="true" docValues="true" />
+
+    <fieldType name="boolean" class="solr.BoolField" sortMissingLast="true"/>
+    <fieldType name="booleans" class="solr.BoolField" sortMissingLast="true" multiValued="true"/>
+
+    <fieldType name="int" class="solr.TrieIntField" docValues="true" precisionStep="0" positionIncrementGap="0" />
+    <fieldType name="ints" class="solr.TrieIntField" docValues="true" precisionStep="0" positionIncrementGap="0" multiValued="true"/>
+    <fieldType name="long" class="solr.TrieLongField" docValues="true" precisionStep="0" positionIncrementGap="0"/>
+
+    <fieldType name="date" class="solr.TrieDateField" docValues="true" precisionStep="0" positionIncrementGap="0"/>
+    <fieldType name="dates" class="solr.TrieDateField" docValues="true" precisionStep="0" positionIncrementGap="0" multiValued="true"/>
+
+    <!-- used for fields of long content (greater than the 'string' field capacity) but which do not need to be indexed -->
+    <fieldType name="text_unindexed" class="solr.TextField" indexed="false" stored="true" />
+
+    <!-- field capable of supporting Unicode sorting -->
+    <fieldType name="unicode_sort" class="solr.ICUCollationField" locale="" strength="primary" numeric="true" />
+
+    <!-- minimal indexed text field -->
+    <fieldType name="text_general" class="solr.TextField" positionIncrementGap="100" multiValued="true">
+        <analyzer type="index">
+            <tokenizer class="solr.StandardTokenizerFactory"/>
+            <filter class="solr.LowerCaseFilterFactory"/>
+        </analyzer>
+        <analyzer type="query">
+            <tokenizer class="solr.StandardTokenizerFactory"/>
+            <filter class="solr.LowerCaseFilterFactory"/>
+        </analyzer>
+    </fieldType>
+
+     <!-- fulltext fields -->
+    <fieldType name="text_fulltext" class="solr.TextField" autoGeneratePhraseQueries="true" multiValued="true" termVectors="true" stored="true" positionIncrementGap="100">
+        <analyzer type="index">
+            <tokenizer class="solr.ICUTokenizerFactory" />
+            <filter class="solr.ICUFoldingFilterFactory"/>
+            <filter class="solr.WordDelimiterGraphFilterFactory" splitOnNumerics="0" preserveOriginal="1" types="wdtypes.txt" />
+            <filter class="solr.HunspellStemFilterFactory" dictionary="lang/en_GB.dic" affix="lang/en_GB.aff" ignoreCase="true" longestOnly="true" />
+            <filter class="solr.SynonymGraphFilterFactory" synonyms="synonyms.txt" ignoreCase="true" expand="true" />
+            <filter class="solr.CommonGramsFilterFactory" ignoreCase="true" words="stopwords.txt" />
+            <filter class="solr.FlattenGraphFilterFactory"/>
+        </analyzer>
+        <analyzer type="query">
+            <tokenizer class="solr.ICUTokenizerFactory" />
+            <filter class="solr.ICUFoldingFilterFactory"/>
+            <filter class="solr.WordDelimiterGraphFilterFactory" splitOnNumerics="0" preserveOriginal="1" types="wdtypes.txt" />
+            <filter class="solr.HunspellStemFilterFactory" dictionary="lang/en_GB.dic" affix="lang/en_GB.aff" ignoreCase="true" longestOnly="true" />
+            <filter class="solr.SynonymGraphFilterFactory" synonyms="synonyms.txt" ignoreCase="true" expand="true" />
+            <filter class="solr.CommonGramsQueryFilterFactory" ignoreCase="true" words="stopwords.txt" />
+        </analyzer>
+    </fieldType>
+
+    <fieldType name="text_alphanumeric_sort" class="solr.TextField" sortMissingLast="false" omitNorms="true">
+        <analyzer>
+            <!-- <charFilter class="solr.MappingCharFilterFactory" mapping="mapping-FoldToASCII.txt"/> -->
+
+            <!-- KeywordTokenizer does no actual tokenizing, so the entire
+                 input string is preserved as a single token
+            -->
+            <tokenizer class="solr.KeywordTokenizerFactory"/>
+            <filter class="solr.ICUNormalizer2FilterFactory" name="nfkc_cf" mode="compose"/>
+            <charFilter class="solr.MappingCharFilterFactory" mapping="mapping-FoldToASCII.txt"/>
+
+            <!-- The LowerCase TokenFilter does what you expect, which can be
+             when you want your sorting to be case insensitive
+            -->
+            <filter class="solr.LowerCaseFilterFactory" />
+            <!-- The TrimFilter removes any leading or trailing whitespace -->
+            <filter class="solr.TrimFilterFactory" />
+            <!-- Remove leading articles -->
+            <filter class="solr.PatternReplaceFilterFactory" pattern="^(a |the |les |la |le |l'|de la |du |des |ms. |mss. |ms |mss )" replacement="" replace="all" />
+            <!-- Left-pad numbers with zeroes -->
+            <filter class="solr.PatternReplaceFilterFactory" pattern="(\d+)" replacement="00000$1" replace="all" />
+            <!-- Left-trim zeroes to produce 6 digit numbers -->
+            <filter class="solr.PatternReplaceFilterFactory" pattern="0*([0-9]{6,})" replacement="$1" replace="all" />
+            <!-- Remove all but alphanumeric characters -->
+            <filter class="solr.PatternReplaceFilterFactory" pattern="([^a-z0-9\p{L}\.])" replacement="" replace="all" />
+        </analyzer>
+    </fieldType>
+
+    <fieldType name="text_untokenized" class="solr.TextField" multiValued="true">
+        <analyzer type="index">
+            <tokenizer class="solr.KeywordTokenizerFactory"/>
+            <filter class="solr.LowerCaseFilterFactory"/>
+        </analyzer>
+        <analyzer type="query">
+            <tokenizer class="solr.KeywordTokenizerFactory"/>
+            <filter class="solr.LowerCaseFilterFactory"/>
+        </analyzer>
+    </fieldType>
+
+</schema>

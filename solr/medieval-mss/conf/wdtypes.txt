@@ -1,1 +1,2 @@
-../../../../tei_solr_config/conf/wdtypes.txt
+# Do not split on initials in names (e.g. "E.A. Milne") or in numbers (e.g. "Shelfmark 2.1")
+. => ALPHANUM
